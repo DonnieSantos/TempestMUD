@@ -1,0 +1,881 @@
+Zone Name = #CDamascus#N
+Zone Number = 10
+Zone Size = 53
+Repop Rate = 100
+Mobiles = 14
+Terrain = Normal Flat Terrain
+Scheme = Dark Cyan
+
+ROOM 1000
+BEGIN
+#CThe North Gate#N
+An ornate wrought iron gate towers before you.
+The cobblestone road continues south and appears to be quite well kept inside.
+Beyond this gate stands the great city of Damascus, capitol of Hydecka.
+**This room is connected improperly so that the IMPs can put the zone in and see
+how it works.  Mike will submit the section necessary to connect this to the
+zone the way he intends as soon as he has a chance to finish it.
+There is a note here written to the IMPs.  Type <look note> to read it.**
+END
+LOAD_MOB 1006
+LOAD_MOB 1006
+SOUTH 1051
+WEST 100
+
+LOOK 1000 note
+BEGIN
+Hi guys. I apologize for how little I've accomplished thus far. Things
+are really kinda crazy right now and I can't devote the time and energy to this
+that I'd like. Rest assured that the City of Damascus and the Castle Damascus will be
+finished and nothing short of splendid by the beginning of summer. I'll be in touch.
+-Mike
+END
+
+LOOK 1000 gate
+BEGIN
+The gate serves as an entry way in the city wall, but is never locked as the citizens of
+Damascus fear little.
+END
+
+LOOK 1000 south
+BEGIN
+The outskirts of the capitol city Damascus are visible south of here.
+END
+
+LOOK 1000 damascus
+BEGIN
+The outskirts of the capitol city Damascus are visible south of here.
+END
+
+ROOM 1001
+BEGIN
+#CBarnett Road#N
+A well-paved way through the south-eastern section of the city, Barnett Road is the business
+home of many shopkeepers, pub owners, and other merchants, as well as the famous Damascus Academy
+of War. Hydecka's master blacksmith is just north of here and a small cafe is to the south.
+END
+NORTH 1045
+EAST 1002
+WEST 1051
+SOUTH 1046
+
+LOOK 1001 north
+BEGIN
+You are looking at a stout stone building from which Griswold, Hydecka's Master Blacksmith, has served
+the citizens of Damascus and visiting travelers for many years.
+END
+
+LOOK 1001 east
+BEGIN
+Barnett Road continues east from here.
+END
+
+LOOK 1001 west
+BEGIN
+The intersection of Hydecka Way and Barnett Road bustles just west of here.
+END
+
+LOOK 1001 south
+BEGIN
+Keelan's Kaffe is a cute little shop south of here. The aroma of coffee and pastry is barely noticeable
+through the smell of smoke rising from the blacksmith's chimney.
+END
+
+ROOM 1002
+BEGIN
+#CBarnett Road West of Academy Square#N
+The road continues east and west, populated by busy townsfolk, patrons of the local businesses, and passer-by.
+The west end of the renowned Damascus Academy of War is seen to the south and a local cleric has set up
+shop north of here to provide for the needs of those poor souls accidentally wounded in training.
+END
+NORTH 1047
+EAST 1003
+WEST 1001
+
+LOOK 1002 north
+BEGIN
+A humble-looking shop with a white door marked by a small green cross is where Joren waits to serve you.
+END
+
+LOOK 1002 east
+BEGIN
+Barnett Road continues east from here.
+END
+
+LOOK 1002 west
+BEGIN
+Barnett Road continues west from here.
+END
+
+LOOK 1002 south
+BEGIN
+The Damascus Academy of War stretches along the south side of Barnett Road and the entrance is just east of here.
+END
+
+ROOM 1003
+BEGIN
+#CBarnett Road at Academy Square#N
+The large, double door entrance to the Damascus Academy of War opens from the south into a busy town square here.
+It towers above the surrounding buildings and clamors with activity both day and night.
+Appropriately, a fine armory stands on the north end of the square, boasting weapons and equipment young
+Damascus warriors hope to use someday.
+END
+LOAD_MOB 1006
+LOAD_MOB 1006
+NORTH 1030
+EAST 1004
+WEST 1002
+SOUTH 1006
+
+LOOK 1003 north
+BEGIN
+The entrance to the Armory of Legends borders Academy Square to the north.
+END
+
+LOOK 1003 east
+BEGIN
+Barnett Road continues east from Academy Square.
+END
+
+LOOK 1003 west
+BEGIN
+Barnett Road continues west from Academy Square.
+END
+
+LOOK 1003 south
+BEGIN
+The Damascus Academy of War is a large stone structure, much like a citadel in design.
+END
+
+ROOM 1004
+BEGIN
+#CBarnett Road East of Academy Square#N
+The road continues east and west through town, bordered by the east end of the Damascus Academy
+of War to the south. The Damascus Guild of Warriors stands on the north side of the street.
+END
+NORTH 1048
+EAST 1005
+WEST 1003
+
+LOOK 1004 north
+BEGIN
+The door to the Warriors' Guild is not marked by a sign, but by two crossed swords set behind a crested shield.
+END
+
+LOOK 1004 shield
+BEGIN
+Affixed firmly to the door, the shield bears the crest of Hydecka.
+END
+
+LOOK 1004 swords
+BEGIN
+The swords crossed behind the shield appear to be the work of a skilled craftsman, however
+they don't seem to be very sharp at all.
+END
+
+LOOK 1004 east
+BEGIN
+Barnett Road continues to the east.
+END
+
+LOOK 1004 west
+BEGIN
+You see Academy Square to the west.
+END
+
+LOOK 1004 south
+BEGIN
+You see the east end of the Damascus Academy of War on the south side of the street.
+END
+
+ROOM 1005
+BEGIN
+#CBarnett Road before Chapel Street#N
+You're on Barnett Road and Mike doesn't have time to write any more. The Inn is north and
+the gambling place is south.
+END
+NORTH 1049 
+EAST 1043
+WEST 1004
+SOUTH 1050
+
+LOOK 1005 north
+BEGIN
+You see the Damascus Inn and Tavern.
+END
+
+LOOK 1005 west
+BEGIN
+Barnett Road, of course.
+END
+
+LOOK 1005 south
+BEGIN
+The Dink Arcade is here, but it is vacant now.
+END 
+
+ROOM 1006
+FLAG INDOORS
+BEGIN
+#CThe Damascus Academy of War#N
+You are standing in the entryway to the Damascus Academy of War. This academy is among the
+finest schools in all the land to begin one's study in the art of war. Most every warrior in
+the employ of Hydecka's King began their training in these very halls. The sounds of swords
+clashing and instructors shouting tactical advice fill the air as young warriors practice
+their craft. The room is dominated by a large statue of Tarkus, God Lord of Warriors, directly
+in the center of the room and there are doorways leading every direction from here.
+There is a sign on the wall here.
+END
+NORTH 1003
+EAST 1008
+WEST 1007
+SOUTH 1009
+
+LOOK 1006 statue
+BEGIN
+Tarkus looks like one bad motherfucker. No wonder they all worship him.
+END
+
+LOOK 1006 tarkus
+BEGIN
+Tarkus looks like one bad motherfucker. No wonder they all worship him.
+END
+
+LOOK 1006 sign
+BEGIN
+The School of Offense may be visited through the west door and the School of Defense to the east.
+The training halls are straight ahead through the door to the south.
+END
+
+LOOK 1006 north
+BEGIN
+The large doors of the Academy open onto Barnett Road's Academy Square.
+END
+
+LOOK 1006 east
+BEGIN
+The School of Defense
+END
+
+LOOK 1006 west
+BEGIN
+The School of Offense
+END
+
+LOOK 1006 south
+BEGIN
+The Training Halls
+END
+
+ROOM 1007
+FLAG INDOORS
+BEGIN
+#CSchool of Offense#N
+This is where you learn how to hurt people. Mike will finish it later.
+END
+EAST 1006
+UP 1010
+
+ROOM 1008
+FLAG INDOORS
+BEGIN
+#CSchool of Defense#N
+This is where you learn how not to get hurt. Mike will finish it later.
+END
+WEST 1006
+UP 1011
+
+ROOM 1009
+FLAG INDOORS
+BEGIN
+#CTraining Hall#N
+This is where mudders learn how to use the Academy to gain their first levels. Mike will finish it when
+he and Donnie decide just how it will work.
+END
+NORTH 1006
+UP 1012
+
+ROOM 1010
+FLAG INDOORS
+BEGIN
+#CUpstairs from School of Offense#N
+This room is in need of a description.
+END
+DOWN 1007
+
+ROOM 1011
+FLAG INDOORS
+BEGIN
+#CUpstairs from School of Defense#N
+This room is in need of a description.
+END
+DOWN 1008
+
+ROOM 1012
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1016
+EAST 1014
+WEST 1013
+SOUTH 1019
+UP 1021
+DOWN 1009
+
+ROOM 1013
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1015
+EAST 1012
+SOUTH 1018
+
+ROOM 1014
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1017
+WEST 1012
+SOUTH 1020
+
+ROOM 1015
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1013
+
+ROOM 1016
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1012
+
+ROOM 1017
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1014
+
+ROOM 1018
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1013
+
+ROOM 1019
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1012
+
+ROOM 1020
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1014
+
+ROOM 1021
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1025
+EAST 1023
+WEST 1022
+SOUTH 1028
+DOWN 1012
+
+ROOM 1022
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1024
+EAST 1021
+SOUTH 1027
+
+ROOM 1023
+FLAG INDOORS
+BEGIN
+#CHallway#N
+This room is in need of a description.
+END
+NORTH 1026
+WEST 1021
+SOUTH 1029
+
+ROOM 1024
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1022
+
+ROOM 1025
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1021
+
+ROOM 1026
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+SOUTH 1023
+
+ROOM 1027
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1022
+
+ROOM 1028
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1021
+
+ROOM 1029
+FLAG INDOORS
+BEGIN
+#CClassroom#N
+This room is in need of a description.
+END
+NORTH 1023
+
+ROOM 1030
+FLAG INDOORS
+BEGIN
+#CThe Armory of Legends#N
+An array of armors and weaponry adorn the walls around you in a display unlike that which you have ever
+seen before. Shiny metals reflect the flickering light of oil lamps around the large, windowless room.
+Broadswords and breastplates alike vie for your attention everywhere, but your eyes are drawn to a shiny
+golden set of ancient armor hung neatly on a stand in the corner. An oaken counter arcs in a large semi-circle
+around a doorway centered in the back wall of the armory, seperating clerk from customer.
+END
+LOAD_MOB 1001
+NORTH 1031
+SOUTH 1003
+
+LOOK 1030 shiny
+BEGIN
+It appears to be the same shiny golden armor from Small Temple on Elite, but with better stats.
+END
+
+LOOK 1030 south
+BEGIN
+You can exit the armory to Academy Square the same way you entered.
+END
+
+LOOK 1030 north
+BEGIN
+The doorway behind the counter leads to another room of the armory, but it seems inaccessable unless
+you were to try and shove your way back there. Probably not a good idea.
+END
+
+ROOM 1031
+FLAG INDOORS
+BEGIN
+#CThe Legend of the Armory#N
+So seldom visited, and only by a few, the back of the armory looks more like a residence than a shop.
+An aged wooden table accompanied by four chairs, a tall bookcase, and a large chest make up the most
+of the furnishings of this small room. A well-used grindstone just inside the door on the left is
+surely responsible for the impeccable edge found on the bladed weapons for sale in the front of the
+shop and a countertop opposite the grindstone provides a sturdy place to clean and polish pieces of
+armor. In this quiet little room is where the armory's owner spends much of his time. His attendent
+does quite well running the front of the store alone and the owner's presence is rarely required. Instead,
+he is free to polish armours and sharpen swords at his leisure.
+END
+LOAD_MOB 1000
+EAST 1032
+SOUTH 1030
+
+LOOK 1031 table
+BEGIN
+An old, well-used table sits here, surrounded by four chairs crafted of the same wood.
+END
+
+LOOK 1031 bookcase
+BEGIN
+*The bookcase will act as a door.
+END
+
+LOOK 1031 chest
+BEGIN
+*The chest will be filled with items I'll create and secured with an unpickable lock.
+END
+
+ROOM 1032
+FLAG INDOORS
+BEGIN
+#CBehind the Bookcase#N
+Obscured by the bookcase, a narrow stairwell climbs upward to a small landing.
+END
+WEST 1031
+UP 1033
+
+LOOK 1032 west
+BEGIN
+The bookcase conceals the doorway quite well.
+END
+
+LOOK 1032 up
+BEGIN
+A small, round window sheds a bit of light on the landing above.
+END
+
+ROOM 1033
+FLAG INDOORS
+BEGIN
+#CThe top of the stairwell#N
+You are at the top of the stairs on a landing covered with a small rug. There is a round window in
+the wall before you and a large oak door to your left.
+END
+WEST 1034
+DOWN 1032
+
+LOOK 1033 window
+BEGIN
+A little round window provides a limited view of Castle Hydecka and northern Damascus.
+END
+
+ROOM 1034
+FLAG INDOORS
+BEGIN
+#CA Humble Abode#N
+Surely the profits turned in a shop such as the one below you could afford someone better living quarters
+than these, but the shopkeeper is content to reside in this modest little place. A small, but cozy living
+room welcomes you inside and a comfortable looking sofa invites you to sit and stay awhile. The oak of the
+door is carried throughout the room in the crown moulding along the ceiling, around a picture window above
+the sofa, and in the baseboards along the floor. There is a large bed visible through an open doorway in the south wall.
+END
+LOAD_MOB 1007
+EAST 1033
+SOUTH 1035
+
+LOOK 1034 south
+BEGIN
+It must be a bedroom.
+END
+
+LOOK 1034 east
+BEGIN
+You see the doorway through which you entered.
+END
+
+LOOK 1034 sofa
+BEGIN
+Not too big, but overstuffed and upholstered in a soft violet material, this sofa looks like a great place to sit
+and enjoy a cup of coffee and a good book.
+END
+
+LOOK 1034 window
+BEGIN
+Castle Hydecka dominates the view from here just as it does the city around it.
+END
+
+ROOM 1035
+FLAG INDOORS
+BEGIN
+#CBedroom#N
+Little more than a bed occupies this room, although it is larger than the living room. The blankets, pillows,
+and other such adornments are neatly covering the bed and it doesn't appear to have been slept in in some time.
+There is a small, old desk in the corner of the room, bearing no apparent signs of use whatsoever. In the south
+wall over the oak headboard of the bed is a large window, framed by violet draperies. It affords a view of Academy
+Square below and the Acedemy of War opposite this place.
+END
+LOAD_MOB 1009
+LOAD_MOB 1010
+NORTH 1034
+
+LOOK 1035 bed
+BEGIN
+The bedding and pillows look as though they would provide a comfortable night's sleep, but this bed does not
+appear to have been used in quite some time.
+END
+
+LOOK 1035 desk
+BEGIN
+A small desk, presumably made of the same oak found throught this place, sits here, unused.
+END
+
+LOOK 1035 window
+BEGIN
+You see Academy Square just below you and the main entrance to the Academy of War across the road.
+END
+
+ROOM 1036
+FLAG INDOORS
+BEGIN
+#CAnother Room in the Warriors' Guild#N
+Yep, another room.
+END
+SOUTH 1048
+
+ROOM 1037
+FLAG INDOORS
+BEGIN
+#CHallway#N
+A few bedrooms are up here for tired travelers.
+END
+NORTH 1038
+EAST 1039
+WEST 1040
+SOUTH 1041
+DOWN 1049
+
+ROOM 1038
+FLAG INDOORS
+BEGIN
+#CThe #rRed#C Room#N
+This room, like the others, hasn't been furnished yet with anything other than a bed. Much to your surprise, you
+find it already occupied.
+END
+LOAD_MOB 1008
+SOUTH 1037
+
+LOOK 1038 bed
+BEGIN
+Ming Li is lying on the bed, but there's still room for one more, it seems.
+END
+
+ROOM 1039
+FLAG INDOORS
+BEGIN
+#CThe #gGreen #CRoom#N
+This room is in need of a description.
+END
+WEST 1037
+
+LOOK 1039 bed
+BEGIN
+It's a bed, alright.
+END
+
+ROOM 1040
+FLAG INDOORS
+BEGIN
+#CThe #bBlue #CRoom#N
+This room is in need of a description.
+END
+EAST 1037
+
+LOOK 1040 bed
+BEGIN
+It's a bed, alright.
+END
+
+ROOM 1041
+FLAG INDOORS
+BEGIN
+#CThe #yYellow#C Room#N
+This room is in need of a description.
+END
+NORTH 1037
+
+LOOK 1041 bed
+BEGIN
+It's a bed, alright.
+END
+
+ROOM 1042
+FLAG INDOORS
+BEGIN
+#CAnother Room#N
+Yep, another room in which to waste money.
+END
+NORTH 1050
+
+ROOM 1043
+BEGIN
+#CIntersection of Barnett Road and Chapel Street#N
+This room is in need of a description.
+END
+NORTH 1044
+WEST 1005
+
+LOOK 1043 north
+BEGIN
+Chapel Street leads north from here.
+END
+
+ROOM 1044
+BEGIN
+#CChapel Street north of Barnett Road#N
+This will be a road leading to the chapel and the northeast end of town.
+END
+SOUTH 1043
+
+LOOK 1044 north
+BEGIN
+The road is not finished, but wouldn't it be cool if it was?
+END
+
+LOOK 1044 south
+BEGIN
+Chapel Street intersects with Barnett Road just south of here.
+END
+
+ROOM 1045
+FLAG INDOORS
+BEGIN
+#CThe Damascus Blacksmith#N
+With all the weapon-bearing warriors in this town and a steady influx of travelling customers, Griswold has no
+enviable position. His work is never done, it seems, and he labors as tirelessly as the burning flames used to
+forge metals in his furnace. As busy as he is, Griswold would be happy to repair an item for you, for a
+price of course.
+END
+LOAD_MOB 1005
+SOUTH 1001
+
+LOOK 1045 south
+BEGIN
+You can exit the blacksmith's to Barnett Road.
+END
+
+ROOM 1046
+FLAG INDOORS
+BEGIN
+#CKeelan's Kaffe#N
+You enter this charming little shop and the aroma of freshly roasted coffee beans greet you just before Keelan
+does. Busy brewing fresh coffee and preparing a delightful selection of pastries and other confections, she looks
+up from her work momentarily to smile coyly at you. Several tables and a couple of couches provide places to sit
+and enjoy Keelan's wares. Perhaps you should.
+END
+LOAD_MOB 1003
+NORTH 1001
+
+LOOK 1046 north
+BEGIN
+You see the doorway, leading to Barnett Road, through which you entered.
+END
+
+LOOK 1046 couches
+BEGIN
+Two chocolate-coloured couches sit in the far corner, one against each wall, framing a large square coffee table.
+END
+
+LOOK 1046 tables
+BEGIN
+Five or six small tables and the chairs accompanying them are arranged somewhat randomly throught the cafe.
+There is a lone customer sitting at the one nearest the door.
+END
+
+LOOK 1046 customer
+BEGIN
+Matt Lann is here, drinking coffee, reading a Spanish Reader's Digest magazine, and trying not to be noticed.
+END
+
+ROOM 1047
+FLAG INDOORS
+BEGIN
+#CThe Healer's House#N
+Earth tones colour this little one room house and the scent of sage hangs heavily in the air.
+Joren the Healer resides here, preparing potions and other remedies and waiting patiently to serve his patrons.
+Wooden cupboards full of spell components, potions, and scrolls cover the west wall and a small cot rests against
+the opposite wall. There is a large table Joren works at sitting beneath an open stairwell in the back of the room.
+END
+LOAD_MOB 1002
+SOUTH 1002
+UP 1052
+
+LOOK 1047 south
+BEGIN
+The shop exits onto Barnett Road to the south.
+END
+
+LOOK 1047 cot
+BEGIN
+The cot is small and not terribly cozy, but a welcomed comfort to the wounded.
+END
+
+LOOK 1047 table
+BEGIN
+It is littered with small glass bottles for potions and the items for which to use in their preparation.
+END
+
+ROOM 1048
+FLAG INDOORS
+BEGIN
+#CThe Damascus Guild of Warriors#N
+This will be the Warrior's Guild... yep.
+END
+NORTH 1036
+SOUTH 1004
+
+ROOM 1049
+FLAG INDOORS
+BEGIN
+#CDamascus Inn and Tavern#N
+You find yourself in the most frequented tavern in all Damascus. The best ales in the land
+are imported from the far north and overflow pewter pint mugs from large wooden barrels for the
+tavern patrons. Bottles of whiskey and wine alike line the back of the huge U-shaped bar, which
+is surrounded by perhaps a dozen tables. The innkeeper, Sevi, keeps her bar customers' drinks
+full and the rooms upstairs clean and comfortable for the Inn's guests.
+END
+LOAD_MOB 1004
+SOUTH 1005
+UP 1037
+
+ROOM 1050
+FLAG INDOORS
+BEGIN
+#RGame Time#N
+The Dink Arcade is here, but it's empty. No MK II :(
+END
+ROOM_EVENT [You suddenly feel very nostalgic.] 500
+ROOM_EVENT [Dana and Frank suck at Tekken.] 100
+ROOM_EVENT [Corey walks in from the north.  Oh fuck!] 100
+NORTH 1005
+SOUTH 1042
+
+ROOM 1051
+BEGIN
+#CHydecka Way at Barnett Road#N
+Hydecka Way and Barnett Road intersect here. Barnett Road runs east and west from here and the
+well-maintained cobblestone of Hydecka Way leads north to Castle Damascus and south toward the city wall.
+END
+NORTH 1000
+EAST 1001
+
+ROOM 1052
+FLAG INDOORS
+BEGIN
+#CJoren's Room#N
+In keeping with the tradition of the priests, healers, and other clerics of the light, Joren lives
+with only the bare necessities. A small wood-burning stove sits on one side of the room and an old
+single bed lies on the other. Standing less than a meter from the stove, a little round wooden table
+offers just enough room for one man to sit and eat his meal alone.
+END
+DOWN 1047
+
+-End- 

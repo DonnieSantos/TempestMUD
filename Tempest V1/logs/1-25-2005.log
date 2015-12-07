@@ -1,0 +1,28 @@
+[3:39:35 SYSTEM                   ] Tempest Server Started.
+[3:39:47 SYSTEM                   ] 127.0.0.1 connected to server.
+[3:39:50 127.0.0.1 LOGIN          ] (VOID) genevieve
+[3:39:51 127.0.0.1 LOGIN          ] (VOID) genna
+[3:39:51 127.0.0.1 Genevieve      ] (1581) Entered the world.
+[3:39:55 127.0.0.1 Genevieve      ] (1581) goto dessideria
+[3:39:56 127.0.0.1 Genevieve      ] (1581) w
+[3:39:58 127.0.0.1 Genevieve      ] (1580) e
+[3:39:58 127.0.0.1 Genevieve      ] (1581) n
+[3:40:0 127.0.0.1 Genevieve       ] (1578) s
+[3:40:0 127.0.0.1 Genevieve       ] (1581) w
+[3:40:0 127.0.0.1 Genevieve       ] (1580) w
+[3:40:1 127.0.0.1 Genevieve       ] (1574) n
+[3:40:2 127.0.0.1 Genevieve       ] (1575) s
+[3:40:2 127.0.0.1 Genevieve       ] (1574) w
+[3:40:2 127.0.0.1 Genevieve       ] (1573) n
+[3:40:3 127.0.0.1 Genevieve       ] (1573) w
+[3:40:3 127.0.0.1 Genevieve       ] (1572) n
+[3:40:4 127.0.0.1 Genevieve       ] (1557) n
+[3:40:4 127.0.0.1 Genevieve       ] (1557) 
+[3:40:4 127.0.0.1 Genevieve       ] (1557) 
+[3:40:4 127.0.0.1 Genevieve       ] (1557) w
+[3:40:5 127.0.0.1 Genevieve       ] (1555) n
+[3:40:16 127.0.0.1 Genevieve      ] (1528) l desideria
+[3:40:19 127.0.0.1 Genevieve      ] (1528) l guard
+[3:40:21 127.0.0.1 Genevieve      ] (1528) l
+[3:40:23 127.0.0.1 Genevieve      ] (1528) quit
+[3:40:23 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.

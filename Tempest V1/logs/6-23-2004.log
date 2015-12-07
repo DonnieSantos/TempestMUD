@@ -1,0 +1,9 @@
+[22:45:43 SYSTEM                  ] Tempest Server Started.
+[22:45:46 SYSTEM                  ] 127.0.0.1 connected to server.
+[22:45:47 127.0.0.1 LOGIN         ] (VOID) Genevieve
+[22:45:48 127.0.0.1 LOGIN         ] (VOID) genna
+[22:45:48 127.0.0.1 Genevieve     ] (100) Entered the world.
+[22:45:50 127.0.0.1 Genevieve     ] (100) track harlan
+[22:46:2 127.0.0.1 Genevieve      ] (100) e
+[22:46:15 127.0.0.1 Genevieve     ] (1000) quit
+[22:46:15 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.

@@ -1,0 +1,27 @@
+[11:14:31 SYSTEM                  ] Tempest Server Started on port 7000.
+[15:42:29 143.105.81.40 LOGIN     ] (VOID) 143.105.81.40 connected to server.
+[15:42:36 SYSTEM                  ] 143.105.81.40 Account Aristal connected to server.
+[15:42:37 SYSTEM                  ] 143.105.81.40 Fhirin entering game.
+[15:42:37 143.105.81.40 Fhirin    ] (1) who
+[15:42:38 143.105.81.40 Fhirin    ] (1) users
+[15:42:38 143.105.81.40 Fhirin    ] (1) who
+[15:42:40 143.105.81.40 Fhirin    ] (1) quit
+[15:42:40 SYSTEM                  ] 143.105.81.40 Fhirin has quit the game.
+[15:42:41 SYSTEM                  ] 143.105.81.40 Account Aristal has quit the game.
+[15:42:45 143.105.81.40 LOGIN     ] (VOID) 143.105.81.40 connected to server.
+[15:42:46 SYSTEM                  ] 143.105.81.40 Account Fhirin connected to server.
+[15:42:47 SYSTEM                  ] 143.105.81.40 Aristal entering game.
+[15:42:47 143.105.81.40 Aristal   ] (232) who
+[15:42:48 143.105.81.40 Aristal   ] (232) users
+[15:42:49 143.105.81.40 Aristal   ] (232) goto 1
+[15:42:50 143.105.81.40 Aristal   ] (1) read board
+[15:42:55 143.105.81.40 Aristal   ] (1) room list imm
+[15:42:56 143.105.81.40 Aristal   ] (1) room
+[15:42:58 143.105.81.40 Aristal   ] (1) list room imm
+[15:42:59 143.105.81.40 Aristal   ] (1) goto 327
+[15:43:00 143.105.81.40 Aristal   ] (327) read board
+[15:43:03 143.105.81.40 Aristal   ] (327) read 1
+[15:43:04 143.105.81.40 Aristal   ] (327) qut
+[15:43:05 143.105.81.40 Aristal   ] (327) quit
+[15:43:05 SYSTEM                  ] 143.105.81.40 Aristal has quit the game.
+[15:43:05 SYSTEM                  ] 143.105.81.40 Account Fhirin has quit the game.

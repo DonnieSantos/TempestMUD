@@ -1,0 +1,272 @@
+Zone 30
+Items = 15
+
+ITEM: 3000
+TYPE: GENERIC
+NAME: #rRed#N Rose
+LNAME: a #rred#N rose
+GDESC: A beautiful red rose is lying here.
+LEVEL: 1
+WORTH: 1000000
+BEGIN
+The blood-red rose smells as sweet as death.
+END
+
+ITEM: 3001
+TYPE: EQUIPMENT
+NAME: Scheherazade
+LNAME: Scheherazade
+GDESC: A menacing black stiletto is lying here, glowing with a dark aura.
+LEVEL: 110
+WORTH: 100
+STATS: 200 200 0 0 0 0 0
+SREQS: 50 100 0 0 0
+CLASS: Th As Sb
+PLACE: Weapon
+BEGIN EXACT
+Lady Genevieve's legendary black stiletto glows with a dark aura.
+Its appearance is no more than that of an Odessa black stiletto,
+however any who come in proximity of it may find out the deadly truth.
+This blade has taken the lives of countless, mortal and immortal alike.
+One swipe from this abomination leaves a bright green tracer in its wake,
+and will lash out in spirit form at any target within five-hundred feet
+of the blade itself. Not a good idea to attack its wielder, especially
+not if that wielder is Genevieve.
+
+In very fine writing, there is an enscription etched on one side of
+the blade in electric, cyclone-green letters:
+
+     #n"#gHark, lightning that writhes within the ashen depths;
+      Descend now as a storm upon my foes.#n"#N
+END
+
+ITEM: 3002
+TYPE: EQUIPMENT
+NAME: The Ring of #bSpeed#N
+LNAME: the Ring of #bSpeed#N
+GDESC: A blue-black lustrous ring is lying here, glowing with electricity.
+LEVEL: 110
+STATS: 100 0 0 0 0 0 0
+SREQS: 0 200 0 0 0
+CLASS: Th As Sb
+PLACE: Both_Fingers
+FLAGS: NONE
+WORTH: 100
+BEGIN
+A blue-black lustrous ring, glowing with electricity. This ring was crafted
+by Lady Genevieve to bestow ungodly speed upon its wearer.
+END
+
+ITEM: 3003
+TYPE: EQUIPMENT
+NAME: The Ring of #RDeath#N
+LNAME: the Ring of #RDeath#N
+GDESC: A dark amber ring is lying here, pulsing with malevolence.
+LEVEL: 110
+STATS: 0 100 0 0 0 0 0
+SREQS: 200 0 0 0 0
+CLASS: Th As Sb
+PLACE: Both_Fingers
+FLAGS: NONE
+WORTH: 100
+BEGIN
+A dark amber ring, pulsing with malevolence. This ring was crafted by Lady
+Genevieve to bestow ungodly strength upon its wearer.
+END
+
+ITEM: 3004
+TYPE: EQUIPMENT
+NAME: #rBloody Rose#N Amulet
+LNAME: a #rBloody Rose#N Amulet
+GDESC: A ruby red crystal amulet is lying here, wet with blood.
+LEVEL: 110
+STATS: 10 10 0 20 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Sb
+PLACE: Neck
+FLAGS: NONE
+WORTH: 100
+BEGIN
+A ruby red crystal amulet, wet with blood. This was the first artifact created
+by Genevieve at the founding of the Order of the Bloody Rose. It is also the
+symbol carried upon the flag of might Odessa city.
+END
+
+ITEM: 3005
+TYPE: EQUIPMENT
+NAME: The Vestcoat of #gDomination#N
+LNAME: the Vestcoat of #gDomination#N
+GDESC: A black and green vestcoat is lying here.
+LEVEL: 110
+STATS: 0 0 1200 50 2500 500 2000
+SREQS: 200 200 0 0 0
+CLASS: Th As Sb
+PLACE: Body
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Lady Genevieve's black and green vestcoat. This was crafted for the sole purpose
+of divine protection. The Ravenese are not a sturdy folk, Human or God. They tend
+to rely on evasion rather than absorbtion. No other garment has ever existed that
+provided so much defense for a quick-blade or cutpurse. As such, Genevieve has
+never been hindered of body, save her unprotected eye, which is now hidden away
+beyond sight. The thick and enchanted green-black material of the vestcoat is
+seemingly impenetrable, leaving the already formidable Genevieve virtually
+invulnerable to attacks both physical and magical.
+END
+
+ITEM: 3006
+TYPE: EQUIPMENT
+NAME: An Inverted Crucifix
+LNAME: an Inverted Crucifix
+GDESC: A shiny earring with a dangling inverted cross is lying here.
+LEVEL: 110
+STATS: 5 20 0 25 0 0 0
+SREQS: 0 0 100 0 0
+CLASS: Th As Sb
+PLACE: Both_Ears
+FLAGS: NONE
+WORTH: 100
+BEGIN
+A shiny silver earring with a dangling inverted cross.
+END
+
+ITEM: 3007
+TYPE: EQUIPMENT
+NAME: A Flowing Black Cape
+LNAME: a flowing black cape
+GDESC: A flowing black cape is lying here.
+LEVEL: 110
+STATS: 0 0 50 15 0 0 0
+SREQS: 100 100 100 0 0
+CLASS: Th As Sb
+PLACE: Back
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Lady Genevieve's flowing black cape, with untold powers of protection
+and evasion. Legend says that it can render not only the wearer but the
+entire area completely invisible at the whim of its master.
+END
+
+ITEM: 3008
+TYPE: EQUIPMENT
+NAME: Black Assassin Boots
+LNAME: black assassin boots
+GDESC: A pair of sturdy black boots is lying here.
+LEVEL: 110
+STATS: 0 50 0 0 0 0 0
+SREQS: 50 50 0 0 0
+CLASS: Th As Sb
+PLACE: Feet
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Genevieve's sturdy black boots. Small, but solid.
+END
+
+ITEM: 3009
+TYPE: EQUIPMENT
+NAME: Black Spiked Wristband
+LNAME: a black spiked wristband
+GDESC: A very intimidating looking black spiked wristband is lying here.
+LEVEL: 110
+STATS: 0 75 0 0 0 0 0
+SREQS: 300 0 0 0 0
+CLASS: Th As Sb
+PLACE: Both_Wrists
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Genevieve's intimidating looking black spiked wristband. No ordinary spikes,
+these sing of many lives taken yet carry not a single bloodstain.
+END
+
+ITEM: 3010
+TYPE: EQUIPMENT
+NAME: Genevieve's Black Eyepatch
+LNAME: Genevieve's black eyepatch
+GDESC: Lady Genevieve's black eyepatch is lying here.
+LEVEL: 110
+STATS: 20 0 200 50 0 0 0
+SREQS: 0 100 0 0 100
+CLASS: Th As Sb
+PLACE: Head
+FLAGS: NONE
+INNATE: Sanctuary
+WORTH: 100
+BEGIN
+Lady Genevieve's black eyepatch of legend, that protected her wounded
+visage when she created the first diamond gates. Although it's a sad
+and somewhat gruesome story, you must admit that the eyepatch makes
+her look awfully sexy.
+END
+
+ITEM: 3011
+TYPE: EQUIPMENT
+NAME: Black Diamond Glove
+LNAME: a black diamond glove
+GDESC: A pair of black gloves is lying here.
+LEVEL: 110
+STATS: 15 20 200 40 0 0 0
+SREQS: 0 100 0 0 0
+CLASS: Th As Sb
+PLACE: Hands
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Lady Genevieve's black glove that protected her wounded visage when she
+created the first diamond gates. She has worn it ever since, out of
+remembrance, and because it looks cool.
+END
+
+ITEM: 3012
+TYPE: EQUIPMENT
+NAME: Black Shadowblade Belt
+LNAME: a black shadowblade belt
+GDESC: A black belt is lying here.
+LEVEL: 110
+STATS: 0 0 150 0 0 0 0
+SREQS: 0 100 0 0 0
+CLASS: Th As Sb
+PLACE: Waist
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Genevieve's black belt. It's a fairly lucky belt, to be around her waist all day.
+END
+
+ITEM: 3013
+TYPE: EQUIPMENT
+NAME: Black Military Pants
+LNAME: black military pants
+GDESC: A pair of black cargo pants is lying here.
+LEVEL: 110
+STATS: 0 0 400 0 0 0 0
+SREQS: 0 200 0 0 0
+CLASS: Th As Sb
+PLACE: Legs
+FLAGS: NONE
+WORTH: 100
+BEGIN
+Genevieve's black cargo pants.
+The protective and stylish choice of any respectable dominatrix.
+END
+
+ITEM: 3014
+TYPE: BLOCKER
+NAME: Two Loyal Blades
+LNAME: two Loyal Blades
+BTYPE: N clan [bloody rose]
+GDESC: #Y[+] Two Loyal Blades Guard The Open Gate [+]#N
+LEVEL: 100
+WORTH: 0
+FLAGS: NO_SACRIFICE
+BEGIN
+Upon closer examination, you see that the two statues guarding the gate are in the likeness of two female assassins.
+They strike a similar pose, each holding a dagger with a clenched fist, pointed downwards, held firmly against their
+left breast. Both have their eyes closed. The image suggests that they are giving some type of solemn salute to
+an unknown figure, with their weapons held to their hearts. Even with closed eyes, you can feel them watching you.
+END
+
+-End-

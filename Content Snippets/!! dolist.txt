@@ -1,0 +1,22 @@
+
+ -Mobile Interaction.
+ -Cycle Efficiency.
+
+ -Destroy all duplicate items at boot up.
+ -Go over the algorithms for equipping multiple-position items.
+
+ -Fix Stab & Twist and Death Blossom.
+ -Zone Alarm.
+
+ -Inter-world checks.
+ -Filling liquid containers.
+
+ -Add Wield Command.
+ -Add Left Handed Wield.
+
+ -CWRU BAckpack problem.
+ -Put get all.red all.backpack
+
+ -DAMAGE TYPES!!! (And file processing to read default type)
+
+ -ITEM PERISH

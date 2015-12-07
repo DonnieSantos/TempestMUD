@@ -1,0 +1,13 @@
+
+  Canessa     -  Leader    [ Shadow Guild            ]
+  Desideria   -  Guard     [ Captain of the Guards   ]
+  Orchid      -  Weapons   [ The Black Orchid        ]
+  Danai       -  Weapons   [ Daravon Arsenal         ]
+  Nando       -  Armor     [ The Rogue Stockpile     ]
+  Cendrillon  -  Armor     [ Cendrillon's Armory     ]
+  Zora        -  Jewelery  [ Dark Mist Jewelry Store ]
+  Laurel      -  Items     [ The Earth's Breath      ]
+  Renee       -  Inn       [ The Red Rose Inn        ]
+  Delphine    -  Bar       [ Ravenna Tavern          ]
+  Violet      -  Waitress  [ Ravenna Tavern          ]
+  Shayde      -  Special   [ Shadey Lane             ]

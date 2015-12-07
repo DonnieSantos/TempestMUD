@@ -1,0 +1,179 @@
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public String tryMove(int dir)
+
+  {
+    GOOD = false;
+
+    if ((isPlayer()) && (myClient == null))
+      return "Unposessed Immortal";
+
+    if (getPlayerState() == PSTATE_FIGHTING)
+      return "You're in the middle of a fight!";
+
+    if (getPlayerState() == PSTATE_SLEEPING)
+      return "You can't move in your sleep!";
+
+    if (getPlayerState() == PSTATE_RESTING)
+      return "Try standing up first.";
+
+    if (getPlayerState() == PSTATE_SITTING)
+      return "Try standing up first.";
+
+    if ((myClient != null) && (myClient.getClientState() == CSTATE_IMM_AT))
+      return "You can't do that.";
+
+    GOOD = true;
+
+    return getRoom().checkBlockers(this, dir);
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void move(String dir)
+
+  {
+    if (dir.equalsIgnoreCase("N")) move(DIRECTION_N);
+    else if (dir.equalsIgnoreCase("S")) move(DIRECTION_S);
+    else if (dir.equalsIgnoreCase("E")) move(DIRECTION_E);
+    else if (dir.equalsIgnoreCase("W")) move(DIRECTION_W);
+    else if (dir.equalsIgnoreCase("U")) move(DIRECTION_U);
+    else if (dir.equalsIgnoreCase("D")) move(DIRECTION_D);
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void move(int dir)
+
+  {
+    int target = 0;
+    String incoming = "";
+    String direction = "";
+    ArrayList A = new ArrayList();
+
+    if (dir == DIRECTION_N)      { target = getRoom().getN();  direction = "north";  incoming = "in from the south"; }
+    else if (dir == DIRECTION_S) { target = getRoom().getS();  direction = "south";  incoming = "in from the north"; }
+    else if (dir == DIRECTION_E) { target = getRoom().getE();  direction = "east";   incoming = "in from the west";  }
+    else if (dir == DIRECTION_W) { target = getRoom().getW();  direction = "west";   incoming = "in from the east";  }
+    else if (dir == DIRECTION_U) { target = getRoom().getU();  direction = "up";     incoming = "up from below";     }
+    else if (dir == DIRECTION_D) { target = getRoom().getD();  direction = "down";   incoming = "down from above";   }
+
+    Room last = getRoom();
+    Room current = World.getRoom(target);
+    String walks = getPName() + " walks " + direction + ".";
+    String walksin = getPName() + " walks " + incoming + ".";
+    String youwalk = "You walk " + direction + ".";
+    String otherswalk;
+
+    String leader_move = tryMove(dir);
+
+    if (target == 0) {
+      echo("There is no exit in that direction.");
+      return; }
+
+    if (leader_move != "OK") {
+      echo(leader_move);
+      return; }
+
+    for (int i=0; i<followers.size(); i++)
+
+    {
+      String temp = getFollower(i).tryMove(dir);
+
+      if ((getFollower(i).getRoom() == last) && (temp.equals("OK")))
+
+      {
+        walks += "\r\n" + getFollower(i).getPName() + " walks " + direction + ".";
+        walksin += "\r\n" + getFollower(i).getPName() + " walks " + incoming + ".";
+        youwalk += "\r\n" + getFollower(i).getPName() + " follows you.";
+        last.leave(getFollower(i), LEAVE_MOVE);
+        current.enter(getFollower(i), ENTER_MOVE);
+        A.add(getFollower(i).getName());
+      }
+    }
+
+    getRoom().leave(this, LEAVE_MOVE);
+    current.enter(this, ENTER_MOVE);
+
+    if (dir != trackDir)
+      stopTracking();
+
+    look(youwalk);
+    lookTrack();
+
+    last.pblindEcho(this, walks);
+    current.pblindEcho(this, walksin);
+
+    for (int i=0; i<followers.size(); i++)
+
+    {
+      Entity F = getFollower(i);
+
+      if (searchArrayList(A, F.getName()))
+
+      {
+        otherswalk = name + " walks " + direction + ".";
+
+        for (int j=0; j<followers.size(); j++)
+          if ((getFollower(j).getName() != F.getName()) && (searchArrayList(A,getFollower(j).getName())))
+            otherswalk += "\r\n" + getFollower(j).getPName() + " walks " + direction + ".";
+
+        if (dir == F.getTrackingDir())
+          F.stopTracking();
+
+        F.look(otherswalk + "\r\nYou follow " + name + " " + direction + ".");
+        F.lookTrack();
+      }
+
+      else if (F.getRoom() == last) {
+        String temp = F.tryMove(dir);
+        if (GOOD) F.echo(walks + "\r\n" + temp);
+        else F.echo(walks); }
+
+      else if (F.getRoom() == current)
+        F.echo(walksin);
+    }
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void speedwalk(String str)
+
+  {
+    if (myClient == null) return;
+
+    if (playerState == PSTATE_FIGHTING) {
+      echo("You're in the middle of a fight!");
+      return; }
+
+    if (str.length() == 0) return;
+
+    if (str.length() == 1) {
+      myClient.putCommand(str);
+      return; }
+
+    String s = str.substring(1, 2);
+    String num = str.substring(0, 1);
+
+    if (number(num)) {
+      int n = Integer.parseInt(num) - 1;
+      str = str.substring(1, str.length());
+      str = n + str;
+      if (str.charAt(0) == '1') str = str.substring(1, str.length());
+      else if (str.charAt(0) == '0') str = str.substring(2, str.length()); }
+
+    else {
+      str = str.substring(1, str.length());
+      s = num; }
+
+    move(s.toUpperCase());
+
+    myClient.forceCommand(str);
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////

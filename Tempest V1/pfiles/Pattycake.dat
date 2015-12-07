@@ -1,0 +1,47 @@
+NAME: Pattycake
+PASSWORD: fuckyou
+GENDER: female
+CLASS: Cleric
+HOMETOWN: #nAlmeccia#N
+CLAN: None
+RELIGION: None
+TITLE: the newbie.
+PRENAME: 
+LEVEL: 1
+ROOM_LOGGED: 3100
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 120
+CURRENT_HP: 120
+MAX_MANA: 110
+CURRENT_MANA: 110
+MAX_MOVE: 120
+CURRENT_MOVE: 120
+EXPERIENCE: 0
+STR: 1
+DEX: 1
+CON: 1
+INT: 2
+WIS: 5
+GOLD: 5000
+DPOINTS: 0
+-END- 
+
++DESCRIPTION+
+Pattycake is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

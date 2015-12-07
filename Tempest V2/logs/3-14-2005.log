@@ -1,0 +1,11 @@
+[14:12:54 143.105.8.12 LOGIN      ] (VOID) 143.105.8.12 connected to server.
+[14:12:56 SYSTEM                  ] 143.105.8.12 Account Fhirin connected to server.
+[14:12:57 SYSTEM                  ] 143.105.8.12 Aristal entering game.
+[14:12:57 143.105.8.12 Aristal    ] (1) who
+[14:12:59 143.105.8.12 Aristal    ] (1) read board
+[14:13:02 143.105.8.12 Aristal    ] (1) goto 327
+[14:13:03 143.105.8.12 Aristal    ] (327) read board
+[14:13:06 143.105.8.12 Aristal    ] (327) quit
+[14:13:06 SYSTEM                  ] 143.105.8.12 Aristal has quit the game.
+[14:13:06 SYSTEM                  ] 143.105.8.12 Account Fhirin has quit the game.
+[17:47:56 SYSTEM                  ] Tempest Server Started on port 7000.

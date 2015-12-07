@@ -1,0 +1,32 @@
+                                       
+  +-----------------------------------+-----------------------------------+
+  | Name      ::  Genevieve           | Current HP    ::  8500            |
+  | Password  ::  genna               | Maximum HP    ::  8500            |
+  | Level     ::  110                 | Natural HP    ::  6000            |
+  | Gender    ::  female              | Current MN    ::  5000            |
+  | Class     ::  Shadowblade         | Maximum MN    ::  5000            |
+  | Hometown  ::  Odessa              | Natural MN    ::  4500            |
+  | Clan      ::  Bloody Rose         | Current MV    ::  5000            |
+  | Religion  ::  None                | Maximum MV    ::  5000            |
+  | Prename   ::  Genocidal           | Natural MV    ::  3000            |
+  | Room      ::  100                 +---------------++------------------+
+  | Screen    ::  40                  | STR  ::  999  ||  HR    ::  200   |
+  | ANSI      ::  Off                 | DEX  ::  999  ||  DR    ::  500   |
+  | Color     ::  On                  | CON  ::  999  ||  AC    ::  20000 |
+  | Follow    ::  On                  | INT  ::  999  ||  MR    ::  90    |
+  | Assist    ::  Off                 | WIS  ::  999  ||  Dpts  ::  0     |
+  +-----------------------------------+---------------++------------------+
+  | Title     ::  the Shadowblade Assassin                                |
+  | Exp       ::  0                                                       |
+  | Needed    ::  0                                                       |
+  | Gold      ::  50,000,000                                              |
+  | Bank      ::  50,000,000                                              |
+  +-----------------------------------------------------------------------+
+
+  Plan?
+  Description?
+  Aliases?
+  Schedule?
+  Legend?
+  Skills / Spells?
+  Equipment?

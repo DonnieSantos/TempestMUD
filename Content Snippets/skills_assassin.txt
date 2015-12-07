@@ -1,0 +1,69 @@
+Assassin & Shadowblade Skills:
+
+Approximate Level  5:  (x)  Scout               5    5    5    5    5  (None)                 All
+Approximate Level 10:  (x)  Track              10   10   10   10   10  (Scout:20)             As Ra Rg Th Sb
+Approximate Level 10:       Hide                0   30    0   10    0  (Scout:30)             As Ra Rg Th Sb
+Approximate Level 15:       Stealth             0   40    0   15    5  (Scout:40)             As Ra Rg Th Sb
+Approximate Level 15:       Dodge               0   50    0    0    0  (None)                 As Ra Rg Th Sb Wa Mo
+Approximate Level 25:  (x)  Disarm             40   50   20   10    0  (None)                 As Ra Rg Th Sb Wa Kn Cr Dk
+Approximate Level 40:       Decoy               0  100    0   30   20  (Dodge:50)             As Sb
+Approximate Level 45:       Smoke Bomb          0  120    0   20   20  (Stealth:50)           As Sb Rg
+Approximate Level 15:  (x)  Backstab           15   35   10    5    0  (Stab and Twist:20)    As Sb Rg Th
+Approximate Level  5:  (x)  Stab and Twist      7   15    0    0    0  (None)                 As Sb Rg Th
+Approximate Level 30:  (x)  Circle Around      10   80   10   10    0  (Backstab:30)          As Sb Th
+Approximate Level 20:  (x)  Critical Hit       20   50   20    0    0  (Stab and Twist:30)    As Sb Th
+Approximate Level 20:       Dart Lore           0    0    0   20   10  (NONE YET)             As Sb Rg Th Me
+Approximate Level 20:       Whip Lore           0    0    0   20   10  (NONE YET)             As Sb Rg Th Wa Mc Me
+Approximate Level 20:       Knife Lore          0    0    0   20   10  (Stab and Twist:50)    As Sb Rg Th Ra Mc Me
+Approximate Level 20:       Bow Lore            0    0    0   20   10  (NONE YET)             As Sb Rg Th Ra Wa Pa Mc Hl Cl Me
+Approximate Level 20:       Knife Smith         0    0   40   30   20  (Knife Lore:50)        As Sb Rg Th Me
+Approximate Level 10:       Martial Arts       10   10   20    0    0  (None)                 As Mo
+Approximate Level 30:  (x)  Poison Strike      20   70   20   20   20  (Martial Arts:30)      As Mo
+Approximate Level 35:       Blinding Strike    25   80   25   25   20  (Poison Strike:30)     As Mo
+Approximate Level 40:       Lightning Strike   30   90   30   30   20  (Blinding Strike:40)   As Mo
+Approximate Level 55:  (x)  Tiger Strike       60  100   50   30   20  (Lightning Strike:50)  As Mo
+Approximate Level 50:  (x)  Death Blossom      35  150   35    0    0  (Critical Hit:60)      As Sb
+Approximate Level 70:  (x)  Heart Attack       50  200   50   10   10  (Circle Around:90)     As Sb
+Approximate Level 90:  (x)  Assassin Strike   140  190   90    0    0  (Death Blossom:60)     As Sb
+Approximate Level 95:       Murder            150  200  100    0    0  (Heart Attack:100)     As Sb
+
+  +----------------------------+---------------------------+
+  | Scout            [100/100] | Track           [100/100] |
+  | Hide             [100/100] | Stealth         [100/100] |
+  | Dodge            [100/100] | Disarm          [100/100] |
+  | Decoy            [100/100] | Smoke Bomb      [100/100] |
+  | Dart Lore        [100/100] | Whip Lore       [100/100] |
+  | Knife Lore       [100/100] | Bow Lore        [100/100] |
+  | Knife Smith      [100/100] | Martial Arts    [100/100] |
+  | Dual Weapons     [100/100] | Burst of Speed  [100/100] |  85, 86
+  | Backstab         [100/100] | Stab and Twist  [100/100] |
+  | Critical Hit     [100/100] | Circle Around   [100/100] |
+  | Poison Strike    [100/100] | Blinding Strike [100/100] |
+  | Lightning Strike [100/100] | Tiger Strike    [100/100] |
+  | Death Blossom    [100/100] | Heart Attack    [100/100] |
+  | Assassin Strike  [100/100] | Murder          [100/100] |
+  +----------------------------+---------------------------+
+
+Healer & Alchemist Skills:
+
+Approximate Level  5:  Basic Herbology     5    5    5    5    5  (None)                 All
+Approximate Level  5:  Advanced Herbology  5    5    5    5    5  (None)                 All
+Approximate Level  5:  Herbal Mastery      5    5    5    5    5  (None)                 All
+
+Basic Alchemy
+Advanced Alchemy
+Curses
+Poisons
+Transfiguration
+
+Basic Herbology
+Basic Potions
+Healing Arts
+
+  +--------------------------------+-----------------------------+
+  | Healing Arts         [100/100] | Dark Arts         [100/100] |
+  | Basic Herbology      [100/100] | Basic Alchemy     [100/100] |
+  | Advanced Herbology   [100/100] | Advanced Alchemy  [100/100] |
+  | Herbal Mastery       [100/100] | Potion Mastery    [100/100] |
+  | Healing Arts Mastery [100/100] | Dark Arts Mastery [100/100] |
+  +--------------------------------+-----------------------------+

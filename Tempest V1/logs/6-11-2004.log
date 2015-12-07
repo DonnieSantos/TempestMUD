@@ -1,0 +1,14 @@
+[15:24:27 SYSTEM                  ] Tempest Server Started.
+[15:24:30 SYSTEM                  ] 127.0.0.1 connected to server.
+[15:24:32 127.0.0.1 LOGIN         ] (VOID) genevive
+[15:24:33 127.0.0.1 CREATION      ] (VOID) no
+[15:24:34 127.0.0.1 LOGIN         ] (VOID) genevieve
+[15:24:35 127.0.0.1 LOGIN         ] (VOID) genna
+[15:24:35 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[15:24:38 127.0.0.1 Genevieve     ] (1563) load item rose
+[15:24:38 127.0.0.1 Genevieve     ] (1563) \
+[15:24:40 127.0.0.1 Genevieve     ] (1563) drop rose
+[15:24:40 127.0.0.1 Genevieve     ] (1563) \
+[15:24:41 127.0.0.1 Genevieve     ] (1563) l
+[15:24:42 127.0.0.1 Genevieve     ] (1563) quit
+[15:24:42 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.

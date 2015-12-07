@@ -1,0 +1,1037 @@
+Zone Name = #rOdessa#N
+Zone Number = 15
+Zone Size = 87
+Repop Rate = 100
+Mobiles = 24
+Terrain = Flat Terrain Normal
+Scheme = Red
+
+ROOM 1500
+FLAG NO_MOB
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Front Gate of Odessa#N
+You stand before the gate of a massive, fortified stronghold. This is the grand
+capital city of Ravenna, which is said to have been founded by Genevieve well
+over two-thousand years ago. At first glance, the rust-red portculis seems
+relatively unguarded, considering the importance of this city. Upon further
+examination of the huge granite walls to the left and right of the gate, your
+keen senses alert you to the presense of life atop the wall, and you suddenly
+feel as if there were a thousand arrows aimed at your heart. Not much can be
+seen besides the sturdy walls, aside from the obvious four towers rising up from
+the corners of the city. Riding the Southwest tower and blowing in the wind you
+can make out a large black flag with a single red rose pictured in the center.
+It is very much the color of blood.
+END
+LOAD_ITEM 1541
+LOAD_ITEM 112
+NORTH 1501
+SOUTH 3030
+
+ROOM 1501
+FLAG NO_MOB
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rInside The Front Gate#N
+Having passed the first wall, you now face a second. It was obviously the
+intention of the architect to keep out any uninvited guests; the only way to go
+from here is to the east or west, both of which pass through narrow trenches
+between the two thick walls. There are guards patrolling the trenches in both
+directions. In addition to them, you can now definitely make out archers posted
+atop the walls. Those posted on the outer wall continually scout the landscape
+for attackers, while those on the inner wall seem to be alternating their aim
+between the trenches and the inner city. Apparently the idea of honor among
+thieves is not acceptable enough for the city guards. You feel safer knowing
+this. Who knows what kind of shady characters are lurking about this place?
+END
+LOAD_MOB 1502
+LOAD_MOB 1502
+SOUTH 1500
+EAST 1529
+WEST 1502
+
+ROOM 1502
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You are in the entrance trench which leads into Odessa city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. There are guards
+patrolling the trench, and archers posted above. The Front Gate of the city is
+just east of here.
+END
+LOAD_MOB 1503
+EAST 1501
+WEST 1503
+
+ROOM 1503
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1502
+WEST 1504
+
+ROOM 1504
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1503
+WEST 1505
+
+ROOM 1505
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1504
+WEST 1506
+
+ROOM 1506
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1505
+WEST 1507
+
+ROOM 1507
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1506
+WEST 1508
+
+ROOM 1508
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1507
+WEST 1509
+
+ROOM 1509
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Southwest Corner is
+just west of here.
+END
+EAST 1508
+WEST 1510
+
+ROOM 1510
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southwest Corner#N
+You are in the Southwest Corner of the Odessa entrance trench. Your options are
+to proceed to the north, deeper into the trench, or to head east towards the
+fort gate. You also notice above you the presense of a huge, looming tower. From
+here, you can see that the tower is not empty; there are several scouts and
+archers inside. There doesn't appear to be an obvious way to get up there, but
+perhaps from the top of the wall you could see better. This tower in particular,
+unlike the other three, has a black flag rising from the top. It blows in the
+wind bearing the red rose of Odessa.
+END
+LOAD_MOB 1503
+LOAD_MOB 1503
+NORTH 1511
+EAST 1509
+
+ROOM 1511
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Southwest Corner is
+just south of here.
+END
+NORTH 1512
+SOUTH 1510
+
+ROOM 1512
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1513
+SOUTH 1511
+
+ROOM 1513
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1514
+SOUTH 1512
+
+ROOM 1514
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1515
+SOUTH 1513
+
+ROOM 1515
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1516
+SOUTH 1514
+
+ROOM 1516
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1517
+SOUTH 1515
+
+ROOM 1517
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1518
+SOUTH 1516
+
+ROOM 1518
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Northwest Corner is
+just north of here.
+END
+NORTH 1519
+SOUTH 1517
+
+ROOM 1519
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Corner#N
+You are in the Northwest Corner of the Odessa entrance trench. Your options are
+to proceed to the east, deeper into the trench, or to head south towards the
+fort gate. You also notice above you the presense of a huge, looming tower. From
+here, you can see that the tower is not empty; there are several scouts and
+archers inside. There doesn't appear to be an obvious way to get up there, but
+perhaps from the top of the wall you could see better.
+END
+LOAD_MOB 1503
+LOAD_MOB 1503
+SOUTH 1518
+EAST 1520
+
+ROOM 1520
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Northwest Corner is
+just west of here.
+END
+EAST 1521
+WEST 1519
+
+ROOM 1521
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1522
+WEST 1520
+
+ROOM 1522
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1523
+WEST 1521
+
+ROOM 1523
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1524
+WEST 1522
+
+ROOM 1524
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1525
+WEST 1523
+
+ROOM 1525
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1526
+WEST 1524
+
+ROOM 1526
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1527
+WEST 1525
+
+ROOM 1527
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northwest Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Entrance to the
+Inner City is just east of here.
+END
+LOAD_MOB 1503
+EAST 1528
+WEST 1526
+
+ROOM 1528
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rEntrance to the Inner City#N
+Blah!
+END
+LOAD_MOB 1504
+LOAD_MOB 1502
+LOAD_MOB 1502
+SOUTH 1555
+EAST 1554
+WEST 1527
+
+ROOM 1529
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You are in the entrance trench which leads into Odessa city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. There are guards
+patrolling the trench, and archers posted above. The Front Gate of the city is
+just west of here.
+END
+LOAD_MOB 1503
+EAST 1530
+WEST 1501
+
+ROOM 1530
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1531
+WEST 1529
+
+ROOM 1531
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1532
+WEST 1530
+
+ROOM 1532
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1533
+WEST 1531
+
+ROOM 1533
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1534
+WEST 1532
+
+ROOM 1534
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1535
+WEST 1533
+
+ROOM 1535
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1536
+WEST 1534
+
+ROOM 1536
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Southeast Corner is
+just east of here.
+END
+EAST 1537
+WEST 1535
+
+ROOM 1537
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Southeast Corner#N
+You are in the Southeast Corner of the Odessa entrance trench. Your options are
+to proceed to the north, deeper into the trench, or to head west towards the
+fort gate. You also notice above you the presense of a huge, looming tower. From
+here, you can see that the tower is not empty; there are several scouts and
+archers inside. There doesn't appear to be an obvious way to get up there, but
+perhaps from the top of the wall you could see better.
+END
+LOAD_MOB 1503
+LOAD_MOB 1503
+NORTH 1538
+WEST 1536
+
+ROOM 1538
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Southeast Corner is
+just south of here.
+END
+NORTH 1539
+SOUTH 1537
+
+ROOM 1539
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1540
+SOUTH 1538
+
+ROOM 1540
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1541
+SOUTH 1539
+
+ROOM 1541
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1542
+SOUTH 1540
+
+ROOM 1542
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1543
+SOUTH 1541
+
+ROOM 1543
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1544
+SOUTH 1542
+
+ROOM 1544
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+NORTH 1545
+SOUTH 1543
+
+ROOM 1545
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe East Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Northeast Corner is
+just north of here.
+END
+NORTH 1546
+SOUTH 1544
+
+ROOM 1546
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Corner#N
+You are in the Northeast Corner of the Odessa entrance trench. Your options are
+to proceed to the west, deeper into the trench, or to head south towards the
+fort gate. You also notice above you the presense of a huge, looming tower. From
+here, you can see that the tower is not empty; there are several scouts and
+archers inside. There doesn't appear to be an obvious way to get up there, but
+perhaps from the top of the wall you could see better.
+END
+LOAD_MOB 1503
+LOAD_MOB 1503
+SOUTH 1545
+WEST 1547
+
+ROOM 1547
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Northeast Corner is
+just east of here.
+END
+EAST 1546
+WEST 1548
+
+ROOM 1548
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1547
+WEST 1549
+
+ROOM 1549
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1548
+WEST 1550
+
+ROOM 1550
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1549
+WEST 1551
+
+ROOM 1551
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1550
+WEST 1552
+
+ROOM 1552
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1551
+WEST 1553
+
+ROOM 1553
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back.
+END
+EAST 1552
+WEST 1554
+
+ROOM 1554
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Northeast Trench#N
+You proceed through the trench which leads into the city. To your left and
+right, there are solid granite walls that keep you from moving too far in either
+direction. The only option is to proceed, or turn back. The Entrance to the
+Inner City is just west of here.
+END
+LOAD_MOB 1503
+EAST 1553
+WEST 1528
+
+ROOM 1555
+FLAG NO_MOB
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rInside the Capital City of Odessa#N
+[Empty Description]
+END
+NORTH 1528
+SOUTH 1559
+EAST 1557
+WEST 1556
+
+ROOM 1556
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rWest of the Entrance#N
+[Empty Description]
+END
+SOUTH 1571
+EAST 1555
+
+ROOM 1557
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rEast of the Entrance#N
+[Empty Description]
+END
+SOUTH 1572
+WEST 1555
+
+ROOM 1558
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rAgainst the Northwest Wall#N
+[Empty Description]
+END
+SOUTH 1569
+
+ROOM 1559
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Crossroads#N
+[Empty Description]
+END
+NORTH 1555
+EAST 1572
+WEST 1571
+
+ROOM 1560
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rAgainst the Northwest Wall#N
+[Empty Description]
+END
+SOUTH 1561
+
+ROOM 1561
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1560
+EAST 1568
+WEST 1567
+
+ROOM 1562
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rNearing A Dark Corner#N
+[Empty Description]
+END
+SOUTH 1565
+WEST 1563
+
+ROOM 1563
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Black Orchid#N
+You have entered the famous weapon shop of Odessa. This place is an Assassin's
+dream come true. The display case is lined with expensive knives, daggers,
+stilettos and various other types of stabbing weapons. If that sight alone were
+not enough to dazzle a young rogue, there is Orchid herself--the lovely
+knifesmith of Odessa who is world renowned for her ability to steal your heart,
+and your life, all in the same instant. The sight of her casually flipping her
+stiletto into the air strikes you with a profound notion; as with the ornate yet
+deadly-sharp knivery for sale here, it may be wise to admire the view from a
+safe distance.
+END
+LOAD_MOB 1500
+EAST 1562
+
+ROOM 1564
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rDaravon Arsenal#N
+This weapon store is owned by the legendary Daravon family, who have a grand
+history in Ravenna. They are well known for their great deeds as rogues and
+guildmasters throughout ages past. This reflects on both the quality and the
+price of the merchandise on display--There are many high quality bows, whips,
+chains and various other projectile weapons for sale. Even the shop itself is
+high-priced, with red silk curtains, a velvet carpet and crystal cabinets.
+Standing in the midst of this wealth is young Danai Daravon, the latest member
+of the family, who was named after the most famous Assassin in the clan's
+history. Danai has been given the post of running this shop, and does so with
+talent. Her delicate features and charming smile warm your heart to look at, and
+suddenly you don't mind the high prices.
+END
+LOAD_MOB 1501
+EAST 1566
+
+ROOM 1565
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe West End of Ravenna Road#N
+[Empty Description]
+END
+NORTH 1562
+SOUTH 1566
+EAST 1567
+
+ROOM 1566
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rAmethyst Alley#N
+[Empty Description]
+END
+NORTH 1565
+WEST 1564
+
+ROOM 1567
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+EAST 1561
+WEST 1565
+
+ROOM 1568
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+EAST 1569
+WEST 1561
+
+ROOM 1569
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1558
+EAST 1570
+WEST 1568
+
+ROOM 1570
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+EAST 1571
+WEST 1569
+
+ROOM 1571
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1556
+EAST 1559
+WEST 1570
+
+ROOM 1572
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1557
+EAST 1573
+WEST 1559
+
+ROOM 1573
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+EAST 1574
+WEST 1572
+
+ROOM 1574
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1575
+EAST 1580
+WEST 1573
+
+ROOM 1575
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rCendrillon's Armory#N
+The armory is a giant room filled with display cases containing fancy looking
+armours fit for rogues. Right near the entrance, the most expensive armours are
+on display; Brigandines and Circlets are mounted on decorated stands, just
+begging to be looked at. Their primary competition is Cendrillon herself, who
+just behind the counter, equally deserves to be looked at. Along the side and
+back walls, various other items are on display; sturdy gloves, boots, cloaks and
+bracers seem to be in great abundance. All of this equipment seems to be top of
+the line, and you can't seem to find anything cheap or common. Cendrillon prides
+herself on a choice selection of equipment, as can easily be inferred by her own
+expensive outfit. It looks like you'll have to try another store if you want
+something on the lower end.
+END
+LOAD_MOB 1505
+SOUTH 1574
+
+LOOK 1575 brigandine brigandines
+BEGIN
+The Brigandine is pure perfection. This glamourous vestcoat is highly decorated
+with amethysts and rubies, dotted along intricate patterns in the hard burgundy
+leather. The shoulders are plated with gold. When you put it on, you feel a rush
+of vigor and vitality. It is a superb piece of armour and also a work of art.
+END
+
+LOOK 1575 circlet circlets sanguine
+BEGIN
+A gold circlet with four bright rubies at the cardinal points. It looks fit for
+a king or a queen. The spike-like forms which contain the rubies are quite sharp
+on top, for some odd reason. The rubies themselves give the odd appearance of
+being wet with fresh blood, ready to drip at any moment.
+END
+
+ROOM 1576
+TERRAIN: Flat Terrain Normal
+BEGIN
+#r#MThe Dark Mist Jewelry Store#N#N
+This shop is draped in black curtains on all sides with a narrow opening near
+the entrance, which is visibly eminating grey mist through the drapery. The
+interior is shrouded in this cool mist, and you feel as relaxed as you could
+possibly feel in such an ominous place. Around the perimeter of the shop, there
+is not much to be seen; mostly the mist forms cloudy patches which make it look
+as if you were completely encircled and trapped. Nearing the center, however,
+there are stands and cabinets full of ornate and expensive looking jewelry, all
+decorated lavishly with precious metals and gemstones. Zora, an intimidating
+magess in black robes, stands tall behind the selection, watching the room
+carefully. To your surprise, there are no enclosures guarding these precious
+items; they are all out in the open for anybody to touch, apparently. But then
+for a split second you thought you saw a faint blue light, like invisible magic
+glass, appear over the jewelery as Zora shifted her eyes. Unless it was your
+imagination, she must have some sort of magic barrier in place, just in case she
+needs to remove some unwanted fingers.
+END
+LOAD_MOB 1507
+
+ROOM 1577
+TERRAIN: Flat Terrain Normal
+BEGIN
+#r#bA Dark Alley#N#N
+The very light seems to disappear as you make your way down this dark alley, and
+after walking a bit further you realize you've hit a dead end. You can barely
+make out the blackish brick walls in all directions but east, the way you came.
+However, just in front of you now, you can make out a cloaked figure standing in
+the darkest corner of the alley.
+END
+LOAD_MOB 1506
+EAST 1586
+
+ROOM 1578
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rThe Rogue Stockpile#N
+Enter Description.
+END
+LOAD_MOB 1508
+LOAD_MOB 1509
+SOUTH 1581
+
+ROOM 1579
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rSouthwest Corner#N
+Enter Description.
+END
+
+ROOM 1580
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+SOUTH 1583
+EAST 1581
+WEST 1574
+
+ROOM 1581
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rRavenna Road#N
+[Empty Description]
+END
+NORTH 1578
+SOUTH 1582
+WEST 1580
+
+ROOM 1582
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rLachryma Lane#N
+[Empty Description]
+END
+NORTH 1581
+SOUTH 1584
+WEST 1583
+
+ROOM 1583
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rAround The Corner#N
+[Empty Description]
+END
+NORTH 1580
+EAST 1582
+
+ROOM 1584
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rLachryma Lane#N
+[Empty Description]
+END
+NORTH 1582
+SOUTH 1585
+
+ROOM 1585
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rLachryma Lane#N
+[Empty Description]
+END
+NORTH 1584
+SOUTH 1586
+
+ROOM 1586
+TERRAIN: Flat Terrain Normal
+BEGIN
+#rLachryma Lane#N
+[Empty Description]
+END
+NORTH 1585
+WEST 1577
+
+-End-

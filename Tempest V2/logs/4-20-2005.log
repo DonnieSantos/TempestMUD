@@ -1,0 +1,20 @@
+[00:16:41 SYSTEM                  ] Tempest Server Started on port 7000.
+[00:16:49 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[00:16:53 SYSTEM                  ] 192.168.1.1 Account Donnie connected to server.
+[00:16:54 SYSTEM                  ] 192.168.1.1 Genevieve entering game.
+[00:16:58 192.168.1.1 Genevieve   ] (331) who
+[00:16:59 192.168.1.1 Genevieve   ] (331) l
+[00:17:01 192.168.1.1 Genevieve   ] (331) save
+[00:17:01 192.168.1.1 Genevieve   ] (331) quit
+[00:17:01 SYSTEM                  ] 192.168.1.1 Genevieve has quit the game.
+[00:17:02 SYSTEM                  ] 192.168.1.1 Account Donnie has quit the game.
+[01:43:54 68.170.208.115 LOGIN    ] (VOID) 68.170.208.115 connected to server.
+[01:44:06 SYSTEM                  ] 68.170.208.115 New account Aristal connected to server.
+[01:44:18 SYSTEM                  ] 68.170.208.115 Fhirin entering game.
+[01:44:19 68.170.208.115 Fhirin   ] (1) who
+[01:44:19 68.170.208.115 Fhirin   ] (1) users
+[01:44:27 68.170.208.115 Fhirin   ] (1) sp
+[01:44:28 68.170.208.115 Fhirin   ] (1) eq
+[01:44:42 68.170.208.115 Fhirin   ] (1) quit
+[01:44:42 SYSTEM                  ] 68.170.208.115 Fhirin has quit the game.
+[01:44:42 SYSTEM                  ] 68.170.208.115 Account Aristal has quit the game.

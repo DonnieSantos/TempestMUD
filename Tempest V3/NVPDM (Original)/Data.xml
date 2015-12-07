@@ -1,0 +1,38 @@
+<Collection name="MUD">
+	<Collection name="characters">
+		<Collection name="shayde">
+			<Object name="attributes">
+				<Variable name="hp" value="2000" />
+				<Variable name="mn" value="5000" />
+				<Variable name="mv" value="3000" />
+			</Object>
+			<Array name="legend">
+				<Object>
+					<Variable name="mark" value="Born." />
+					<Variable name="date" value="1978." />
+				</Object>
+				<Object>
+					<Variable name="mark" value="Died." />
+					<Variable name="date" value="2006." />
+				</Object>
+			</Array>
+		</Collection>
+		<Collection name="aristal">
+			<Object name="attributes">
+				<Variable name="hp" value="2000" />
+				<Variable name="mn" value="5000" />
+				<Variable name="mv" value="3000" />
+			</Object>
+			<Array name="legend">
+				<Object>
+					<Variable name="mark" value="Born." />
+					<Variable name="date" value="1978." />
+				</Object>
+				<Object>
+					<Variable name="mark" value="Died." />
+					<Variable name="date" value="2006." />
+				</Object>
+			</Array>
+		</Collection>
+	</Collection>
+</Collection>

@@ -1,0 +1,47 @@
+NAME: Blarg
+PASSWORD: hi
+GENDER: male
+CLASS: Mage
+HOMETOWN: #mVolaris#N
+CLAN: None
+RELIGION: None
+TITLE: the newbie.
+PRENAME: 
+LEVEL: 1
+ROOM_LOGGED: 100
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 95
+CURRENT_HP: 95
+MAX_MANA: 220
+CURRENT_MANA: 220
+MAX_MOVE: 100
+CURRENT_MOVE: 100
+EXPERIENCE: 0
+STR: 0
+DEX: 0
+CON: 0
+INT: 6
+WIS: 4
+GOLD: 5000
+DPOINTS: 0
+-END- 
+
++DESCRIPTION+
+Blarg is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

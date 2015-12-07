@@ -1,0 +1,258 @@
+Zone 10
+Mobile Types = 11
+
+1000 Harlan
+warrior shopkeeper harlan
+An old, retired warrior is here doing a lot of nothing.
+BEGIN
+Long, flowing black locks frame a pale, expressionless face. Over two meters tall and massive,
+this man appears to have been quite a warrior in another time and another place. Looking closer, you
+notice a soft violet glow in his sable eyes.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 9999
+Gold = 5000
+Gender = male
+Allign = 45
+Speed = 0
+FLAG NPC
+FLAG SKILLMASTER
+FLAG SPELLMASTER
+FLAG MERCHANT
+SKILL [Critical Hit] 0
+ACT [say Don't just stand here, code something.] 25
+ACT [/me mutters something obscene.] 50
+ACT [/me tries to grin, but somehow gets it wrong.] 80
+[End]
+
+1001 Pappsi
+pappsi attendant pappsigottcha
+Pappsi is here, running the Armory of Legends.
+BEGIN
+Pappsi hates Elite so he came here to work as an attendant of the Armory.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 9999
+Gold = 5000
+Gender = male
+Allign = 95
+Speed = 0
+FLAG NPC
+FLAG MERCHANT
+ACT [/me taps his foot impatiently.] 100
+[End]
+
+1002 Joren
+joren cleric healer
+Joren is standing here, waiting patiently for Donnie to code his healing spells.
+BEGIN
+Joren came to Damascus from the far north years ago in the service of Hydecka's King but, his task quickly
+completed, he found many others in town in need of his abilities. He stayed in Damascus, freely helping the
+rich and poor alike, wanting nothing in return, but his kindness and compassion would not provide for him a
+place to sleep and food to eat, so he opened this little shop.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 9999
+Gold = 100
+Gender = male
+Allign = 95
+Speed = 0
+FLAG NPC
+FLAG BANKER
+ACT [/me mixes a remedy from leaves, roots, and other things.] 20
+ACT [/me smiles warmly at you from beneath the hood of his robe.] 50
+[End]
+
+1003 Keelan
+keelan elf woman
+Keelan is here, attending to those in need of caffeine.
+BEGIN
+This pleasant little woman dutifully attends to her coffee shop as if it were recreation instead of business.
+Taking great pride in her coffee, Keelan roasts the beans herself daily before grinding and brewing them into the
+delight of coffee lovers throughout Damascus. She is short and slender and smiles entirely too much to be a pure
+elf, but her long blonde hair pulled neatly into a bun reveals the pointy little ears of the elven race.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 100
+Gold = 9999
+Gender = female
+Allign = 75
+Speed = 0
+FLAG BARD
+FLAG NPC
+ACT [/me smiles warmly at you.] 100
+[End]
+
+1004 Sevi
+sevi innkeeper girl
+Sevi the innkeeper would delight in meeting your needs.
+BEGIN
+At only seventeen years old, Sevi has already served Damascus patrons for four years. She has long
+strawberry-blonde hair that shines even under the dim lights of the pub and lovely blue eyes that sparkle as
+she winks at you. She will happily serve you a beer, make up your bed upstairs, or otherwise attend to your needs.
+END
+Level 17
+HP/MN = 500 500
+Stats = 1 2 3 4 5
+WStats = 5 5 500 0
+Exp = 100
+Gold = 9999
+Gender = female
+Allign = 75
+Speed = 0
+FLAG NPC
+ACT [say What can I do for you?] 40
+ACT [/me winks invitingly at you.] 120
+[End]
+
+1005 Griswold
+griswold blacksmith smith
+A stout, strong-looking man stands here, waiting for perishable weapons to be implemented.
+BEGIN
+His name won't be Griswold, but that's more or less what I pictured.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 500
+Gold = 1000000
+Gender = male
+Allign = 50
+Speed = 0
+FLAG NPC
+FLAG MERCHANT
+SELL 1000
+SELL 3000
+SELL 3100
+SELL 3101
+SELL 3102
+ACT [say What did you say? I can blow you!?] 40
+ACT [say What can I do for ya?] 120
+[End]
+
+1006 The Cityguard
+cityguard guard
+The Cityguard stands here, keeping the peace.
+BEGIN
+The Damascus Cityguard is well-armored, but even more well-trained. Once a young pupil of the Damascus
+Academy of War, his skills in battle were refined in his training at the Citadel of Hydecka north of the city,
+and perfected here in Damascus, under the instruction of Hydecka's resident Master Warrior.
+END
+Level 99
+HP/MN = 9999 9999
+Stats = 200 150 150 100 100
+WStats = 20 25 1000 33
+Exp = 500
+Gold = 0
+Gender = male
+Allign = 60
+Speed = 2000
+FLAG MOBILE
+FLAG GUARD
+ACT [/me surveys the area around him, looking for signs of trouble.] 2000
+[End]
+
+1007 Bonkers
+bonkers cat bonkey bone
+A friendly black and white cat lies here lazily.
+BEGIN
+This is one big lazy kitty, but he can be quite the adversary when he needs to be. To a rabbit, anyway.
+He is so cute and soft, you wish you had implemented the pet social already.
+END
+Level 1
+HP/MN = 100 100
+Stats = 100 100 100 100 100
+WStats = 5 5 100 100
+Exp = 100
+Gold = 100
+Gender = male
+Allign = 100
+Speed = 100
+ACT [/me looks at you wondering what you're doing here.] 20
+[End]
+
+1008 Ming
+ming li asian flower whore girl
+A young, demure asian girl lies here quite nude.
+BEGIN
+This stunning young girl is not only exceptionally beautiful, but she has an incredible work ethic also.
+Damascus isn't even finished being built and she's already here at the Inn doing what working girls do.
+Ming Li is really here waiting for Jon, but if you've gold to spend, she could be yours as well.
+END
+Level 15
+HP/MN = 100 100
+Stats = 100 100 100 100 100
+WStats = 2 2 100 100
+Exp = 40000
+Gold = 100
+Gender = female
+Allign = 100
+Speed = 100
+ACT [/me Li whispers to you, 'Wo ai ni.'] 200
+ACT [say Me love you long time.] 200
+ACT [/me licks her lips and smiles.] 200
+ACT [/me looks at you seductively.] 200
+[End]
+
+1009 Yulia
+yulia girl
+Yulia can't seem to keep her hands off of Lena.
+BEGIN
+Praise be to the Gods! This creature is one of the finest creations to ever breathe Earthly air.
+You should fall to you knees and begin worshipping her yesterday.
+END
+Level 16
+HP/MN = 100 100
+Stats = 100 100 100 100 100
+WStats = 5 5 100 50
+Exp = 100
+Gold = 50000
+Gender = female
+Allign = 100
+Speed = 100
+ACT [/me says something in Russian.  Probably something pretty hot...] 120
+ACT [/me sneaks her hand up Lena's skirt.] 130
+ACT [/me leans in and kisses Lena passionately.] 150
+ITEM 3000 10000
+ITEM 3000 10000
+WEAR 1000 5000
+[End]
+
+1010 Lena
+lena girl
+Lena half-heartedly fends off Julia's brazen advances.
+BEGIN
+Lena is one hot teen, but her lover Yulia is simply amazing. Lena is the luckiest adolescent lesbian ever and
+she doesn't even seem to know it.
+END
+Level 16
+HP/MN = 100 100
+Stats = 100 100 100 100 100
+WStats = 5 5 100 50
+Exp = 100
+Gold = 50000
+Gender = female
+Allign = 100
+Speed = 100
+ACT [say Everyone thinks we're lesbians, but we just love eachother.] 100
+ACT [/me grins mischeiviously.] 150
+ACT [/me kisses Julia passionately... it seems to take forever.] 200
+ITEM 3200 10000
+ITEM 3200 10000
+WEAR 1000 5000
+[End]
+
+-End-

@@ -1,0 +1,161 @@
+
+  +-------------------------------------------------------------+
+  |                         Zone Editor                         |
+  +-------------------------------------------------------------+
+  | Zone:     Odessa                                            |
+  | ZoneID:   15                                                |
+  | Rooms:    350                                               |
+  | Mobiles:  25                                                |
+  | Items:    55                                                |
+  | Color:    Red                                               |
+  | Terrain:  Flat Terrain Normal                               |
+  | Repop:    100%                                              |
+  +-------------------------------------------------------------+
+  | 1.) Rename Zone.                    A.) List All Rooms.     |
+  | 2.) Create New Room.                B.) List All Mobiles.   |
+  | 3.) Create New Mobile Type.         C.) List All Items.     |
+  | 4.) Create New Item Type.                                   |
+  | 5.) Modify Zone Default Color.                              |
+  | 6.) Modify Zone Default Terrain.    H.) Help!               |
+  | 7.) Modify Zone Repop Rate.         X.) Delete Zone.        |
+  +-------------------------------------------------------------+
+  | S.) Save Changes And Exit.                                  |
+  | Q.) Quit Without Saving.                                    |
+  +-------------------------------------------------------------+
+
+  +-------------------------------------------------------------+
+  |                         Room Editor                         |
+  +-------------------------------------------------------------+
+  | Room:     The Temporary Room                                |
+  | RoomID:   100                                               |
+  | Exact:    Off                                               |
+  | Exits:    2                                                 |
+  | Looks:    1                                                 |
+  | Flags:    None                                              |
+  | Actions:  None                                              |
+  | Terrain:  Flat Terrain Normal                               |
+  | Mobiles:  3                                                 |
+  | Items:    5                                                 |
+  +-------------------------------------------------------------+
+  | 1.) Rename Room.                    A.) List All Mobiles.   |
+  | 2.) Write Description.              B.) List All Items.     |
+  | 3.) Write Exact Description.        C.) Add/Remove Mobile.  |
+  | 4.) Add/Remove Room Looks.          D.) Add/Remove Item.    |
+  | 5.) Add/Remove Exit Looks.                                  |
+  | 6.) Add/Remove Room Exit.                                   |
+  | 7.) Add/Remove Room Flag.                                   |
+  | 8.) Add/Remove Room Action.         H.) Help!               |
+  | 9.) Change Terrain Type.            X.) Delete Room.        |
+  +-------------------------------------------------------------+
+  | S.) Save Changes And Exit.                                  |
+  | Q.) Quit Without Saving.                                    |
+  +-------------------------------------------------------------+
+
+  +-------------------------------------------------------------+
+  |                         Item Editor                         |
+  +-------------------------------------------------------------+
+  | Name:   Generic Item                                        |
+  | LName:  a generic item                                      |
+  | ItemID: 1                                                   |
+  | Type:   Normal                                              |
+  | Exact:  Off                                                 |
+  | Level:  1                                                   |
+  | Worth:  1                                                   |
+  | Flags:  None                                                |
+  +-------------------------------------------------------------+
+  | 1.) Change Uppercase Name.          A.) Change Item Type.   |
+  | 2.) Change Lowercase Name.          B.) Set Item Classes.   |
+  | 3.) Change Ground Description.      C.) Set Item Places.    |
+  | 4.) Write Look Description.         D.) Set Damage Type.    |
+  | 5.) Write Exact Look Description.   E.) Set Stat Bonuses.   |
+  | 6.) Modify Item Level.              F.) Set Container Max.  |
+  | 7.) Modify Stat Requirements.       G.) Set Light Ticks.    |
+  | 8.) Modify Worth.                   I.) Set Liquid Type.    |
+  | 9.) Add/Remove Flags.               J.) Set Liquid Uses.    |
+  |                                     K.) Set Board Name.     |
+  | N.) Add Contained Item.             L.) Set Blocker Type.   |
+  | O.) Add Consumable Spell.           M.) Set Blocker Dir.    |
+  | P.) Add Innate Spell.                                       |
+  | R.) Add Charged Spell.              H.) Help!               |
+  | S.) Set Number of Charges.          X.) Delete Item.        |
+  | T.) Item Repop Settings.            Q.) Save and Exit.      |
+  +-------------------------------------------------------------+
+
+  +-------------------------------------------------------------+
+  |                         Clan Editor                         |
+  +-------------------------------------------------------------+
+  | Name:     Bloody Rose                                       |
+  | ClanID:   0                                                 |
+  | Diety:    Genevieve                                         |
+  | Members:  350                                               |
+  | Ranks:    2                                                 |
+  +-------------------------------------------------------------+
+  | 1.) Rename Clan.                                            |
+  | 2.) Rename Rank.                                            |
+  | 3.) Add/Remove Rank.                                        |
+  | 4.) Write Clan Info.                H.) Help!               |
+  +-------------------------------------------------------------+
+
+Exits       (int)
+Exit Looks  (string)
+
+Look List (keys, desc)
+
+Item List (int, unique, freq)
+Mob List (int, freq)
+
+Room Actions (string, freq)
+
+Automatic Linking?
+
+ANIMATE
+INDOORS
+SILENT
+LAWFULL
+PKOK
+DONATION
+PRIVATE
+DARK
+SRHOUD
+CHURCH
+TUNNEL
+UNDERWATER
+DAMAGE
+DEATHTRAP
+GODROOM
+REGEN_HP
+REGEN_MN
+NO_TRACK
+NO_SCOUT
+NO_DISPEL
+NO_TELEPORT
+NO_MOB
+NO_QUIT
+NO_DROP
+NO_MAGIC
+NO_FLEE
+NO_SPELL
+NO_SUMMON
+
+Flat Terrain Normal
+Flat Terrain Icey
+Flat Terrain Muddy
+Flat Terrain Rocky
+Road Dirt
+Road Stone
+Mountain Level
+Mountain Hills
+Mountain Ascending
+Mountain Steep
+Forest Brush
+Forest Sparse
+Forest Dense
+Swamp Light
+Swamp Boggy
+Water Shallow
+Water Deep
+Water Sea
+Special Airborne
+Special Shimmy
+Special Repel
+Special Crawl

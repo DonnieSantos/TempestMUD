@@ -1,0 +1,266 @@
+Zone 15
+Mobile Types = 10
+
+1500 Orchid
+shadowy smith knifesmith orchid
+A shadowy female knifesmith is here handling some daggers.
+BEGIN
+Orchid is very beautiful. Her long black hair covers her cheeks and rests upon
+her shoulders, gently fluttering in the cool breeze. Her eyes are half-hidden
+under the hood of her cloak, as she listlessly stands in the midst of her Weapon
+Shop. Her lips are fixed in an icy indifference, and yet they are supple and
+lush with rose-red color. The black cape about her dark vestcoat follows her
+slender figure all the way down to her sturdy boots, which stand firm on the
+ground. Her only movement is to playfully flip about a black stiletto dagger in
+her right hand, which she does with perfect ease and graceful dexterity.
+END
+Level 99
+HP/MN = 50000 50000
+Stats = 400 400 200 200 200
+WStats = 50 50 1500 95
+Exp = 50000
+Gold = 50000
+Gender = female
+Allign = 5
+Speed = 50000
+FLAG NPC
+FLAG BANKER
+FLAG MERCHANT The Black Orchid
+SELL 1500 1501 1502 1503 1504 1505 1506 1507 1508 1509 1510 1511 1512 1513 1514 1515 1516 1517 1518 1519
+SKILL [Critical Hit] 0
+SKILL [Heart Attack] 20000
+ACT [me flips her stiletto up in the air and catches it easily.] 60
+ACT [me licks the blade of her stiletto and grins seductively.] 30
+ACT [say Knives for sale.] 15
+ACT [say Mmm..  Yes.. I have #Rjust#n the thing for you.] 10
+WEAR 1518 10000
+[End]
+
+1501 Danai
+young danai daravon
+Young Danai is here tending to the family business.
+BEGIN
+Young Danai Daravon has a soft glow about her. Although she is very cute, with
+dark layered hair that falls about her warm visage and bright green eyes, you
+can tell that she is a very capable rogue. The Daravon family is legendary in
+Ravenna, and to have earned their trust to handle the arsenal on her own says
+enough about her reliability. The Danai of legend who served Lady Genevieve
+herself was said to have held an icy countenance, yet this young girl who bears
+the same name as her ancestor shows nothing but warmth. Her youthful beauty
+alone is already enticing you to buy a shiny new weapon.
+END
+Level 80
+HP/MN = 20000 20000
+Stats = 300 300 200 200 200
+WStats = 30 30 1200 90
+Exp = 35000
+Gold = 35000
+Gender = female
+Allign = 50
+Speed = 30000
+FLAG NPC
+FLAG MERCHANT Daravon Arsenal
+SELL 1520 1521 1522 1523 1524 1525 1526 1527 1528 1529 1530 1531 1532 1533 1534 1535 1536 1537 1538 1539 1540
+SKILL [Critical Hit] 0
+SKILL [Circle Around] 15000
+ACT [smile] 150
+ACT [say Welcome to the Daravon family weapon store. May I help you with something?] 150
+ACT [me smirks happily at the customers.] 150
+ACT [say Hey, are you staring at me? I'm not for sale!] 30
+ACT [say I was named after the greatest Assassin in our family's history, Danai Daravon.] 15
+ACT [say Have you seen the statues of Danai and Jeneal? You can find them in the forest to the southeast of Odessa.] 10
+[End]
+
+1502 The Elite Guard
+elite guard
+The Elite Guard protects Odessa City with his life.
+BEGIN
+These Elite Guard seem far superior to the standard Odessa patrol squad. They
+are royal in appearance, adorned with the finest rogue equipment and weaponry.
+Their black pants and vestcoats intimate of their battle prowess, and their
+stark red capes and headbands are an emblem of their status among the guards.
+Their black belts are laiden with golden daggers with jeweled hilts, and they
+each carry a large silver spear. To enter the city, you will have to pass them
+first.
+END
+Level 99
+HP/MN = 20000 20000
+Stats = 500 500 200 100 100
+WStats = 30 30 1500 90
+Exp = 10000
+Gold = 10000
+Gender = male
+Allign = 50
+Speed = 2000
+ACT [me eyes you carefully.] 20
+[End]
+
+1503 The Trench Guard
+trench guard
+The Trench Guard is here, patrolling the area.
+BEGIN
+The Odessa Trench Patrol are highly trained rogues and rangers, very adept at
+scouting for trouble and putting a quick end to it. They wear all black, from
+their headbands to their boots. The only hint of color is the emblem of a red
+rose upon the front left pocket of their black vestcoats. They each have
+multiple daggers strapped to their belts, and some of them seem to have a bow
+tucked under their black cape. You are certain that this is not the best place
+in the world to cause any trouble.
+END
+Level 90
+HP/MN = 9999 9999
+Stats = 300 300 200 50 50
+WStats = 25 25 1200 80
+Exp = 5000
+Gold = 5000
+Gender = male
+Allign = 50
+Speed = 2000
+FLAG MOBILE
+ACT [me glances at you suspiciously.] 50
+[End]
+
+1504 Desideria
+guard captain desideria
+Desideria, the Captain of the Guards, eyes you suspiciously.
+BEGIN
+Desideria's description.
+END
+Level 99
+HP/MN = 40000 40000
+Stats = 600 600 300 120 120
+WStats = 35 35 1800 95
+Exp = 15000
+Gold = 15000
+Gender = male
+Allign = 50
+Speed = 2000
+ACT [me eyes you suspiciously.] 20
+[End]
+
+1505 Cendrillon
+girl woman armorer cendrillon
+Cendrillon is here standing watch over her armory.
+BEGIN
+Cendrillon looks more like a Knight than a Rogue; she is adorned in expensive
+armour and wears a golden horned helmet atop a head of long blonde hair. Her
+outfit is ornate and shiny, consisting mostly of silver and gold, with a long
+crimson cape which makes her look like part of the Elite Guard. Yet none of this
+decoration quite matches the rare beauty of her emerald green eyes and flaxen
+hair. You imagine that without all of the armor, she would look something like a
+princess; but as it is, she looks decidedly like a queen of war, and you have a
+feeling that this is indeed the case.
+END
+Level 99
+HP/MN = 50000 50000
+Stats = 400 400 200 200 200
+WStats = 50 50 1500 95
+Exp = 50000
+Gold = 50000
+Gender = female
+Allign = 50
+Speed = 50000
+FLAG NPC
+FLAG MERCHANT Cendrillon's Armory
+SELL 1542 1543 1544 1545 1546 1547 1548 1549 1550 1551 1552 1553 1554 1555 1556 1557 1558 1559 1560 1561 1562 1563 1564
+ACT [me looks around for potential customers.] 100
+ACT [say Welcome to the Armory. Please let me know if you need anything.] 100
+ACT [say You gonna buy something, or just stare at me all day?] 30
+ACT [me cracks her knuckles.] 15
+WEAR 1517 10000
+WEAR 1560 10000
+WEAR 1558 10000
+WEAR 1563 10000
+WEAR 1559 10000
+[End]
+
+1506 A Cloaked Figure
+cloaked figure shayde
+A Cloaked Figure is standing in the shadows.
+BEGIN
+The man standing before you, if it is a man at all, seems to be cloaked in
+darkness, although his robe gives off the faintest blue glow. The only truly
+visible area of his body is just under the hood of his robe, which is covering
+his eyes and most of his face; an electric blue glow illuminating his lower
+visage suggests that his eyes are the source of this light. It doesn't do much
+good, because his mouth is fixed in an utterly indifferent position, and you
+can't help but notice that some smallish fangs are just barely protruding from
+under his lips. You can't decide whether this is a wizard, a vampire, or just
+some insane criminal lurking in an alley. One thing is for sure, whether it be
+him or just this place; you sense magic in the air.
+END
+Level 99
+HP/MN = 90000 90000
+Stats = 500 500 500 500 500
+WStats = 70 70 3500 100
+Exp = 0
+Gold = 0
+Gender = male
+Allign = 5
+Speed = 50000
+FLAG NPC
+FLAG MERCHANT Shadey Lane
+SELL 1565 1566
+[End]
+
+1507 Zora
+mistress zora jeweler
+Dark Mistress Zora is looming over the customers suspiciously.
+BEGIN
+Enter Zora's Description.
+END
+Level 90
+HP/MN = 20000 20000
+Stats = 300 300 200 200 200
+WStats = 30 30 1200 90
+Exp = 35000
+Gold = 35000
+Gender = female
+Allign = 50
+Speed = 30000
+FLAG NPC
+FLAG MERCHANT Dark Mist Jewelry Store
+SELL 1578 1579 1580 1581 1582 1583 1595 1584 1585 1586 1587 1588 1589 1590 1591 1592 1593 1594
+[End]
+
+1508 Nando
+nando rogue
+Nando is here managing the enormous rogue stockpile.
+BEGIN
+Nando's description.
+END
+Level 99
+HP/MN = 30000 10000
+Stats = 300 300 300 300 300
+WStats = 40 40 1500 95
+Exp = 100
+Gold = 100
+Gender = female
+Allign = 50
+Speed = 2000
+FLAG NPC
+FLAG MERCHANT The Rogue Stockpile
+SELL 1619 1606 1616 1596 1569 1602 1597 1617 1607 1620 1570 1611 1571 1572 1573 1612 1621 1622
+[End]
+
+1509 Diego
+assistant diego
+Diego is doing his best to assist Nando with the customers.
+BEGIN
+Diego's description.
+END
+Level 99
+HP/MN = 30000 5000
+Stats = 300 300 300 300 300
+WStats = 30 30 1000 90
+Exp = 100
+Gold = 100
+Gender = female
+Allign = 100
+Speed = 2000
+FLAG NPC
+FLAG MERCHANT The Rogue Stockpile
+SELL 1608 1603 1600 1613 1598 1604 1614 1567 1574 1618 1568 1609 1575 1605 1601 1599 1615 1576 1610
+[End]
+
+-End- 

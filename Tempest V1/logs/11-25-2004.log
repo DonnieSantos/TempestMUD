@@ -1,0 +1,32 @@
+[0:0:22 SYSTEM                    ] Tempest Server Started.
+[0:0:34 SYSTEM                    ] 127.0.0.1 connected to server.
+[0:0:36 127.0.0.1 LOGIN           ] (VOID)  'g
+[0:0:37 127.0.0.1 LOGIN           ] (VOID) genevieve
+[0:0:37 127.0.0.1 LOGIN           ] (VOID) genna
+[0:0:37 127.0.0.1 Genevieve       ] (1575) Entered the world.
+[0:0:39 127.0.0.1 Genevieve       ] (1575) s
+[0:0:39 127.0.0.1 Genevieve       ] (1574) e
+[0:0:39 127.0.0.1 Genevieve       ] (1580) e
+[0:0:40 127.0.0.1 Genevieve       ] (1581) n
+[0:0:42 127.0.0.1 Genevieve       ] (1578) say nando list
+[0:1:51 SYSTEM                    ] 127.0.0.1 connected to server.
+[0:1:52 127.0.0.1 LOGIN           ] (VOID)  'aristal
+[0:1:53 127.0.0.1 LOGIN           ] (VOID) aristal
+[0:1:54 127.0.0.1 LOGIN           ] (VOID) chagrin
+[0:1:54 127.0.0.1 Aristal         ] (100) Entered the world.
+[0:1:55 127.0.0.1 Aristal         ] (100) goto gen
+[0:1:58 127.0.0.1 Aristal         ] (1578) say diego list
+[0:2:17 127.0.0.1 Genevieve       ] (1578) say nando list
+[0:19:35 127.0.0.1 Aristal        ] (1578) quit
+[0:19:35 SYSTEM                   ] 127.0.0.1 Aristal quit the game.
+[0:20:0 127.0.0.1 Genevieve       ] (1578) l
+[0:20:9 127.0.0.1 Genevieve       ] (1578) 
+[0:20:37 127.0.0.1 Genevieve      ] (1578) 
+[0:20:37 127.0.0.1 Genevieve      ] (1578) 
+[0:20:49 127.0.0.1 Genevieve      ] (1578) l nando
+[0:20:50 127.0.0.1 Genevieve      ] (1578) l diego
+[0:20:51 127.0.0.1 Genevieve      ] (1578) l
+[0:20:54 127.0.0.1 Genevieve      ] (1578) s
+[0:20:55 127.0.0.1 Genevieve      ] (1581) goto 1
+[0:20:55 127.0.0.1 Genevieve      ] (1581) quit
+[0:20:55 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.

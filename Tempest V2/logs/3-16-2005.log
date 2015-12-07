@@ -1,0 +1,6 @@
+[02:15:32 SYSTEM                  ] Tempest Server Started on port 7000.
+[02:15:36 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:15:38 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[05:18:35 SYSTEM                  ] Tempest Server Started on port 7000.
+[05:18:38 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[05:18:40 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.

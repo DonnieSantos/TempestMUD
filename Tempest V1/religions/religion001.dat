@@ -1,0 +1,31 @@
+Religion = #BGolgotha#N
+Diety = Genevieve
+Title = Mother of the Earth
+Members = 3
+
+[01] [Worshipper of Genevieve] [Worshipper of Genevieve]
+[02] [Disciple of Genevieve] [Disciple of Genevieve]
+[03] [#BGolgothian#N Priest] [#BGolgothian#N Priestess]
+[04] [#BGolgothian#N High Priest] [#BGolgothian#N High Priestess]
+
+[BEGIN]
+Far to the Northwest, deep within the dark forests of
+Ravenna, you will find Golgotha, the Temple of Genevieve. It
+is here that the most loyal worshippers will sojourn to pay
+homage to the Lady of Shadow in the Church of Pain. The
+Golgothian Priests and Disciples of Genevieve are fearsome,
+but also dependable. Dangerous, but also dignified. Cunning,
+but not unworthy of trust. The right kind of person will
+find this fellowship to be quite welcoming and fulfilling.
+The wrong kind of person might end up at the business end of
+a dagger. Genevieve repays loyalty with love, but casts the
+wretched aside in pieces. She decorates her very heart with
+the devotion of her loving children, but paints the walls
+with the blood of the faithless.
+[END]
+
+Genso 4 Assassin
+Justis 1 Knight
+Mayim 1 Druid
+
+-End- 

@@ -1,0 +1,38 @@
+Zone Name = #CTemporary#N
+Zone Number = 1
+Zone Size = 2
+Repop Rate = 100
+Mobiles = 0
+Terrain = Flat Terrain Normal
+Scheme = Dark Cyan
+
+ROOM 100
+FLAG LAWFULL
+FLAG NO_MOB
+TERRAIN: Flat Terrain Normal
+BEGIN
+#CThe Temporary Room#N
+Welcome to the Temporary Room. This room is here for testing purposes only, so
+don't get too attached. It will go bye-bye very soon. Enjoy it while you can.
+The Main Message Board is here for you to write on, or if you are bored, walk
+east of here to explore the city of Damascus, which is still under construction.
+END
+LOAD_ITEM 100
+LOAD_ITEM 120
+EAST 1000
+WEST 3000
+
+ROOM 101
+FLAG LAWFULL
+FLAG NO_MOB
+TERRAIN: Flat Terrain Normal
+BEGIN
+#CThe Room of the Immortals#N
+Welcome to Valhalla! Well, not really. I just wanted to say that. We needed a
+place to put the Immortal message board, so this room will hold it until we can
+think of something better.
+END
+LOAD_ITEM 101
+DOWN 100
+
+-End- 

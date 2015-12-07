@@ -1,0 +1,98 @@
+NAME: Genevieve
+PASSWORD: genna
+GENDER: female
+CLASS: Shadowblade
+HOMETOWN: #rOdessa#N
+CLAN: #rBloody Rose#N
+RELIGION: None
+TITLE: afk#N
+PRENAME: #yGenocidal #N
+LEVEL: 110
+ROOM_LOGGED: 3100
+SCREEN_SIZE: 45
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 0
+MAX_HP: 6000
+CURRENT_HP: 8500
+MAX_MANA: 4500
+CURRENT_MANA: 5000
+MAX_MOVE: 3000
+CURRENT_MOVE: 5000
+EXPERIENCE: 0
+STR: 999
+DEX: 999
+CON: 999
+INT: 999
+WIS: 999
+GOLD: 349940
+DPOINTS: 0
+SKILL: 1 100 0
+SKILL: 2 100 0
+SKILL: 3 100 0
+SKILL: 4 100 0
+SKILL: 5 100 0
+SKILL: 6 100 0
+SKILL: 7 100 0
+SKILL: 8 100 0
+SKILL: 9 100 0
+SKILL: 10 100 0
+SKILL: 11 100 0
+SKILL: 12 100 0
+SKILL: 13 100 0
+SKILL: 14 100 0
+SKILL: 15 100 0
+SKILL: 16 100 0
+SKILL: 17 100 0
+SKILL: 18 100 0
+SKILL: 19 100 0
+SKILL: 20 100 0
+SKILL: 21 100 0
+SKILL: 22 100 0
+SKILL: 23 100 0
+SKILL: 24 100 0
+SKILL: 25 100 0
+SKILL: 26 100 0
+SPELL: 1 100 0
+SPELL: 2 100 0
+SPELL: 3 100 0
+SPELL: 4 100 0
+SPELL: 5 100 0
+SPELL: 6 100 0
+SPELL: 7 0 4
+SPELL: 8 0 0
+SPELL: 9 17 86
+-END- 
+
++DESCRIPTION+
+Genevieve is looking for somebody to kill.
++END+
+
++PLAN+
+  #n|#N How loud your heart is calling, love,                     #n|#N
+  #n|#N How close the darkness at your breast,                    #n|#N
+  #n|#N How hectic are the rivers, love,                          #n|#N
+  #n|#N Drawn through your dying wrist.                           #n|#N
+  #n|#N                                                           #n|#N
+  #n|#N And love, what heat your frail skin hides,                #n|#N
+  #n|#N As pure as salt, as sweet as death,                       #n|#N
+  #n|#N And in the dark the red moon rides,                       #n|#N
+  #n|#N The foxfire of your breath.                               #n|#N
++END+
+
+Aliases = 2
+ALIAS: [db] OUTPUT: [death blossom]
+ALIAS: [v] OUTPUT: [assassin strike]
+
+Schedule Size = 1
+SCHEDULE: 0 2246983
+
+Legend Size = 5
+LEGEND: 1 [Maleficus 6000] Goddess of Deception.
+LEGEND: 1 [Maleficus 6000] Shadowblade Assassin.
+LEGEND: 1 [Domina 1250] Founded City Odessa.
+LEGEND: 1 [Vallum 650] Founded Guild Bloody Rose.
+LEGEND: 1 [Vallum 1000] Mother of the Earth.
+
+[END]

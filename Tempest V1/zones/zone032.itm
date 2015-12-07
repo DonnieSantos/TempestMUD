@@ -1,0 +1,55 @@
+Zone 32
+Items = 3
+
+ITEM: 3200
+TYPE: EQUIPMENT
+NAME: A #bBlue#N Rose
+LNAME: a #bblue#N rose
+GDESC: A beautiful blue rose is lying here.
+LEVEL: 1
+WORTH: 100
+STATS: 0 0 0 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Right_Hand
+BEGIN
+The fragrant blue rose is blooming with life.
+END
+
+ITEM: 3201
+TYPE: EQUIPMENT
+NAME: The Sword of #nTruth#N
+LNAME: the Sword of #nTruth#N
+GDESC: A shiny white sword with a golden hilt is lying here.
+LEVEL: 50
+WORTH: 100
+STATS: 25 25 0 0 0 0 0
+SREQS: 50 50 50 20 20
+CLASS: Kn Pa
+PLACE: Weapon
+BEGIN
+The sword of Lenneth, the Paladin. It shines bright white, with a magnificent
+golden hilt. In the center of the hilt there is a electric blue sapphire
+encircled in white diamonds. The blade is long and slender with a snow-white
+shine and holy silver edge.
+END
+
+ITEM: 3202
+TYPE: EQUIPMENT
+NAME: The Shield of #bFaith#N
+LNAME: the Shield of #bFaith#N
+GDESC: A shiny white shield with a blue cross emblazoned upon it is lying here.
+LEVEL: 50
+WORTH: 100
+STATS: 0 0 50 50 0 0 0
+SREQS: 50 50 50 20 20
+CLASS: Kn Pa
+PLACE: Shield
+BEGIN
+The shield of Lenneth, the Paladin. It shines bright white, with a blue cross
+emblazoned upon the center. The outer rim is laced with silver and white
+diamonds, while the center shines silver of re-enforced plated steel, magically
+sealed by the Gods to protect the bearer against all evil.
+END
+
+-End- 

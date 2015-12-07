@@ -1,0 +1,210 @@
+Balancing Item Stats
+                            ______________________
+
+ Health/Mana/Movement Chart:
+
+ At the following levels, the different classes should (if they balanced their
+ stats in a common fashion) end up with something around these numbers.  It is
+ possible to get way less or way more, but that's not necessary to take into
+ account for the purposes of making balanced equipment, since they will suffer
+ other losses for their sacrifice.
+  
+      Lv       Warrior          Thief           Cleric            Mage
+    +----+---------------+----------------+----------------+----------------+
+    | 1  | 210  45  190  | 140  70   135  | 120  110  120  | 95   20   100  |
+    | 5  | 300  65  280  | 200  110  220  | 170  185  190  | 135  340  170  |
+    | 10 | 450  100 400  | 280  160  330  | 240  280  280  | 190  490  250  |
+    | 20 | 700  150 650  | 460  270  560  | 400  500  475  | 300  800  430  |
+    | 30 | 1000 200 900  | 650  380  800  | 550  730  650  | 440  1150 620  |
+    | 40 | 1300 250 1100 | 850  490  1050 | 725  980  860  | 590  1500 805  |
+    | 50 | 1700 300 1400 | 1100 600  1300 | 900  1260 1050 | 740  1850 980  |
+    | 60 | 2100 350 1700 | 1300 700  1550 | 1090 1550 1250 | 890  2250 1180 |
+    | 70 | 2400 400 2000 | 1600 850  1850 | 1300 1850 1450 | 1050 2650 1350 |
+    | 80 | 2800 450 2300 | 1850 950  2100 | 1500 2200 1700 | 1190 3100 1560 |
+    | 90 | 3200 550 2600 | 2100 1050 2400 | 1750 2550 1900 | 1350 3550 1750 |
+    | 99 | 3600 600 2800 | 2300 1200 2600 | 1950 2900 2100 | 1480 3950 1900 |
+    +----+---------------+----------------+----------------+----------------+
+
+ These numbers represent NATURAL stats, meaning with no equipment modifiers.
+ Equipment in a SPECIFIC Full Kit should not exceed 150 % of the natural stat.
+
+ For example, a Level 99 Warrior in a hitpoint kit should not be able to get
+ much more than (3600 * 1.5) which is 5400.  If equipment exists that allows
+ such a character to attain well over this amount (in this case, well over
+ 5400 hp) then the equipment either needs some negative modifiers, or a
+ reduction in the specified health bonus.
+ 
+ -------------------------------------------------------------------------------
+ 
+ Character Statistics Chart:
+
+ The following chart very loosley represents what the AVERAGE BALANCED
+ character might have for statistics. These are generalized for each class
+ type, so they will vary if you have a special class.  For example, a Knight
+ might have more armorclass but less damage than a Warrior, and a Death
+ Knight would have more damage and less armorclass.
+
+ These are a very general reference. You will have to adjust these numbers
+ depending on which specific class you are of this class type, and also what
+ type of equipment this particular character is outfitted in.
+
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+ | Warrior | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+             | Lv. 1  | 5   | 2   | 3   | 0   | 0   | 0   | 1   | 40   | 0   |
+             | Lv. 25 | 50  | 25  | 40  | 7   | 5   | 6   | 6   | 320  | 15  |
+             | Lv. 50 | 100 | 50  | 75  | 15  | 10  | 12  | 12  | 600  | 30  |
+             | Lv. 75 | 150 | 75  | 115 | 20  | 20  | 18  | 18  | 900  | 45  |
+             | Lv. 99 | 200 | 100 | 150 | 25  | 25  | 25  | 25  | 1200 | 65  |
+             +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+ | Thief   | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+             | Lv. 1  | 2   | 5   | 2   | 1   | 0   | 0   | 1   | 25   | 0   |
+             | Lv. 25 | 40  | 50  | 25  | 7   | 5   | 5   | 5   | 210  | 10  |
+             | Lv. 50 | 75  | 100 | 50  | 15  | 10  | 10  | 10  | 400  | 20  |
+             | Lv. 75 | 115 | 150 | 75  | 20  | 20  | 15  | 15  | 600  | 30  |
+             | Lv. 99 | 150 | 200 | 100 | 25  | 25  | 20  | 20  | 800  | 40  |
+             +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+ | Cleric  | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+             | Lv. 1  | 1   | 1   | 1   | 2   | 5   | 1   | 0   | 20   | 0   |
+             | Lv. 25 | 6   | 20  | 25  | 25  | 50  | 5   | 4   | 140  | 15  |
+             | Lv. 50 | 12  | 40  | 50  | 50  | 100 | 8   | 7   | 290  | 35  |
+             | Lv. 75 | 18  | 60  | 75  | 75  | 150 | 11  | 11  | 440  | 50  |
+             | Lv. 99 | 25  | 75  | 100 | 100 | 200 | 15  | 15  | 600  | 70  |
+             +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+ | Mage    | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |
+ +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+             | Lv. 1  | 0   | 0   | 0   | 6   | 4   | 1   | 0   | 15   | 0   |
+             | Lv. 25 | 6   | 12  | 25  | 60  | 25  | 2   | 2   | 130  | 20  |
+             | Lv. 50 | 12  | 25  | 50  | 125 | 50  | 4   | 4   | 250  | 40  |
+             | Lv. 75 | 18  | 37  | 65  | 190 | 75  | 7   | 7   | 375  | 60  |
+             | Lv. 99 | 25  | 50  | 75  | 250 | 100 | 9   | 9   | 500  | 80  |
+             +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+
+
+ Remember to make adjustments for CLASS and KIT! A Shadowblade is more
+ geared for damage than an Assassin, with less protection. They would most
+ likely be interested, then, in doing more damage with their equipment. Thus
+ you would want to keep in mind all possible outfits for a Shadowblade that
+ add damage, and keep it balanced. This is the type of thing you must
+ consider at all times when balancing equipment for each class.
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+
+                          Balancing Mobile Stats
+                         ________________________
+
+ You can use the following formulas to calculate the complete average for
+ every statistic a mobile might have at a given level. You can of course
+ make mobiles much weaker or stronger than average. However using these
+ numbers should give you a point of reference.
+
+                  +--------------------------------------+
+                  | Health        -  (Level * 100) + 100 |
+                  | Mana          -  (Level * 100) + 100 |
+                  |                                      |
+                  | Strength      -  (Level * 2)   + 2   |
+                  | Dexterity     -  (Level * 1.5) + 2   |
+                  | Constitution  -  (Level * 1.5) + 2   |
+                  | Intelligence  -  (Level * 1)   + 1   |
+                  | Wisdom        -  (Level * 1)   + 1   |
+                  |                                      |
+                  | Hitroll       -  (Level / 5)  + 1    |
+                  | Damroll       -  (Level / 4)  + 1    |
+                  | Armorclass    -  (Level * 10) + 10   |
+                  | Resistance    -  (Level / 3)         |
+                  |                                      |
+                  | Experience    -  (Level * 1000)      |
+                  | Gold          -  (Level * 10) / 2    |
+                  +--------------------------------------+
+
+ One very important thing to know is that normally, equipment stats such
+ as Hitroll, Damroll, Armorclass and Resistance are only added by putting
+ on equipment. However, since the majority of combat effectiveness comes
+ from equipment stats, mobiles need to have these stats available with
+ no equipment on, so that they can still be tough. So when you set the
+ values of HR, DR, AC and MR, keep in mind that these are assuming your
+ mob is unarmed. If you give them equipment, you'll have to tone down
+ your their innate equipment stats to compensate.
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+
+Balancing Item Prices
+                           _______________________
+
+ This chart represents how much gold characters should have at certan
+ levels. The three columns represent whether they are poor, average, or
+ rich. Keep in mind that the tendency on a MUD is to get way more gold
+ than anyone anticipated possible, so keep gold rare, shop equipment
+ expensive, and mobile popped or found equipment relatively low-worth
+ in price, even if it's a very useful item. Keeping gold rare, and thus
+ making economy an important aspect of the game, is a high priority
+ of Tempest MUD.
+
+                 +-------------------------------------------+
+                 | Level     Minimum     Average     Loaded  |
+                 +-------------------------------------------+
+                 | 1         100         250         500     |
+                 | 2         200         500         1000    |
+                 | 5         500         1,000       2,000   |
+                 | 10        750         1,500       3,000   |
+                 | 20        1,500       3,000       6,000   |
+                 | 30        3,000       5,000       10,000  |
+                 | 40        7,000       15,000      30,000  |
+                 | 50        12,500      25,000      50,000  |
+                 | 60        25,000      50,000      100,000 |
+                 | 70        50,000      100,000     200,000 |
+                 | 80        100,000     200,000     400,000 |
+                 | 90        175,000     350,000     700,000 |
+                 | 99        250,000     500,000     1 Mil   |
+                 +-------------------------------------------+
+
+ -------------------------------------------------------------------------------
+
+ Shop Item Prices:
+
+ A sold weapon should cost between 50% and 200% of the Level Average.
+ A sold piece of armor should cost between 25% and 200% of the Level Average.
+ A sold non-equipable item should be priced based on its usefulness. 
+
+ (refer to the above chart for the level averages)
+ 
+ If this is not totally clear, take a look at the standard equipment lists.
+ Take the standard Thief equipment sold at Odessa as an example. Many of the
+ daggers are expensive, usually costing much more than the level average.
+ The same goes for armor that is somewhat large or expensive, like jewelry
+ or body armor. But items such as gloves or belts would be far less
+ expensive, as low as 20-25% of the level average.
+
+ Also keep in mind the very important PERISH flag. This is imporant in terms
+ of MUD economy, because an expensive item that has the perish flag on it
+ will be lost when death occurs, and you will have to buy another one. Try
+ to make magical items, important items, or expensive items PERISH if
+ possible. Most important items above level 50 should be PERISH.
+ 
+ -------------------------------------------------------------------------------
+ 
+ Mobile Item Values:
+
+ Items that mobiles pop/load should be relatively low-worth.
+ These formulas can help estimate values based on level:
+
+ Worthless Item  -  (Mobile Level * 10) / 2
+ Average Item    -  (Mobile Level * 10) * 2
+ Good Item       -  (Mobile Level * 10) * 5
+ Valuable Item   -  (Mobile Level * 10) * 20 
+ Rare Item       -  (Mobile Level * 10) * 50
+ 
+ Keep in mind that in MUDs, selling items is usually only
+ truly profitable when selling to other people, who will not
+ care about hard-coded worth. In this respect, it is fair to
+ keep the worth's very, very low.

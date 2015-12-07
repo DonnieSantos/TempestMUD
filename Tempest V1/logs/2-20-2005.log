@@ -1,0 +1,86 @@
+[19:6:57 SYSTEM                   ] Tempest Server Started.
+[19:7:20 SYSTEM                   ] 127.0.0.1 connected to server.
+[19:7:23 127.0.0.1 LOGIN          ] (VOID)  'genevieve
+[19:7:25 127.0.0.1 LOGIN          ] (VOID) genevieve
+[19:7:26 127.0.0.1 LOGIN          ] (VOID) genna
+[19:7:26 127.0.0.1 Genevieve      ] (1580) Entered the world.
+[19:7:28 127.0.0.1 Genevieve      ] (1580) goto trench
+[19:7:31 127.0.0.1 Genevieve      ] (1502) l trench
+[19:7:48 127.0.0.1 Genevieve      ] (1502) l
+[19:8:15 127.0.0.1 Genevieve      ] (1502) 
+[19:8:15 127.0.0.1 Genevieve      ] (1502) 
+[19:8:16 127.0.0.1 Genevieve      ] (1502) goto elite
+[19:8:18 127.0.0.1 Genevieve      ] (1501) l elite
+[19:8:39 127.0.0.1 Genevieve      ] (1501) 
+[19:8:40 127.0.0.1 Genevieve      ] (1501) l
+[19:8:41 127.0.0.1 Genevieve      ] (1501) uses
+[19:8:42 127.0.0.1 Genevieve      ] (3030) n
+[19:8:43 127.0.0.1 Genevieve      ] (1500) 
+[19:8:43 127.0.0.1 Genevieve      ] (1500) n
+[19:8:44 127.0.0.1 Genevieve      ] (1500) n
+[19:8:45 127.0.0.1 Genevieve      ] (1500) open port
+[19:8:45 127.0.0.1 Genevieve      ] (1500) n
+[19:8:46 127.0.0.1 Genevieve      ] (1501) e
+[19:8:46 127.0.0.1 Genevieve      ] (1529) e
+[19:8:47 127.0.0.1 Genevieve      ] (1530) e
+[19:8:47 127.0.0.1 Genevieve      ] (1531) e
+[19:8:47 127.0.0.1 Genevieve      ] (1532) e
+[19:8:47 127.0.0.1 Genevieve      ] (1533) e
+[19:8:47 127.0.0.1 Genevieve      ] (1534) e
+[19:8:48 127.0.0.1 Genevieve      ] (1534) e
+[19:8:48 127.0.0.1 Genevieve      ] (1535) e
+[19:8:50 127.0.0.1 Genevieve      ] (1537) egoto desideria
+[19:8:53 127.0.0.1 Genevieve      ] (1537) goto 
+[19:8:54 127.0.0.1 Genevieve      ] (1537) goto
+[19:8:56 127.0.0.1 Genevieve      ] (1537) go desideria
+[19:8:59 127.0.0.1 Genevieve      ] (1528) l desideria
+[19:9:0 127.0.0.1 Genevieve       ] (1528) l
+[19:9:3 127.0.0.1 Genevieve       ] (1528) l
+[19:9:9 127.0.0.1 Genevieve       ] (1528) s
+[19:9:9 127.0.0.1 Genevieve       ] (1555) s
+[19:9:10 127.0.0.1 Genevieve      ] (1559) s
+[19:9:10 127.0.0.1 Genevieve      ] (1559) s
+[19:9:10 127.0.0.1 Genevieve      ] (1559) s
+[19:9:10 127.0.0.1 Genevieve      ] (1559) s
+[19:9:12 127.0.0.1 Genevieve      ] (1559) save
+[19:9:12 127.0.0.1 Genevieve      ] (1559) quit
+[19:9:12 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.
+[20:17:5 SYSTEM                   ] Tempest Server Started.
+[20:17:8 SYSTEM                   ] 127.0.0.1 connected to server.
+[20:17:10 127.0.0.1 LOGIN         ] (VOID) genevieve
+[20:17:11 127.0.0.1 LOGIN         ] (VOID) genna
+[20:17:11 127.0.0.1 Genevieve     ] (1559) Entered the world.
+[20:17:12 127.0.0.1 Genevieve     ] (1559) s
+[20:17:13 127.0.0.1 Genevieve     ] (1559) goto 1
+[20:17:14 127.0.0.1 Genevieve     ] (1559) goto 100
+[20:17:15 127.0.0.1 Genevieve     ] (100) w
+[20:17:16 127.0.0.1 Genevieve     ] (3000) w
+[20:17:17 127.0.0.1 Genevieve     ] (3030) n
+[20:17:22 127.0.0.1 Genevieve     ] (1500) ilist port
+[20:17:34 127.0.0.1 Genevieve     ] (1500) quit
+[20:17:34 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[20:20:9 SYSTEM                   ] 127.0.0.1 connected to server.
+[20:20:11 127.0.0.1 LOGIN         ] (VOID) geneviee
+[20:20:12 127.0.0.1 CREATION      ] (VOID) n
+[20:20:13 127.0.0.1 LOGIN         ] (VOID) genevieve
+[20:20:13 127.0.0.1 LOGIN         ] (VOID) genna
+[20:20:13 127.0.0.1 Genevieve     ] (1500) Entered the world.
+[20:20:15 127.0.0.1 Genevieve     ] (1500) l port
+[20:20:21 127.0.0.1 Genevieve     ] (1500) exit
+[20:20:22 127.0.0.1 Genevieve     ] (1500) quit
+[20:20:22 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[23:20:34 SYSTEM                  ] Tempest Server Started.
+[23:20:39 SYSTEM                  ] 127.0.0.1 connected to server.
+[23:20:46 127.0.0.1 LOGIN         ] (VOID) genevieve
+[23:20:49 127.0.0.1 LOGIN         ] (VOID) genna
+[23:20:49 127.0.0.1 Genevieve     ] (1500) Entered the world.
+[23:20:55 127.0.0.1 Genevieve     ] (1500) rlist cll
+[23:20:57 127.0.0.1 Genevieve     ] (1500) rlist cell
+[23:20:59 127.0.0.1 Genevieve     ] (1500) goto 3100
+[23:21:44 127.0.0.1 Genevieve     ] (3100) save
+[23:21:45 127.0.0.1 Genevieve     ] (3100) quit
+[23:21:45 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[23:22:33 SYSTEM                  ] 192.168.1.1 connected to server.
+[23:22:33 SYSTEM                  ] 192.168.1.1 LOGGING IN went linkdead during login.
+[23:22:36 SYSTEM                  ] 192.168.1.1 connected to server.
+[23:22:36 SYSTEM                  ] 192.168.1.1 LOGGING IN went linkdead during login.

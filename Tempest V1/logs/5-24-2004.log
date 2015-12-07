@@ -1,0 +1,10 @@
+[3:3:5 SYSTEM                     ] Tempest Server Started.
+[3:3:9 SYSTEM                     ] 192.168.1.1 connected to server.
+[3:3:10 192.168.1.1 LOGIN         ] (VOID)  'g
+[3:3:11 192.168.1.1 LOGIN         ] (VOID) Genevieve
+[3:3:11 192.168.1.1 LOGIN         ] (VOID) genna
+[3:3:12 192.168.1.1 Genevieve     ] (1563) Entered the world.
+[3:3:12 192.168.1.1 Genevieve     ] (1563) stat
+[3:3:24 192.168.1.1 Genevieve     ] (1563) cast shield gen
+[3:3:25 192.168.1.1 Genevieve     ] (1563) stat
+[3:6:22 SYSTEM                    ] 192.168.1.1 Genevieve went linkdead in-game.

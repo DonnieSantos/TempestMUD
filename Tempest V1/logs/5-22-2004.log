@@ -1,0 +1,77 @@
+[12:17:32 SYSTEM                  ] Tempest Server Started.
+[12:17:43 SYSTEM                  ] 192.168.1.1 connected to server.
+[12:17:54 192.168.1.1 LOGIN       ] (VOID) genevieve
+[12:17:55 192.168.1.1 LOGIN       ] (VOID) genna
+[12:17:55 192.168.1.1 Genevieve   ] (100) Entered the world.
+[12:17:57 192.168.1.1 Genevieve   ] (100) who
+[12:17:59 192.168.1.1 Genevieve   ] (100) ilsit
+[12:18:0 192.168.1.1 Genevieve    ] (100) imm
+[12:18:4 SYSTEM                   ] 192.168.1.1 Genevieve went linkdead in-game.
+[12:18:7 SYSTEM                   ] 192.168.1.1 connected to server.
+[12:18:8 192.168.1.1 LOGIN        ] (VOID)  'g
+[12:18:11 192.168.1.1 LOGIN       ] (VOID) Genevieve
+[12:18:11 192.168.1.1 LOGIN       ] (VOID) genna
+[12:18:11 SYSTEM                  ] 192.168.1.1 reconnected to 192.168.1.1 Genevieve.
+[12:18:13 192.168.1.1 Genevieve   ] (100) who
+[12:18:14 192.168.1.1 Genevieve   ] (100) imm
+[12:18:19 192.168.1.1 Genevieve   ] (100) eq
+[12:20:52 192.168.1.1 Genevieve   ] (100) l
+[12:25:39 SYSTEM                  ] Tempest Server Started.
+[12:25:43 SYSTEM                  ] 192.168.1.1 connected to server.
+[12:25:44 192.168.1.1 LOGIN       ] (VOID)  'g
+[12:25:46 192.168.1.1 LOGIN       ] (VOID) Genevieve
+[12:25:46 192.168.1.1 LOGIN       ] (VOID) genna
+[12:25:46 192.168.1.1 Genevieve   ] (100) Entered the world.
+[12:25:49 192.168.1.1 Genevieve   ] (100) goto orchid
+[12:25:53 192.168.1.1 Genevieve   ] (1563) say hi orchid
+[12:25:57 192.168.1.1 Genevieve   ] (1563) say Orchid list
+[12:26:0 192.168.1.1 Genevieve    ] (1563) goto guard
+[12:26:2 192.168.1.1 Genevieve    ] (1051) e
+[12:26:2 192.168.1.1 Genevieve    ] (1001) scout
+[12:26:4 192.168.1.1 Genevieve    ] (1001) e
+[12:26:5 192.168.1.1 Genevieve    ] (1002) scout
+[12:26:6 192.168.1.1 Genevieve    ] (1002) w
+[12:26:9 192.168.1.1 Genevieve    ] (1001) scout
+[12:26:10 192.168.1.1 Genevieve   ] (1001) w
+[12:26:43 192.168.1.1 Genevieve   ] (1051) l
+[12:26:44 192.168.1.1 Genevieve   ] (1051) e
+[12:26:46 192.168.1.1 Genevieve   ] (1001) kill guard
+[12:26:51 192.168.1.1 Genevieve   ] (1001) kill guard
+[12:26:52 192.168.1.1 Genevieve   ] (1001) l
+[12:26:53 192.168.1.1 Genevieve   ] (1001) n
+[12:26:55 192.168.1.1 Genevieve   ] (1045) kill guard
+[12:26:58 192.168.1.1 Genevieve   ] (1045) stat
+[12:27:4 192.168.1.1 Genevieve    ] (1045) goto orchid
+[12:27:6 192.168.1.1 Genevieve    ] (1563) kill orchid
+[12:27:6 192.168.1.1 Genevieve    ] (1563) v
+[12:27:11 192.168.1.1 Genevieve   ] (1563) cast burst
+[12:27:16 192.168.1.1 Genevieve   ] (1563) cast gem missile
+[12:27:18 192.168.1.1 Genevieve   ] (1563) cast fireball
+[12:27:20 192.168.1.1 Genevieve   ] (1563) \
+[12:27:23 192.168.1.1 Genevieve   ] (1563) starb
+[12:27:24 192.168.1.1 Genevieve   ] (1563) stab
+[12:28:31 192.168.1.1 Genevieve   ] (1563) spells
+[12:28:32 192.168.1.1 Genevieve   ] (1563) skills
+[12:29:34 192.168.1.1 Genevieve   ] (1563) stat
+[12:29:43 SYSTEM                  ] 192.168.1.1 connected to server.
+[12:29:46 192.168.1.1 LOGIN       ] (VOID)  'Christ
+[12:29:48 192.168.1.1 LOGIN       ] (VOID) Chris
+[12:29:50 192.168.1.1 CREATION    ] (VOID) yes
+[12:29:52 192.168.1.1 CREATION    ] (VOID) hi
+[12:29:53 192.168.1.1 CREATION    ] (VOID) ye
+[12:29:54 192.168.1.1 CREATION    ] (VOID) m
+[12:29:55 192.168.1.1 CREATION    ] (VOID) w
+[12:29:56 192.168.1.1 CREATION    ] (VOID) 1
+[12:29:56 192.168.1.1 Chris       ] (100) Entered the world.
+[12:29:58 192.168.1.1 Chris       ] (100) level
+[12:29:59 192.168.1.1 Chris       ] (100) stat
+[12:30:11 192.168.1.1 Chris       ] (100) add str
+[12:30:11 192.168.1.1 Chris       ] (100) \
+[12:30:12 192.168.1.1 Chris       ] (100) \
+[12:30:12 192.168.1.1 Chris       ] (100) \
+[12:30:12 192.168.1.1 Chris       ] (100) \
+[12:30:13 192.168.1.1 Chris       ] (100) \
+[12:30:13 192.168.1.1 Chris       ] (100) \
+[12:30:15 192.168.1.1 Chris       ] (100) stat
+[12:35:37 SYSTEM                  ] 192.168.1.1 Genevieve went linkdead in-game.
+[12:35:40 SYSTEM                  ] 192.168.1.1 Chris went linkdead in-game.

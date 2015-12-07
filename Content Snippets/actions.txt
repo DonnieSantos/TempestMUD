@@ -1,0 +1,17 @@
+      Action A1 = new Action(0);
+      A1.setOwner(null);
+      A1.setRandom(false);
+      A1.setRepeats(true);
+      A1.addCommand("move 0", 0);
+      A1.addCommand("evaluate evil", 0);
+      A1.addCommand("targetecho #yYou have been hit by lightning!", 0);
+      A1.addCommand("othersecho #y% has been hit by lightning!", 0);
+      A1.addCommand("damagerand 50 200", 1, 10);
+      actionList.add(A1);
+
+    Action A1 = new Action(0);
+    A1.setOwner(this);
+    A1.addCommand("evaluate evil", 0);
+    A1.addCommand("attackrand assassin", 1);
+
+    responseList[RESPONSE_AGGRO] = A1;

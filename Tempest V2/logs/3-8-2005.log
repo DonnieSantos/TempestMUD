@@ -1,0 +1,19 @@
+[20:14:34 143.105.8.12 LOGIN      ] (VOID) 143.105.8.12 connected to server.
+[20:14:37 SYSTEM                  ] 143.105.8.12 Bad password on Fhirin.
+[20:14:37 SYSTEM                  ] 143.105.8.12 Bad password on Fhirin.
+[20:14:38 SYSTEM                  ] 143.105.8.12 Account Fhirin connected to server.
+[20:14:39 SYSTEM                  ] 143.105.8.12 Aristal entering game.
+[20:14:40 143.105.8.12 Aristal    ] (1) who
+[20:14:41 143.105.8.12 Aristal    ] (1) users
+[20:14:42 143.105.8.12 Aristal    ] (1) erad board
+[20:14:43 143.105.8.12 Aristal    ] (1) erad board
+[20:14:45 143.105.8.12 Aristal    ] (1) read board
+[20:14:47 143.105.8.12 Aristal    ] (1) goto 1
+[20:14:48 143.105.8.12 Aristal    ] (1) read board
+[20:14:51 143.105.8.12 Aristal    ] (1) goto 307
+[20:14:54 143.105.8.12 Aristal    ] (307) list room imm
+[20:14:56 143.105.8.12 Aristal    ] (307) goto 327
+[20:14:58 143.105.8.12 Aristal    ] (327) read board
+[20:14:59 143.105.8.12 Aristal    ] (327) quit
+[20:14:59 SYSTEM                  ] 143.105.8.12 Aristal has quit the game.
+[20:14:59 SYSTEM                  ] 143.105.8.12 Account Fhirin has quit the game.

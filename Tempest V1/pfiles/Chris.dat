@@ -1,0 +1,47 @@
+NAME: Chris
+PASSWORD: hi
+GENDER: male
+CLASS: Warrior
+HOMETOWN: #CHydecka#N
+CLAN: None
+RELIGION: None
+TITLE: the newbie.
+PRENAME: 
+LEVEL: 2
+ROOM_LOGGED: 100
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 235
+CURRENT_HP: 235
+MAX_MANA: 50
+CURRENT_MANA: 50
+MAX_MOVE: 213
+CURRENT_MOVE: 213
+EXPERIENCE: 0
+STR: 10
+DEX: 2
+CON: 3
+INT: 0
+WIS: 0
+GOLD: 5000
+DPOINTS: 0
+-END- 
+
++DESCRIPTION+
+Chris is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

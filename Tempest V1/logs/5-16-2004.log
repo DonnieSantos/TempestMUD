@@ -1,0 +1,190 @@
+[1:4:6 SYSTEM                     ] 68.170.210.116 connected to server.
+[1:4:8 68.170.210.116 LOGIN       ] (VOID)  '
+[1:4:9 68.170.210.116 LOGIN       ] (VOID) Aristal
+[1:4:10 68.170.210.116 LOGIN      ] (VOID) chagrin
+[1:4:10 68.170.210.116 Aristal    ] (100) Entered the world.
+[1:4:10 68.170.210.116 Aristal    ] (100) 
+[1:4:13 68.170.210.116 Aristal    ] (100) who
+[1:4:14 68.170.210.116 Aristal    ] (100) users
+[1:4:16 68.170.210.116 Aristal    ] (100) l
+[1:4:16 68.170.210.116 Aristal    ] (100) e
+[1:4:17 68.170.210.116 Aristal    ] (1000) s
+[1:4:17 68.170.210.116 Aristal    ] (1051) e
+[1:4:18 68.170.210.116 Aristal    ] (1001) wn
+[1:4:18 68.170.210.116 Aristal    ] (1000) wern
+[1:4:19 68.170.210.116 Aristal    ] (1000) wernwern
+[1:4:19 68.170.210.116 Aristal    ] (1000) wrnw
+[1:4:19 68.170.210.116 Aristal    ] (1000) ernwer
+[1:4:20 68.170.210.116 Aristal    ] (1000) asdf
+[1:4:20 68.170.210.116 Aristal    ] (1000) as
+[1:4:20 68.170.210.116 Aristal    ] (1000) df
+[1:4:21 68.170.210.116 Aristal    ] (1000) sadfsdfjalfsa
+[1:4:24 68.170.210.116 Aristal    ] (1000) bored
+[1:4:27 68.170.210.116 Aristal    ] (1000) quit
+[1:4:27 SYSTEM                    ] 68.170.210.116 Aristal quit the game.
+[13:35:25 SYSTEM                  ] Tempest Server Started.
+[13:35:31 SYSTEM                  ] 192.168.1.1 connected to server.
+[13:35:33 192.168.1.1 LOGIN       ] (VOID) Genevieve
+[13:35:34 192.168.1.1 LOGIN       ] (VOID) genna
+[13:35:34 192.168.1.1 Genevieve   ] (1563) Entered the world.
+[13:35:51 192.168.1.1 Genevieve   ] (1563) load item 1519
+[13:35:54 192.168.1.1 Genevieve   ] (1563) load item 1563
+[13:36:1 192.168.1.1 Genevieve    ] (1563) sac heart
+[13:36:2 192.168.1.1 Genevieve    ] (1563) inv
+[13:36:9 192.168.1.1 Genevieve    ] (1563) load item black orchid
+[13:36:10 192.168.1.1 Genevieve   ] (1563) inv
+[13:36:21 192.168.1.1 Genevieve   ] (1563) load item 1563
+[13:36:24 192.168.1.1 Genevieve   ] (1563) load item 1558
+[13:36:27 192.168.1.1 Genevieve   ] (1563) sac brig
+[13:36:27 192.168.1.1 Genevieve   ] (1563) inv
+[13:36:40 192.168.1.1 Genevieve   ] (1563) load item 1559
+[13:36:43 192.168.1.1 Genevieve   ] (1563) load item 1561
+[13:36:56 192.168.1.1 Genevieve   ] (1563) load item 1587
+[13:36:56 192.168.1.1 Genevieve   ] (1563) \
+[13:37:5 192.168.1.1 Genevieve    ] (1563) load item 1556
+[13:37:6 192.168.1.1 Genevieve    ] (1563) \
+[13:37:8 192.168.1.1 Genevieve    ] (1563) drop all
+[13:37:17 192.168.1.1 Genevieve   ] (1563) load item 1583
+[13:37:19 192.168.1.1 Genevieve   ] (1563) drop medal
+[13:37:25 192.168.1.1 Genevieve   ] (1563) load item 1588
+[13:37:26 192.168.1.1 Genevieve   ] (1563) \
+[13:37:28 192.168.1.1 Genevieve   ] (1563) drop all
+[13:37:32 SYSTEM                  ] 192.168.1.1 connected to server.
+[13:37:33 192.168.1.1 LOGIN       ] (VOID) Remy
+[13:37:35 192.168.1.1 LOGIN       ] (VOID) hi
+[13:37:35 192.168.1.1 Remy        ] (100) Entered the world.
+[13:37:36 192.168.1.1 Remy        ] (100) e
+[13:37:37 192.168.1.1 Remy        ] (1000) w
+[13:37:40 192.168.1.1 Genevieve   ] (1563) l
+[13:37:42 192.168.1.1 Genevieve   ] (1563) get all
+[13:37:44 192.168.1.1 Genevieve   ] (1563) l
+[13:37:45 192.168.1.1 Genevieve   ] (1563) goto remy
+[13:37:46 192.168.1.1 Genevieve   ] (100) drop all
+[13:37:49 192.168.1.1 Remy        ] (100) get all
+[13:38:1 192.168.1.1 Remy         ] (100) inv
+[13:38:5 192.168.1.1 Remy         ] (100) eq
+[13:38:9 192.168.1.1 Remy         ] (100) sac cape
+[13:38:19 192.168.1.1 Remy        ] (100) remove metal
+[13:38:20 192.168.1.1 Remy        ] (100) sac metal
+[13:38:24 192.168.1.1 Remy        ] (100) remove boots
+[13:38:25 192.168.1.1 Remy        ] (100) sac boots
+[13:38:27 192.168.1.1 Remy        ] (100) eq
+[13:38:29 192.168.1.1 Remy        ] (100) remove gloves
+[13:38:31 192.168.1.1 Remy        ] (100) sac gloves
+[13:38:32 192.168.1.1 Remy        ] (100) wear all
+[13:38:32 192.168.1.1 Remy        ] (100) inv
+[13:38:38 192.168.1.1 Remy        ] (100) eq
+[13:38:42 192.168.1.1 Remy        ] (100) remove cape
+[13:38:43 192.168.1.1 Remy        ] (100) eq
+[13:38:43 192.168.1.1 Remy        ] (100) inv
+[13:38:59 192.168.1.1 Genevieve   ] (100) inv
+[13:39:0 192.168.1.1 Genevieve    ] (100) eq
+[13:39:5 192.168.1.1 Remy         ] (100) wear cape
+[13:39:7 192.168.1.1 Remy         ] (100) sac rose
+[13:39:8 192.168.1.1 Remy         ] (100) inv
+[13:39:10 192.168.1.1 Remy        ] (100) eq
+[13:39:13 192.168.1.1 Remy        ] (100) remove rose
+[13:39:14 192.168.1.1 Remy        ] (100) sac rose
+[13:39:15 192.168.1.1 Remy        ] (100) inv
+[13:39:16 192.168.1.1 Remy        ] (100) wear black
+[13:39:26 192.168.1.1 Remy        ] (100) eq
+[13:39:34 192.168.1.1 Genevieve   ] (100) l
+[13:39:44 192.168.1.1 Remy        ] (100) title the #rAssassin
+[13:39:45 192.168.1.1 Remy        ] (100) stat
+[13:39:50 192.168.1.1 Remy        ] (100) l remy
+[13:40:4 192.168.1.1 Remy         ] (100) ilist belt
+[13:40:7 192.168.1.1 Remy         ] (100) l
+[13:40:10 192.168.1.1 Genevieve   ] (100) ilist belt
+[13:40:17 192.168.1.1 Genevieve   ] (100) lskdjf
+[13:40:27 192.168.1.1 Genevieve   ] (100) l
+[13:40:33 192.168.1.1 Genevieve   ] (100) load item 1622
+[13:40:36 192.168.1.1 Genevieve   ] (100) load item 1621
+[13:40:38 192.168.1.1 Genevieve   ] (100) give all remy
+[13:40:42 192.168.1.1 Remy        ] (100) wear red
+[13:40:43 192.168.1.1 Remy        ] (100) stat
+[13:40:44 192.168.1.1 Remy        ] (100) eq
+[13:40:45 192.168.1.1 Remy        ] (100) count
+[13:41:0 192.168.1.1 Genevieve    ] (100) eq
+[13:41:5 192.168.1.1 Remy         ] (100) eq
+[13:41:11 192.168.1.1 Genevieve   ] (100) ilist gloves
+[13:41:18 192.168.1.1 Genevieve   ] (100) load item 1612
+[13:41:21 192.168.1.1 Genevieve   ] (100) give gloves remy
+[13:41:24 192.168.1.1 Remy        ] (100) wear all
+[13:41:28 192.168.1.1 Remy        ] (100) eq
+[13:41:42 192.168.1.1 Remy        ] (100) remove gloves
+[13:41:44 192.168.1.1 Remy        ] (100) wear gloves
+[13:41:51 192.168.1.1 Remy        ] (100) eq
+[13:41:57 192.168.1.1 Genevieve   ] (100) eq
+[13:42:3 192.168.1.1 Remy         ] (100) eq
+[13:42:9 192.168.1.1 Genevieve    ] (100) eq
+[13:42:24 192.168.1.1 Genevieve   ] (100) ilist head
+[13:42:29 192.168.1.1 Genevieve   ] (100) load item 1572
+[13:42:32 192.168.1.1 Genevieve   ] (100) load item 1573
+[13:42:35 192.168.1.1 Genevieve   ] (100) give all.headband remy
+[13:42:37 192.168.1.1 Genevieve   ] (100) save
+[13:42:37 192.168.1.1 Genevieve   ] (100) quit
+[13:42:37 SYSTEM                  ] 192.168.1.1 Genevieve quit the game.
+[13:42:40 192.168.1.1 Remy        ] (100) inv
+[13:42:43 192.168.1.1 Remy        ] (100) wear red headband
+[13:42:44 192.168.1.1 Remy        ] (100) eq
+[13:42:45 192.168.1.1 Remy        ] (100) save
+[13:42:46 192.168.1.1 Remy        ] (100) stat
+[13:42:50 192.168.1.1 Remy        ] (100) who -s
+[13:42:52 192.168.1.1 Remy        ] (100) save
+[13:42:52 192.168.1.1 Remy        ] (100) quit
+[13:42:52 SYSTEM                  ] 192.168.1.1 Remy quit the game.
+[18:25:29 SYSTEM                  ] Tempest Server Started.
+[18:25:51 SYSTEM                  ] 127.0.0.1 connected to server.
+[18:25:52 127.0.0.1 LOGIN         ] (VOID)  'g
+[18:25:53 127.0.0.1 LOGIN         ] (VOID) genevieve
+[18:25:54 127.0.0.1 LOGIN         ] (VOID) genna
+[18:25:54 127.0.0.1 Genevieve     ] (100) Entered the world.
+[18:25:54 127.0.0.1 Genevieve     ] (100) n
+[18:25:55 127.0.0.1 Genevieve     ] (100) l n
+[18:25:59 SYSTEM                  ] 127.0.0.1 Genevieve went linkdead in-game.
+[19:3:11 SYSTEM                   ] Tempest Server Started.
+[19:3:27 SYSTEM                   ] 192.168.1.1 connected to server.
+[19:3:37 192.168.1.1 LOGIN        ] (VOID) testcharone
+[19:3:39 192.168.1.1 CREATION     ] (VOID) y
+[19:3:47 192.168.1.1 CREATION     ] (VOID) chagrin
+[19:3:48 192.168.1.1 CREATION     ] (VOID) y
+[19:3:57 192.168.1.1 CREATION     ] (VOID) M
+[19:4:1 192.168.1.1 CREATION      ] (VOID) wa
+[19:4:3 192.168.1.1 CREATION      ] (VOID) 2
+[19:4:3 192.168.1.1 Testcharone   ] (100) Entered the world.
+[19:4:31 192.168.1.1 Testcharone  ] (100) quit
+[19:4:31 SYSTEM                   ] 192.168.1.1 Testcharone quit the game.
+[19:20:6 SYSTEM                   ] 192.168.1.1 connected to server.
+[19:20:8 SYSTEM                   ] 192.168.1.1 LOGGING IN went linkdead during login.
+[23:2:23 SYSTEM                   ] 192.168.1.1 connected to server.
+[23:2:27 192.168.1.1 LOGIN        ] (VOID) genevieve
+[23:2:28 192.168.1.1 LOGIN        ] (VOID) genna
+[23:2:28 192.168.1.1 Genevieve    ] (100) Entered the world.
+[23:2:29 192.168.1.1 Genevieve    ] (100) who
+[23:2:30 192.168.1.1 Genevieve    ] (100) users
+[23:2:32 192.168.1.1 Genevieve    ] (100) l
+[23:2:32 192.168.1.1 Genevieve    ] (100) w
+[23:2:34 192.168.1.1 Genevieve    ] (3000) n
+[23:2:34 192.168.1.1 Genevieve    ] (3001) w
+[23:2:35 192.168.1.1 Genevieve    ] (3001) s
+[23:2:35 192.168.1.1 Genevieve    ] (3000) w
+[23:2:36 192.168.1.1 Genevieve    ] (3030) n
+[23:2:38 192.168.1.1 Genevieve    ] (1500) goto 100
+[23:2:39 192.168.1.1 Genevieve    ] (100) ilist
+[23:2:40 192.168.1.1 Genevieve    ] (100) ilist all
+[23:2:41 192.168.1.1 Genevieve    ] (100) zlist all
+[23:2:43 192.168.1.1 Genevieve    ] (100) who
+[23:2:44 192.168.1.1 Genevieve    ] (100) savew
+[23:2:45 192.168.1.1 Genevieve    ] (100) qui
+[23:2:46 192.168.1.1 Genevieve    ] (100) saveui
+[23:2:47 192.168.1.1 Genevieve    ] (100) save
+[23:2:47 192.168.1.1 Genevieve    ] (100) quit
+[23:2:47 SYSTEM                   ] 192.168.1.1 Genevieve quit the game.
+[23:52:49 SYSTEM                  ] 68.170.210.116 connected to server.
+[23:52:50 68.170.210.116 LOGIN    ] (VOID) Aristal
+[23:52:50 68.170.210.116 LOGIN    ] (VOID) chagrin
+[23:52:50 68.170.210.116 Aristal  ] (1000) Entered the world.
+[23:52:55 68.170.210.116 Aristal  ] (1000) goto 100
+[23:55:48 68.170.210.116 Aristal  ] (100) users
+[23:55:49 68.170.210.116 Aristal  ] (100) quit
+[23:55:49 SYSTEM                  ] 68.170.210.116 Aristal quit the game.

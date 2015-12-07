@@ -1,0 +1,103 @@
+[15:43:20 SYSTEM                  ] Tempest Server Started.
+[15:43:35 SYSTEM                  ] 127.0.0.1 connected to server.
+[15:43:37 127.0.0.1 LOGIN         ] (VOID) geneviev
+[15:43:38 127.0.0.1 CREATION      ] (VOID) n
+[15:43:39 127.0.0.1 LOGIN         ] (VOID) genevieve
+[15:43:40 127.0.0.1 LOGIN         ] (VOID) genna
+[15:43:40 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[15:43:43 127.0.0.1 Genevieve     ] (1563) goto 1
+[15:43:44 127.0.0.1 Genevieve     ] (1563) goto 0
+[15:43:46 127.0.0.1 Genevieve     ] (1563) goto 100
+[15:43:49 127.0.0.1 Genevieve     ] (100) l
+[15:43:50 127.0.0.1 Genevieve     ] (100) inv
+[15:43:51 127.0.0.1 Genevieve     ] (100) tog ansi
+[15:43:52 127.0.0.1 Genevieve     ] (100) l
+[15:43:56 127.0.0.1 Genevieve     ] (100) l
+[15:44:0 127.0.0.1 Genevieve      ] (100) resize 35
+[15:44:1 127.0.0.1 Genevieve      ] (100) l
+[15:44:2 127.0.0.1 Genevieve      ] (100) who
+[15:44:3 127.0.0.1 Genevieve      ] (100) say hi
+[15:44:6 127.0.0.1 Genevieve      ] (100) say bye
+[15:44:6 127.0.0.1 Genevieve      ] (100) say slkdfj
+[15:44:8 127.0.0.1 Genevieve      ] (100) say lskd
+[15:44:9 127.0.0.1 Genevieve      ] (100) say oiwjfo
+[15:44:12 127.0.0.1 Genevieve     ] (100) l
+[15:44:13 127.0.0.1 Genevieve     ] (100) l
+[15:44:13 127.0.0.1 Genevieve     ] (100) l
+[15:44:14 127.0.0.1 Genevieve     ] (100) l
+[15:44:14 127.0.0.1 Genevieve     ] (100) l
+[15:44:15 127.0.0.1 Genevieve     ] (100) quit
+[15:44:15 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[15:44:44 SYSTEM                  ] Tempest Server Started.
+[15:44:46 SYSTEM                  ] 127.0.0.1 connected to server.
+[15:44:48 127.0.0.1 LOGIN         ] (VOID) aristal
+[15:44:50 127.0.0.1 LOGIN         ] (VOID) chagrin
+[15:44:50 127.0.0.1 Aristal       ] (100) Entered the world.
+[15:44:50 127.0.0.1 Aristal       ] (100) 
+[15:44:51 127.0.0.1 Aristal       ] (100) l
+[15:44:52 127.0.0.1 Aristal       ] (100) l
+[15:44:53 127.0.0.1 Aristal       ] (100) l
+[15:44:53 127.0.0.1 Aristal       ] (100) l
+[15:44:54 127.0.0.1 Aristal       ] (100) l
+[15:44:55 127.0.0.1 Aristal       ] (100) l
+[15:44:56 127.0.0.1 Aristal       ] (100) quit
+[15:44:56 SYSTEM                  ] 127.0.0.1 Aristal quit the game.
+[15:58:9 SYSTEM                   ] Tempest Server Started.
+[15:58:11 SYSTEM                  ] 127.0.0.1 connected to server.
+[15:58:16 127.0.0.1 LOGIN         ] (VOID) genevieve
+[15:58:17 127.0.0.1 LOGIN         ] (VOID) genna
+[15:58:17 127.0.0.1 Genevieve     ] (100) Entered the world.
+[15:58:17 127.0.0.1 Genevieve     ] (100) l
+[15:58:20 127.0.0.1 Genevieve     ] (100) tog ansi
+[15:58:20 127.0.0.1 Genevieve     ] (100) l
+[15:58:21 127.0.0.1 Genevieve     ] (100) l
+[15:58:21 127.0.0.1 Genevieve     ] (100) l
+[15:58:22 127.0.0.1 Genevieve     ] (100) l
+[15:58:25 127.0.0.1 Genevieve     ] (100) resize 100
+[15:58:26 127.0.0.1 Genevieve     ] (100) l
+[15:58:27 127.0.0.1 Genevieve     ] (100) l
+[15:58:28 127.0.0.1 Genevieve     ] (100) l
+[15:58:44 127.0.0.1 Genevieve     ] (100) 
+[15:58:44 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:45 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:46 127.0.0.1 Genevieve     ] (100) 
+[15:58:47 127.0.0.1 Genevieve     ] (100) l
+[15:58:50 127.0.0.1 Genevieve     ] (100) tog ansi
+[15:58:51 127.0.0.1 Genevieve     ] (100) l
+[15:58:55 127.0.0.1 Genevieve     ] (100) tog ansi
+[15:58:55 127.0.0.1 Genevieve     ] (100) l
+[15:58:56 127.0.0.1 Genevieve     ] (100) l
+[15:58:56 127.0.0.1 Genevieve     ] (100) l
+[15:58:56 127.0.0.1 Genevieve     ] (100) l
+[15:58:57 127.0.0.1 Genevieve     ] (100) l
+[15:58:58 127.0.0.1 Genevieve     ] (100) l
+[15:58:59 127.0.0.1 Genevieve     ] (100) l
+[15:59:2 127.0.0.1 Genevieve      ] (100) l
+[15:59:5 127.0.0.1 Genevieve      ] (100) resize 34
+[15:59:9 127.0.0.1 Genevieve      ] (100) l
+[15:59:10 127.0.0.1 Genevieve     ] (100) l
+[15:59:10 127.0.0.1 Genevieve     ] (100) l
+[15:59:13 127.0.0.1 Genevieve     ] (100) resize 45
+[15:59:14 127.0.0.1 Genevieve     ] (100) l
+[15:59:16 127.0.0.1 Genevieve     ] (100) tog ansi
+[15:59:18 127.0.0.1 Genevieve     ] (100) resize
+[15:59:19 127.0.0.1 Genevieve     ] (100) resize 45
+[15:59:22 127.0.0.1 Genevieve     ] (100) resize 35
+[15:59:24 127.0.0.1 Genevieve     ] (100) resize 45
+[15:59:25 127.0.0.1 Genevieve     ] (100) l
+[15:59:28 127.0.0.1 Genevieve     ] (100) quit
+[15:59:28 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.

@@ -1,0 +1,21 @@
+[1:41:53 SYSTEM                   ] Tempest Server Started.
+[1:42:1 SYSTEM                    ] 127.0.0.1 connected to server.
+[1:42:4 127.0.0.1 LOGIN           ] (VOID) genevieve
+[1:42:4 127.0.0.1 LOGIN           ] (VOID) genna
+[1:42:4 127.0.0.1 Genevieve       ] (1563) Entered the world.
+[1:42:9 127.0.0.1 Genevieve       ] (1563) say orchid list
+[1:42:10 127.0.0.1 Genevieve      ] (1563) users
+[1:47:35 SYSTEM                   ] 127.0.0.1 Genevieve went linkdead in-game.
+[17:19:0 SYSTEM                   ] Tempest Server Started.
+[17:19:4 SYSTEM                   ] 127.0.0.1 connected to server.
+[17:19:6 127.0.0.1 LOGIN          ] (VOID) Genevieve
+[17:19:6 127.0.0.1 LOGIN          ] (VOID) genna
+[17:19:7 127.0.0.1 Genevieve      ] (1563) Entered the world.
+[17:19:7 127.0.0.1 Genevieve      ] (1563) eq
+[17:19:9 127.0.0.1 Genevieve      ] (1563) remove sche
+[17:19:11 127.0.0.1 Genevieve     ] (1563) drop sche
+[17:19:11 127.0.0.1 Genevieve     ] (1563) l
+[17:19:30 127.0.0.1 Genevieve     ] (1563) get shce
+[17:19:33 127.0.0.1 Genevieve     ] (1563) get sche
+[17:19:34 127.0.0.1 Genevieve     ] (1563) l sche
+[17:30:48 SYSTEM                  ] 127.0.0.1 Genevieve went linkdead in-game.

@@ -1,0 +1,209 @@
+[22:47:50 SYSTEM                  ] Tempest Server Started.
+[22:47:50 SYSTEM                  ] 68.170.210.116 connected to server.
+[22:47:52 68.170.210.116 LOGIN    ] (VOID) Aristal
+[22:47:53 68.170.210.116 LOGIN    ] (VOID) chagrin
+[22:47:53 68.170.210.116 Aristal  ] (100) Entered the world.
+[22:47:55 68.170.210.116 Aristal  ] (100) read board
+[22:48:14 68.170.210.116 Aristal  ] (100) quit
+[22:48:14 SYSTEM                  ] 68.170.210.116 Aristal quit the game.
+[23:2:55 SYSTEM                   ] 24.55.248.63 connected to server.
+[23:2:59 24.55.248.63 LOGIN       ] (VOID) Aeron
+[23:3:2 24.55.248.63 LOGIN        ] (VOID) pepsi
+[23:3:2 24.55.248.63 Aeron        ] (100) Entered the world.
+[23:3:4 24.55.248.63 Aeron        ] (100) who
+[23:3:8 24.55.248.63 Aeron        ] (100) read board
+[23:3:12 24.55.248.63 Aeron       ] (100) read 1
+[23:3:23 24.55.248.63 Aeron       ] (100) l
+[23:3:24 24.55.248.63 Aeron       ] (100) i
+[23:3:26 24.55.248.63 Aeron       ] (100) eq
+[23:3:27 24.55.248.63 Aeron       ] (100) w
+[23:3:29 24.55.248.63 Aeron       ] (3000) w
+[23:3:30 24.55.248.63 Aeron       ] (3030) n
+[23:3:31 24.55.248.63 Aeron       ] (1500) n
+[23:3:32 24.55.248.63 Aeron       ] (1500) s
+[23:3:33 24.55.248.63 Aeron       ] (3030) e
+[23:3:34 24.55.248.63 Aeron       ] (3000) n
+[23:3:35 24.55.248.63 Aeron       ] (3000) s
+[23:3:36 24.55.248.63 Aeron       ] (3000) w
+[23:3:36 24.55.248.63 Aeron       ] (3030) s
+[23:3:37 24.55.248.63 Aeron       ] (3030) 
+[23:3:37 24.55.248.63 Aeron       ] (3030) n
+[23:3:38 24.55.248.63 Aeron       ] (1500) w
+[23:3:38 24.55.248.63 Aeron       ] (1500) e
+[23:3:39 24.55.248.63 Aeron       ] (1500) s
+[23:3:39 24.55.248.63 Aeron       ] (3030) e
+[23:3:40 24.55.248.63 Aeron       ] (3000) n
+[23:3:41 24.55.248.63 Aeron       ] (3000) s
+[23:3:41 24.55.248.63 Aeron       ] (3000) e
+[23:3:42 24.55.248.63 Aeron       ] (100) n
+[23:3:42 24.55.248.63 Aeron       ] (100) e
+[23:3:44 24.55.248.63 Aeron       ] (1000) s
+[23:3:44 24.55.248.63 Aeron       ] (1051) e
+[23:3:45 24.55.248.63 Aeron       ] (1001) n
+[23:3:46 24.55.248.63 Aeron       ] (1045) n
+[23:3:47 24.55.248.63 Aeron       ] (1045) li
+[23:3:49 24.55.248.63 Aeron       ] (1045) s
+[23:3:49 24.55.248.63 Aeron       ] (1001) s
+[23:3:50 24.55.248.63 Aeron       ] (1046) n
+[23:3:50 24.55.248.63 Aeron       ] (1001) n
+[23:3:51 24.55.248.63 Aeron       ] (1045) list
+[23:3:52 SYSTEM                   ] 192.168.1.1 connected to server.
+[23:3:53 24.55.248.63 Aeron       ] (1045) buy
+[23:3:53 192.168.1.1 LOGIN        ] (VOID)  'Genevieve
+[23:3:54 192.168.1.1 LOGIN        ] (VOID) genna
+[23:3:55 192.168.1.1 CREATION     ] (VOID) no
+[23:3:57 192.168.1.1 LOGIN        ] (VOID) genevieve
+[23:3:57 24.55.248.63 Aeron       ] (1045) buy sword
+[23:3:57 192.168.1.1 LOGIN        ] (VOID) genna
+[23:3:58 192.168.1.1 Genevieve    ] (100) Entered the world.
+[23:4:5 SYSTEM                    ] Tempest Server Started.
+[23:4:8 SYSTEM                    ] 24.55.248.63 connected to server.
+[23:4:11 24.55.248.63 LOGIN       ] (VOID) Aeron
+[23:4:12 SYSTEM                   ] 192.168.1.1 connected to server.
+[23:4:13 24.55.248.63 LOGIN       ] (VOID) ncsu
+[23:4:14 192.168.1.1 LOGIN        ] (VOID) Genevieve
+[23:4:15 192.168.1.1 LOGIN        ] (VOID) genna
+[23:4:16 192.168.1.1 Genevieve    ] (100) Entered the world.
+[23:4:17 192.168.1.1 Genevieve    ] (100) who
+[23:4:18 192.168.1.1 Genevieve    ] (100) who
+[23:4:20 SYSTEM                   ] 24.55.248.63 connected to server.
+[23:4:21 192.168.1.1 Genevieve    ] (100) who
+[23:4:22 192.168.1.1 Genevieve    ] (100) who
+[23:4:22 24.55.248.63 LOGIN       ] (VOID) Aeron
+[23:4:24 24.55.248.63 LOGIN       ] (VOID) pepso
+[23:4:25 192.168.1.1 Genevieve    ] (100) goto aeron
+[23:4:27 192.168.1.1 Genevieve    ] (100) goto 100
+[23:4:29 SYSTEM                   ] 24.55.248.63 connected to server.
+[23:4:30 192.168.1.1 Genevieve    ] (100) goto 101
+[23:4:34 24.55.248.63 LOGIN       ] (VOID) Aeron
+[23:4:37 192.168.1.1 Genevieve    ] (101) trans aeron
+[23:4:37 24.55.248.63 LOGIN       ] (VOID) pepsi
+[23:4:37 24.55.248.63 Aeron       ] (100) Entered the world.
+[23:4:39 192.168.1.1 Genevieve    ] (101) trans aeron
+[23:4:41 192.168.1.1 Genevieve    ] (101) say Hi.
+[23:4:44 192.168.1.1 Genevieve    ] (101) grin
+[23:4:46 24.55.248.63 Aeron       ] (101) sa Hello.
+[23:4:53 192.168.1.1 Genevieve    ] (101) say Do I know you?  I saw you logged in the other day.
+[23:5:10 192.168.1.1 Genevieve    ] (101) who 
+[23:5:11 24.55.248.63 Aeron       ] (101) sa I'm Mike's friend.
+[23:5:23 24.55.248.63 Aeron       ] (101) who
+[23:5:41 192.168.1.1 Genevieve    ] (101) say Aha.  Well in that case, I apologize for the MUD being so incomplete.  Actually, in about 1 hour we're moving the test port over to 7000 with new building tools.
+[23:5:48 192.168.1.1 Genevieve    ] (101) who
+[23:5:59 192.168.1.1 Genevieve    ] (101) say And a help file, with a command list. =P
+[23:6:21 24.55.248.63 Aeron       ] (101) sa Ah, I don't mind. It's so nice to see a mud, and not be ten years behind the game.
+[23:6:25 192.168.1.1 Genevieve    ] (101) say Do you play EliteMUD, or do you know Mike from real life?
+[23:6:26 192.168.1.1 Genevieve    ] (101) grin
+[23:6:50 24.55.248.63 Aeron       ] (101) sa I play elite and know Mike in real life, er, I should say I met him twice.
+[23:6:55 24.55.248.63 Aeron       ] (101) smirk
+[23:6:58 192.168.1.1 Genevieve    ] (101) say Who are you on Elite?
+[23:7:7 24.55.248.63 Aeron        ] (101) sa Aeron, Mirak, and Ryuu.
+[23:7:19 192.168.1.1 Genevieve    ] (101) say Hmm, I've been out of it awhile on Elite.
+[23:7:25 192.168.1.1 Genevieve    ] (101) say I only know people from years ago.
+[23:7:42 24.55.248.63 Aeron       ] (101) sa You are Janus if I'm not mistaken, am I right?
+[23:7:45 192.168.1.1 Genevieve    ] (101) say Yep.
+[23:7:47 192.168.1.1 Genevieve    ] (101) who
+[23:7:53 192.168.1.1 Genevieve    ] (101) who
+[23:7:59 24.55.248.63 Aeron       ] (101) sa Yeah, I'm also your brother's friend John.
+[23:8:2 24.55.248.63 Aeron        ] (101) grin
+[23:8:6 192.168.1.1 Genevieve     ] (101) say Yeah, thought so.
+[23:8:9 24.55.248.63 Aeron        ] (101) shrug
+[23:8:16 192.168.1.1 Genevieve    ] (101) say I've seen Ryuu before I guess, now that I think of it.
+[23:8:25 24.55.248.63 Aeron       ] (101) sa Probably.
+[23:8:29 192.168.1.1 Genevieve    ] (101) l
+[23:8:34 24.55.248.63 Aeron       ] (101) l
+[23:8:35 192.168.1.1 Genevieve    ] (101) say Well you're officially the first player =P
+[23:8:39 192.168.1.1 Genevieve    ] (101) grin
+[23:8:45 24.55.248.63 Aeron       ] (101) grin
+[23:8:58 24.55.248.63 Aeron       ] (101) sa Sorry, but I forgot to prepare my speach.
+[23:8:58 192.168.1.1 Genevieve    ] (101) l
+[23:9:8 24.55.248.63 Aeron        ] (101) exam genevieve
+[23:9:20 24.55.248.63 Aeron       ] (101) l
+[23:9:23 192.168.1.1 Genevieve    ] (101) say That's ok, because you'll have to recreate after midnight when we port over the Java code.  We re-wrote *everything* in Java.  Well, almost.
+[23:9:35 192.168.1.1 Genevieve    ] (101) l
+[23:9:50 24.55.248.63 Aeron       ] (101) sa Man. Was it in C++ before?
+[23:9:51 192.168.1.1 Genevieve    ] (101) stat
+[23:10:2 192.168.1.1 Genevieve    ] (101) say You're looking at the C++ version right now.
+[23:10:21 192.168.1.1 Genevieve   ] (101) say All this stuff you can do is in the process of being re-implemented for Java.
+[23:10:22 192.168.1.1 Genevieve   ] (101) l
+[23:10:35 192.168.1.1 Genevieve   ] (101) stat aeron
+[23:10:42 24.55.248.63 Aeron      ] (101) sa Ah. My only concern is that Java is a smig slower.
+[23:10:54 192.168.1.1 Genevieve   ] (101) say Yes, a small sacrifice in comparison to what we get.
+[23:11:0 24.55.248.63 Aeron       ] (101) nod
+[23:11:29 192.168.1.1 Genevieve   ] (101) say Right now all the mobiles, all the players, all the everything is being data populated through text files.
+[23:11:40 24.55.248.63 Aeron      ] (101) grin
+[23:11:42 192.168.1.1 Genevieve   ] (101) say Which is primitive to say the least.  The Java code serializes everything automatically.
+[23:11:58 192.168.1.1 Genevieve   ] (101) l
+[23:12:0 192.168.1.1 Genevieve    ] (101) who
+[23:12:5 24.55.248.63 Aeron       ] (101) sa That would make Java a better choice.
+[23:12:13 192.168.1.1 Genevieve   ] (101) say Yeah, that alone makes it better.
+[23:12:17 192.168.1.1 Genevieve   ] (101) l
+[23:12:32 192.168.1.1 Genevieve   ] (101) We basically have a couple of lines of code to say "Save the world, items, and players."
+[23:12:34 192.168.1.1 Genevieve   ] (101) l
+[23:12:46 24.55.248.63 Aeron      ] (101) l
+[23:12:50 24.55.248.63 Aeron      ] (101) who
+[23:12:50 192.168.1.1 Genevieve   ] (101) say Incidentally, were you planning on being a builder?
+[23:13:0 192.168.1.1 Genevieve    ] (101) say If so I could create you an Immortal and a Zone right now. =P
+[23:13:22 24.55.248.63 Aeron      ] (101) sa Hmm, I have toyed with the idea now that I'm out of school.
+[23:13:35 192.168.1.1 Genevieve   ] (101) Well you don't have to sign a contract in blood or anything.
+[23:13:42 192.168.1.1 Genevieve   ] (101) say Well you don't have to sign a contract in blood or anything.
+[23:13:51 24.55.248.63 Aeron      ] (101) sa I wouldn't be of much help till after my graduation but I would love to help in any way I can.
+[23:13:57 192.168.1.1 Genevieve   ] (101) say I'll create a generic zone and you're free to log on and mess with it at your leisure.
+[23:14:8 24.55.248.63 Aeron       ] (101) grin
+[23:14:23 24.55.248.63 Aeron      ] (101) sa Now to make a valid idea :/
+[23:14:34 192.168.1.1 Genevieve   ] (101) say Maybe I should create like 10 generic zones...
+[23:14:43 192.168.1.1 Genevieve   ] (101) say And just post a thing for the builders and say "Go edit any zone you want."
+[23:14:44 24.55.248.63 Aeron      ] (101) snicker
+[23:14:58 24.55.248.63 Aeron      ] (101) sa At this point it wouldn't hurt
+[23:15:26 192.168.1.1 Genevieve   ] (101) say Mike and I will probably be the only builders for a while, until I can advertise a little.
+[23:15:28 192.168.1.1 Genevieve   ] (101) shrug
+[23:15:52 24.55.248.63 Aeron      ] (101) sa Well, you can count me in for help.
+[23:16:17 24.55.248.63 Aeron      ] (101) sa Do I just use this nice little builder's app on your site?
+[23:16:30 192.168.1.1 Genevieve   ] (101) say Thanks...  I can use all the help I can get.  I asked my brother actually for help, even though he's hapless, and I've seen enough of his writing to know it's bad.  But at least he's got lots of -time-. =P
+[23:16:35 192.168.1.1 Genevieve   ] (101) say Nah don't use that horrid thing.
+[23:16:52 192.168.1.1 Genevieve   ] (101) say I'm about to move the Java code over in a second, I'll show you how easy the online ubuilder is.
+[23:17:10 192.168.1.1 Genevieve   ] (101) say You basically just go to your zone, type "zedit." and follow the instructions.
+[23:17:25 24.55.248.63 Aeron      ] (101) sa Simple enough.
+[23:17:28 192.168.1.1 Genevieve   ] (101) nod
+[23:18:8 24.55.248.63 Aeron       ] (101) eq
+[23:18:9 24.55.248.63 Aeron       ] (101) i
+[23:18:22 24.55.248.63 Aeron      ] (101) l
+[23:18:25 24.55.248.63 Aeron      ] (101) exam
+[23:18:27 24.55.248.63 Aeron      ] (101) examine
+[23:18:34 192.168.1.1 Genevieve   ] (101) say It's gonna take us a couple more weeks to get the skills, spells, items and mobs over.  For now all we'll have is room building really.
+[23:18:39 192.168.1.1 Genevieve   ] (101) l
+[23:18:42 192.168.1.1 Genevieve   ] (101) skills
+[23:19:7 24.55.248.63 Aeron       ] (101) sa Fine. That means that its easier to do the little things last.
+[23:19:11 192.168.1.1 Genevieve   ] (101) nod
+[23:19:22 192.168.1.1 Genevieve   ] (101) l
+[23:19:29 192.168.1.1 Genevieve   ] (101) l
+[23:19:31 24.55.248.63 Aeron      ] (101) l
+[23:19:36 24.55.248.63 Aeron      ] (101) read board
+[23:19:39 192.168.1.1 Genevieve   ] (101) say Have you seen the mobile interaction stuff?
+[23:19:43 192.168.1.1 Genevieve   ] (101) say Or combat and skills?
+[23:19:49 24.55.248.63 Aeron      ] (101) sa On the site?
+[23:19:53 192.168.1.1 Genevieve   ] (101) say Right here.
+[23:19:56 192.168.1.1 Genevieve   ] (101) load mob orchid
+[23:19:59 24.55.248.63 Aeron      ] (101) l
+[23:20:5 24.55.248.63 Aeron       ] (101) sa No.
+[23:20:6 192.168.1.1 Genevieve    ] (101) say Say hi to orchid.  Ask her to list her items.
+[23:20:16 24.55.248.63 Aeron      ] (101) t orchid hi
+[23:20:18 192.168.1.1 Genevieve   ] (101) l
+[23:20:22 24.55.248.63 Aeron      ] (101) tell orchid hi
+[23:20:24 24.55.248.63 Aeron      ] (101) l
+[23:20:25 24.55.248.63 Aeron      ] (101) sa hi
+[23:20:30 192.168.1.1 Genevieve   ] (101) say Use say and include her name. :)
+[23:20:36 24.55.248.63 Aeron      ] (101) sa hi orchid
+[23:20:54 24.55.248.63 Aeron      ] (101) sa List your items, orchid.
+[23:21:11 24.55.248.63 Aeron      ] (101) b heartseeker
+[23:21:13 192.168.1.1 Genevieve   ] (101) say Lots of stuff like that with talking to NPCs.
+[23:21:20 24.55.248.63 Aeron      ] (101) buy heartseeker
+[23:21:33 24.55.248.63 Aeron      ] (101) sa That's a nice improvement over Elite.
+[23:21:41 24.55.248.63 Aeron      ] (101) st
+[23:21:50 192.168.1.1 Genevieve   ] (101) say It will be, once I get it the way I want it.
+[23:21:56 192.168.1.1 Genevieve   ] (101) say Ok gonna move the Java code over.  Re-connect in 1 minute.
+[23:21:59 192.168.1.1 Genevieve   ] (101) save
+[23:22:3 192.168.1.1 Genevieve    ] (101) quit
+[23:22:3 SYSTEM                   ] 192.168.1.1 Genevieve quit the game.
+[23:22:3 24.55.248.63 Aeron       ] (101) sa Hmm... Not enough gold for a heartseeker...
+[23:22:7 24.55.248.63 Aeron       ] (101) quit
+[23:22:7 SYSTEM                   ] 24.55.248.63 Aeron quit the game.

@@ -1,0 +1,44 @@
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void lookAt(String target)
+
+  {
+    //if ((key(target).equals("i")) || (key(target).equals("in"))) {
+    //  displayItemContainer(last(target));
+    //  return; }
+
+    //if (findItemAll(target) != null) {
+    //  echo(findItemAll(target).lookDesc);
+    //  return; }
+
+    target = key(target);
+    Entity ENT = myRoom.findEntity(this, target);
+
+    if (target.equals("board")) { } // read("board");
+
+    else if ((target.equals("n")) || (target.equals("north"))) echo(myRoom.getLook(0));
+    else if ((target.equals("s")) || (target.equals("south"))) echo(myRoom.getLook(1));
+    else if ((target.equals("e")) || (target.equals("east")))  echo(myRoom.getLook(2));
+    else if ((target.equals("w")) || (target.equals("west")))  echo(myRoom.getLook(3));
+    else if ((target.equals("u")) || (target.equals("up")))    echo(myRoom.getLook(4));
+    else if ((target.equals("d")) || (target.equals("down")))  echo(myRoom.getLook(5));
+
+    //else if (ENT != null) {
+    //  echo(ENT.getDesc() + "\r\n" + ENT.displayEquipment(1));
+    //  if (ENT != this) ENT.awakeEcho(name + " looks at you.");
+    //  if (name != ENT.getName()) myRoom.xecho(this, ENT, name + " looks at " + ENT.getName() + "."); }
+
+    else if ((myRoom.getNumLooks() > 6) && (myRoom.searchLooks(target)))
+      echo(myRoom.getLook(myRoom.searchLooks(target)));
+
+    else if ((target.equals("no")) || (target.equals("nor")) || (target.equals("nort"))) echo(myRoom.getLook(0));
+    else if ((target.equals("so")) || (target.equals("sou")) || (target.equals("sout"))) echo(myRoom.getLook(1));
+    else if ((target.equals("ea")) || (target.equals("eas"))) echo(myRoom.getLook(2));
+    else if ((target.equals("we")) || (target.equals("wes"))) echo(myRoom.getLook(3));
+    else if ((target.equals("do")) || (target.equals("dow"))) echo(myRoom.getLook(5));
+    else if (target.equals("up")) echo(myRoom.getLook(4));
+
+    else echo("There is no " + target + " here.");
+  }

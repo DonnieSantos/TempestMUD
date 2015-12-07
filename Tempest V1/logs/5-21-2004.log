@@ -1,0 +1,49 @@
+[1:7:0 SYSTEM                     ] Tempest Server Started.
+[1:7:2 SYSTEM                     ] 192.168.1.1 connected to server.
+[1:7:4 192.168.1.1 LOGIN          ] (VOID)  'g
+[1:7:5 192.168.1.1 LOGIN          ] (VOID) Genevieve
+[1:7:6 192.168.1.1 LOGIN          ] (VOID) genna
+[1:7:6 192.168.1.1 Genevieve      ] (3000) Entered the world.
+[1:7:7 192.168.1.1 Genevieve      ] (3000) zlist
+[1:9:7 192.168.1.1 Genevieve      ] (3000) zlist dama
+[1:9:10 192.168.1.1 Genevieve     ] (3000) zlist dam
+[1:9:12 192.168.1.1 Genevieve     ] (3000) zlist gol
+[2:45:26 SYSTEM                   ] Tempest Server Started.
+[2:45:43 SYSTEM                   ] 127.0.0.1 connected to server.
+[2:45:45 127.0.0.1 LOGIN          ] (VOID) genevieve
+[2:45:47 127.0.0.1 LOGIN          ] (VOID) genna
+[2:45:47 127.0.0.1 Genevieve      ] (3000) Entered the world.
+[2:45:50 127.0.0.1 Genevieve      ] (3000) zlist
+[15:28:34 SYSTEM                  ] Tempest Server Started.
+[15:50:39 SYSTEM                  ] 192.168.1.1 connected to server.
+[15:50:46 SYSTEM                  ] 192.168.1.1 LOGGING IN went linkdead during login.
+[15:51:19 SYSTEM                  ] 192.168.1.1 connected to server.
+[15:51:23 192.168.1.1 LOGIN       ] (VOID) Aristal
+[15:51:23 192.168.1.1 LOGIN       ] (VOID) chagrin
+[15:51:23 192.168.1.1 Aristal     ] (100) Entered the world.
+[15:51:23 192.168.1.1 Aristal     ] (100) 
+[15:56:21 SYSTEM                  ] 192.168.1.1 connected to server.
+[15:56:28 192.168.1.1 LOGIN       ] (VOID) Aristal
+[15:56:28 192.168.1.1 LOGIN       ] (VOID) chagrin
+[15:56:28 SYSTEM                  ] 192.168.1.1 reconnected to 192.168.1.1 Aristal.
+[15:56:30 192.168.1.1 Aristal     ] (100) e
+[15:56:30 192.168.1.1 Aristal     ] (1000) w
+[15:56:31 192.168.1.1 Aristal     ] (100) goto 101
+[15:56:33 192.168.1.1 Aristal     ] (101) 
+[15:57:30 SYSTEM                  ] 192.168.1.1 connected to server.
+[15:57:31 192.168.1.1 LOGIN       ] (VOID)  'g
+[15:57:32 192.168.1.1 LOGIN       ] (VOID) Genevieve
+[15:57:33 192.168.1.1 LOGIN       ] (VOID) genna
+[15:57:33 192.168.1.1 Genevieve   ] (3000) Entered the world.
+[15:57:36 192.168.1.1 Genevieve   ] (3000) goto 100
+[15:57:38 192.168.1.1 Genevieve   ] (100) write test
+[15:57:40 192.168.1.1 Genevieve   ] (100) one
+[15:57:40 192.168.1.1 Genevieve   ] (100) two
+[15:57:42 192.168.1.1 Genevieve   ] (100) three::save
+[15:57:44 192.168.1.1 Genevieve   ] (100) ::save
+[15:57:46 192.168.1.1 Genevieve   ] (100) read 1
+[15:57:50 192.168.1.1 Genevieve   ] (100) remove 1
+[15:58:9 192.168.1.1 Genevieve    ] (100) quit
+[15:58:9 SYSTEM                   ] 192.168.1.1 Genevieve quit the game.
+[15:58:23 SYSTEM                  ] 192.168.1.1 Aristal went linkdead in-game.
+[16:0:23 SYSTEM                   ] 192.168.1.1 Aristal dropped from the game.

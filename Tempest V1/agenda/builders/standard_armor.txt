@@ -1,0 +1,190 @@
+
+  Thief Standard Armor (STATS)
+
+  +----+----------------------+----------------------+--------------------+
+  | LV |        NAME          |       BONUSES        |   REQUIRED STATS   |
+  +----+----------------------+----------------------+--------------------+
+  | 10 | White Headband       |  15 AC   1 Hit       | 10  15  5   0   0  |
+  | 25 | Green Headband       |  30 AC   1 Hit       | 30  40  20  0   0  |
+  | 40 | Yellow Headband      |  40 AC   1 Hit       | 40  70  30  10  0  |
+  | 65 | Orange Headband      |  50 AC  50 Hp        | 50  110 50  10  10 |
+  | 80 | Blue Headband        |  65 AC   1 Hit       | 80  120 50  10  10 |
+  | 90 | Red Headband         |  80 AC  90 Hp        | 50  130 50  10  10 |
+  | 95 | Black Headband       |  50 AC   2 Hit       | 80  160 50  10  10 |
+  | 96 | Sanguinary Circlet   |  10 AC   1 Dam       | 150 100 100 0   0  |
+  +----+----------------------+----------------------+--------------------+
+  | 1  | White Shirt          |  10 AC               | 0   0   0   0   0  |
+  | 2  | Black Shirt          |  15 AC               | 3   4   2   1   0  |
+  | 5  | Amber Vest           |  35 AC               | 5   5   5   0   0  |
+  | 10 | Rogue Jacket         |  50 AC   50 Hp       | 15  20  10  3   2  |
+  | 20 | Garnet Coat          |  80 AC   80 Hp       | 30  40  20  6   4  |
+  | 30 | Crimson Mail         | 120 AC  100 Hp       | 40  60  30  5   5  |
+  | 40 | Lupine Vestment      | 180 AC    2 Hit      | 50  80  40  10  10 |
+  | 50 | Grand Vestcoat       | 220 AC  150 Hp       | 50  100 50  10  10 |
+  | 65 | Full Metal Jacket    | 260 AC    1 Dam      | 80  120 60  10  10 |
+  | 80 | Nightmare Garb       | 300 AC  200 Hp       | 50  160 50  10  10 |
+  | 90 | Brigandine           | 450 AC  300 Hp       | 50  180 50  10  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 1  | Sandals              | 3  AC                | 0   0   0   0   0  |
+  | 2  | Boots                | 5  AC                | 3   4   2   1   0  |
+  | 10 | Red Boots            | 8  AC   30 Hp  20 Mv | 10  15  10  1   1  |
+  | 20 | Thief Boots          | 15 AC  100 Mv        | 20  35  15  2   2  |
+  | 40 | Sturdy Boots         | 25 AC                | 50  70  40  5   5  |
+  | 50 | Silent Shoes         | 20 AC   1 Hit  50 Mv | 50  95  50  5   5  |
+  | 80 | Combat Boots         | 10 AC   1 Dam        | 135 135 80  15  15 |
+  | 90 | Rogue Boots          | 30 AC  200 Mv        | 120 180 90  20  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 1  | Cape                 | 7 AC                 | 3   4   2   1   0  |
+  | 10 | Dark Cape            | 10 AC  10 Hp         | 10  15  10  1   1  |
+  | 30 | Brown Cape           | 20 AC  15 Hp         | 30  50  30  5   5  |
+  | 50 | Black Cape           | 35 AC  25 Hp         | 50  90  50  10  5  |
+  | 60 | Rogue Cape           | 40 AC                | 50  110 50  10  10 |
+  | 80 | Shadow Cloak         | 30 AC  45 Hp  5 MR   | 50  150 50  10  10 |
+  | 85 | Assassin's Cloak     | 60 AC   5 MR         | 50  160 50  10  10 |
+  | 90 | Red Cape             | 70 AC                | 50  170 50  10  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 1  | Gloves               |  3 AC                | 0   0   0   0   0  |
+  | 12 | White Gloves         |  8 AC   20 Hp  20 Mn | 10  20  10  2   1  |
+  | 25 | Leather Gloves       | 10 AC    1 Hit       | 20  45  20  5   3  |
+  | 50 | Rogue Gloves         | 15 AC   50 Hp        | 35  100 50  10  10 |
+  | 65 | Thief Gloves         | 20 AC  100 Mv        | 40  120 65  10  10 |
+  | 85 | Black Leather Gloves |  5 AC    1 Dam       | 80  130 80  5   5  |
+  +----+----------------------+----------------------+--------------------+
+  | 5  | Brown Belt           |  5 AC                | 5   5   5   0   0  |
+  | 20 | Leather Belt         | 10 AC  20 Hp         | 10  25  10  5   5  |
+  | 45 | Snakeskin Belt       | 15 AC  40 Hp  20 Mn  | 25  60  30  5   5  |
+  | 80 | Black Belt           | 20 AC   5 MR         | 40  120 50  10  5  |
+  | 90 | Red Belt             |  5 AC   8 MR  20 Hp  | 55  160 70  15  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 1  | Black Pants          |   5 AC               | 3   4   2   1   0  |
+  | 3  | Leather Pants        |   8 AC   15 Hp       | 3   4   2   1   0  |
+  | 8  | Brown Corduroys      |  15 AC   20 Hp 50 Mv | 10  15  10  1   0  |
+  | 18 | Black Corduroys      |  20 AC   40 Hp       | 15  35  15  2   2  |
+  | 30 | Red Corduroys        |  35 AC               | 25  60  30  5   5  |
+  | 50 | Camouflage Pants     |  50 AC   50 Hp       | 50  100 50  10  10 |
+  | 66 | Assassin's Pants     |  10 AC    1 Dam      | 110 110 50  10  10 |
+  | 88 | Black Rogue Pants    | 100 AC  100 Hp       | 50  170 50  10  10 |
+  | 92 | Black Cargo Pants    | 120 AC               | 50  190 50  10  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 3  | Leather Bracer       |  5 AC                | 5   5   5   1   0  |
+  | 15 | Bronze Bracer        | 10 AC                | 15  15  10  1   0  |
+  | 55 | Metal Bracer         | 15 AC  1 Hit         | 50  50  50  0   0  |
+  | 75 | Spiked Wristband     |  5 AC  1 Dam         | 120 70  70  10  10 |
+  | 85 | Steel Bracer         | 20 AC  1 Hit         | 80  80  80  15  10 |
+  +----+----------------------+----------------------+--------------------+
+  | 5  | Brass Ring           |   1 Hit              | 0   0   0   0   0  |
+  | 20 | Emerald Ring         |  50 Hp   20 Mn       | 0   0   0   0   0  |
+  | 35 | Ruby Ring            |  80 Hp               | 0   0   0   0   0  |
+  | 50 | Sapphire Ring        |  50 Hp   1 Hit       | 0   0   0   0   0  |
+  | 50 | Ring of Precision    |   2 Hit              | 0   0   0   0   0  |
+  | 80 | Ring of Balance      | 100 Hp   1 Hit       | 0   0   0   0   0  |
+  | 90 | Diamond Ring         |  50 Hp  50 Mn   5 MR | 0   0   0   0   0  |
+  +----+----------------------+----------------------+--------------------+
+  | 35 | Bronze Medal         |   5 MR               | 0   0   0   0   0  |
+  | 60 | Silver Medal         |   8 MR               | 0   0   0   0   0  |
+  | 80 | Gold Medal           |  10 MR               | 0   0   0   0   0  |
+  | 80 | Lapis Amulet         | 100 Hp  100 Mn       | 0   0   0   0   0  |
+  | 90 | Bloodstone Medallion | 200 Hp               | 0   0   0   0   0  |
+  | 99 | Black Narcissus      |  15 MR               | 0   0   0   0   0  |
+  +----+----------------------+----------------------+--------------------+
+  | 20 | Jade Earring         |  1  Hit              | 0   0   0   0   0  |
+  | 35 | Emerald Earring      |  50 Hp   20 Mn       | 0   0   0   0   0  |
+  | 50 | Sapphire Earring     |  50 Hp    1 Hit      | 0   0   0   0   0  |
+  | 75 | Ruby Earring         | 150 Hp               | 0   0   0   0   0  |
+  | 90 | Diamond Earring      |  50 Hp   50 Mn  5 MR | 0   0   0   0   0  |
+  +----+----------------------+----------------------+--------------------+
+
+  Thief Standard Armor (WORTH & CLASSES)
+
+  +----+----------------------+---------+-------------------+
+  | LV |        NAME          |  WORTH  |     CLASSES       |
+  +----+----------------------+---------+-------------------+
+  | 10 | White Headband       |     200 | All Thief         |
+  | 25 | Green Headband       |     400 | All Thief         |
+  | 40 | Yellow Headband      |   1,500 | All Thief         |
+  | 65 | Orange Headband      |   7,500 | All Thief         |
+  | 80 | Blue Headband        |  20,000 | All Thief         |
+  | 90 | Red Headband         |  43,000 | Th As Rg Ra Sb Mc |
+  | 95 | Black Headband       |  50,000 | Th As Rg Ra Sb Mc |
+  | 96 | Sanguinary Circlet   | 750,000 | Th As Sb Rg       |
+  +----+----------------------+---------+-------------------+
+  | 1  | White Shirt          |     220 | All Thief         |
+  | 2  | Black Shirt          |     410 | All Thief         |
+  | 5  | Amber Vest           |     900 | All Thief         |
+  | 10 | Rogue Jacket         |   1,300 | All Thief         |
+  | 20 | Garnet Coat          |   2,200 | All Thief         |
+  | 30 | Crimson Mail         |   5,000 | All Thief         |
+  | 40 | Lupine Vestment      |  15,000 | All Thief         |
+  | 50 | Grand Vestcoat       |  25,000 | All Thief         |
+  | 65 | Full Metal Jacket    |  75,000 | Th As Rg Ra Sb Mc |
+  | 80 | Nightmare Garb       | 200,000 | Th As Rg Ra Sb Mc |
+  | 90 | Brigandine           | 350,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 1  | Sandals              |      60 | All               |
+  | 2  | Boots                |     180 | All               |
+  | 10 | Red Boots            |     500 | All Thief         |
+  | 20 | Thief Boots          |   1,100 | All Thief         |
+  | 40 | Sturdy Boots         |   5,000 | All Thief/Warrior |
+  | 50 | Silent Shoes         |   5,500 | All Thief         |
+  | 80 | Combat Boots         |  65,000 | Th As Rg Ra Sb Mc |
+  | 90 | Rogue Boots          | 115,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 1  | Cape                 |      90 | All               |
+  | 10 | Dark Cape            |     500 | All Thief         |
+  | 30 | Brown Cape           |   1,800 | All Thief         |
+  | 50 | Black Cape           |  10,000 | All Thief         |
+  | 60 | Rogue Cape           |  20,000 | All Thief         |
+  | 80 | Shadow Cloak         |  80,000 | Th As Rg Ra Sb Mc |
+  | 85 | Assassin's Cloak     | 110,000 | Th As Rg Sb Mc    |
+  | 90 | Red Cape             | 140,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 1  | Gloves               |      50 | All               |
+  | 12 | White Gloves         |     400 | All               |
+  | 25 | Leather Gloves       |     950 | All               |
+  | 50 | Rogue Gloves         |   6,500 | All Thief         |
+  | 65 | Thief Gloves         |  15,000 | Th As Rg Ra Sb Mc |
+  | 85 | Black Leather Gloves |  60,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 5  | Brown Belt           |     250 | All               |
+  | 20 | Leather Belt         |   1,000 | All               |
+  | 45 | Snakeskin Belt       |   6,000 | All Thief         |
+  | 80 | Black Belt           |  65,000 | Th As Rg Ra Sb Mc |
+  | 90 | Red Belt             |  90,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 1  | Black Pants          |     100 | All Thief         |
+  | 3  | Leather Pants        |     200 | All Thief         |
+  | 8  | Brown Corduroys      |     600 | All Thief         |
+  | 18 | Black Corduroys      |   1,200 | All Thief         |
+  | 30 | Red Corduroys        |   2,300 | All Thief         |
+  | 50 | Camouflage Pants     |  12,500 | Th As Rg Ra Sb Mc |
+  | 66 | Assassin's Pants     |  37,500 | Th As Rg Sb Mc    |
+  | 88 | Black Rogue Pants    | 165,000 | Th As Rg Ra Sb Mc |
+  | 92 | Black Cargo Pants    | 180,000 | Th As Rg Ra Sb Mc |
+  +----+----------------------+---------+-------------------+
+  | 3  | Leather Bracer       |     150 | All               |
+  | 15 | Bronze Bracer        |     550 | All Thief/Warrior |
+  | 55 | Metal Bracer         |   9,500 | All Thief/Warrior |
+  | 75 | Spiked Wristband     |  45,000 | All Thief/Warrior |
+  | 85 | Steel Bracer         |  82,500 | All Thief/Warrior |
+  +----+----------------------+---------+-------------------+
+  | 5  | Brass Ring           |     250 | All               |
+  | 20 | Emerald Ring         |   1,500 | All               |
+  | 35 | Ruby Ring            |   9,000 | All               |
+  | 50 | Sapphire Ring        |  20,000 | All               |
+  | 50 | Ring of Precision    |  22,000 | All Thief         |
+  | 80 | Ring of Balance      | 180,000 | All Thief         |
+  | 90 | Diamond Ring         | 450,000 | All               |
+  +----+----------------------+---------+-------------------+
+  | 35 | Bronze Medal         |  10,000 | All               |
+  | 60 | Silver Medal         | 100,000 | All               |
+  | 80 | Gold Medal           | 350,000 | All               |
+  | 80 | Lapis Amulet         | 200,000 | All Thief         |
+  | 90 | Bloodstone Medallion | 750,000 | All Thief         |
+  | 99 | Black Narcissus      |   2 Mil | All Thief         |
+  +----+----------------------+---------+-------------------+
+  | 20 | Jade Earring         |   1,200 | All               |
+  | 35 | Emerald Earring      |   8,500 | All               |
+  | 50 | Sapphire Earring     |  20,000 | All               |
+  | 75 | Ruby Earring         | 150,000 | All               |
+  | 90 | Diamond Earring      | 450,000 | All               |
+  +----+----------------------+---------+-------------------+

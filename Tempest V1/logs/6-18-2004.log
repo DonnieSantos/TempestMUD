@@ -1,0 +1,23 @@
+[1:34:44 SYSTEM                   ] Tempest Server Started.
+[1:34:48 SYSTEM                   ] 127.0.0.1 connected to server.
+[1:34:49 127.0.0.1 LOGIN          ] (VOID) genevieve
+[1:34:49 127.0.0.1 LOGIN          ] (VOID) genna
+[1:34:50 127.0.0.1 Genevieve      ] (1576) Entered the world.
+[1:34:53 127.0.0.1 Genevieve      ] (1576) clan info bloody rose
+[1:35:0 SYSTEM                    ] 127.0.0.1 Genevieve went linkdead in-game.
+[1:45:7 SYSTEM                    ] Tempest Server Started.
+[1:45:10 SYSTEM                   ] 127.0.0.1 connected to server.
+[1:45:11 127.0.0.1 LOGIN          ] (VOID) genevieve
+[1:45:12 127.0.0.1 LOGIN          ] (VOID) genna
+[1:45:12 127.0.0.1 Genevieve      ] (1576) Entered the world.
+[1:45:15 127.0.0.1 Genevieve      ] (1576) clan info bloody rose
+[1:45:20 SYSTEM                   ] 127.0.0.1 Genevieve went linkdead in-game.
+[17:59:32 SYSTEM                  ] Tempest Server Started.
+[17:59:35 SYSTEM                  ] 127.0.0.1 connected to server.
+[17:59:37 127.0.0.1 LOGIN         ] (VOID) genevieve
+[17:59:38 127.0.0.1 LOGIN         ] (VOID) genna
+[17:59:38 127.0.0.1 Genevieve     ] (1576) Entered the world.
+[17:59:39 127.0.0.1 Genevieve     ] (1576) goto zora
+[17:59:41 127.0.0.1 Genevieve     ] (1576) say list
+[17:59:43 127.0.0.1 Genevieve     ] (1576) say zora list
+[18:4:7 SYSTEM                    ] 127.0.0.1 Genevieve went linkdead in-game.

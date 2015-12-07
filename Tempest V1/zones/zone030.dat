@@ -1,0 +1,307 @@
+Zone Name = #rBloody Rose#N
+Zone Number = 30
+Zone Size = 28
+Repop Rate = 100
+Mobiles = 0
+Terrain = Normal Flat Terrain
+Scheme = Red
+
+ROOM 3000
+FLAG NO_MOB
+BEGIN
+#rThe Order of the Bloody Rose#N
+Before you lies a silvery, yet somewhat rusty, metal gate atop a foot-high slab of vermilion stained concrete.
+Aside from this sanguine stepping stone, nothing apparently prohibits your entrance, save two stone statues that
+stand vigilant on each side of the gate. The creaky hinges seem to be time frozen, which would imply that the gate
+has been open for quite some time, as it is now. Similarly, the iron heart-shaped handles on each side of the gate
+seem to have not been touched in ages. The two life-like statues are a bit intimidating, yet you feel that they are
+not the only danger that lies in store for the hapless intruder. Perhaps you should examine your surroundings a bit
+more carefully before you proceed.
+END
+LOAD_ITEM 3014
+EAST 100
+WEST 3030
+NORTH 3001
+
+LOOK 3000 north
+BEGIN
+Just beyond the open gate, there seems to be a widening space leading into a more open area. The narrow path must
+have been used as a means of keeping watch over the entrance into this territory. Looking even closer, you can see
+some type of stone construct, perhaps a small fort, in the near distance to the north. Judging from the
+hauntingly realistic appearance of the two stone assassins guarding the gate, you realize that this must be the
+base of operations for some very dangerous people. It's probably not a good idea to go in uninvited.
+END
+
+LOOK 3000 statue statues blade blades
+BEGIN
+Upon closer examination, you see that the two statues guarding the gate are in the likeness of two female assassins.
+They strike a similar pose, each holding a dagger with a clenched fist, pointed downwards, held firmly against their
+left breast. Both have their eyes closed. The image suggests that they are giving some type of solemn salute to
+an unknown figure, with their weapons held to their hearts. Even with closed eyes, you can feel them watching you.
+END
+
+ROOM 3001
+BEGIN
+#rJust Inside The Gate#N
+The narrow path through the thick forest has widened on this side of the gate. You are standing on the far southern end
+of a circular field, enclosed on all sides by the dense tree formations. The ground is covered in yellow and orange leaves,
+equally distributed throughout the large circle. The confined area is somewhat empty, except for another large statue just
+to the north, and the entrance to the fort just beyond it. You can see that under the mesh of colorful leaves, the
+ground below your feet has a strange hint of red amidst the brown dirt.
+END
+SOUTH 3000
+NORTH 3004
+
+LOOK 3001 south
+BEGIN
+To the south of here lies the always open, yet always protected gate which leads into the circle of blood.
+END
+
+LOOK 3001 north
+BEGIN
+Just north of here, you see a statue that is at least twice the size of the gate guardians, standing tall
+at the center of the circle of blood.
+END
+
+ROOM 3002
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3007
+EAST 3003
+
+ROOM 3003
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3002
+NORTH 3008
+EAST 3004
+
+ROOM 3004
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3003
+NORTH 3009
+EAST 3005
+SOUTH 3001
+
+ROOM 3005
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3004
+NORTH 3010
+EAST 3006
+
+ROOM 3006
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3005
+NORTH 3011
+
+ROOM 3007
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3012
+EAST 3008
+SOUTH 3002
+
+ROOM 3008
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3007
+NORTH 3013
+SOUTH 3003
+EAST 3009
+
+ROOM 3009
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3014
+SOUTH 3004
+EAST 3010
+WEST 3008
+
+ROOM 3010
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3015
+SOUTH 3005
+EAST 3011
+WEST 3009
+
+ROOM 3011
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3016
+SOUTH 3006
+WEST 3010
+
+ROOM 3012
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3017
+SOUTH 3007
+EAST 3013
+
+ROOM 3013
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3018
+SOUTH 3008
+EAST 3014
+WEST 3012
+
+ROOM 3014
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3019
+SOUTH 3009
+WEST 3013
+EAST 3015
+
+ROOM 3015
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3020
+SOUTH 3010
+WEST 3014
+EAST 3016
+
+ROOM 3016
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3021
+SOUTH 3011
+WEST 3015
+
+ROOM 3017
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3022
+SOUTH 3012
+EAST 3018
+
+ROOM 3018
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3023
+SOUTH 3013
+WEST 3017
+EAST 3019
+
+ROOM 3019
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3024
+SOUTH 3014
+WEST 3018
+EAST 3020
+
+ROOM 3020
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3025
+SOUTH 3015
+WEST 3019
+EAST 3021
+
+ROOM 3021
+BEGIN
+The Empty Room
+[blank]
+END
+NORTH 3026
+SOUTH 3016
+WEST 3020
+
+ROOM 3022
+BEGIN
+The Empty Room
+[blank]
+END
+SOUTH 3017
+EAST 3023
+
+ROOM 3023
+BEGIN
+The Empty Room
+[blank]
+END
+SOUTH 3018
+WEST 3022
+EAST 3024
+
+ROOM 3024
+BEGIN
+The Empty Room
+[blank]
+END
+SOUTH 3019
+WEST 3023
+EAST 3025
+
+ROOM 3025
+BEGIN
+The Empty Room
+[blank]
+END
+SOUTH 3020
+WEST 3024
+EAST 3026
+
+ROOM 3026
+BEGIN
+The Empty Room
+[blank]
+END
+WEST 3025
+SOUTH 3021
+
+ROOM 3030
+FLAG PKOK
+BEGIN
+#rThe PK Room#N
+This is the only room that you can kill other players in.  Area effect spells will hit anybody that is
+not in your group, so be careful!
+END
+EAST 3000
+NORTH 1500
+
+-End- 

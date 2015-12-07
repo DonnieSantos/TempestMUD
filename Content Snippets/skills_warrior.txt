@@ -1,0 +1,21 @@
+
+  +--------------+-------------------+
+  | Right Hand   | Excalibur         |
+  | Left Hand    | Silver Shield     |
+  +--------------+-------------------+
+  | Head         | Knight's Helmet   | 90
+  | Body         | Full Plate Mail   | 675
+  | Back         | White Cape        | 135
+  | Hands        | Silver Gauntlets  | 30
+  | Waist        | Plated Belt       | 30
+  | Legs         | Silver Leggings   | 180
+  | Feet         | Silver Boots      | 45
+  +--------------+-------------------+
+  | Neck         | Black Narcissus   | 0
+  | Right Wrist  | Silver Bracer     | 30
+  | Left Wrist   | Silver Bracer     | 30
+  | Right Finger | Ruby Ring         | 0
+  | Left Finger  | Ruby Ring         | 0
+  | Right Ear    | Ruby Earring      | 0
+  | Left Ear     | Ruby Earring      | 0
+  +--------------+-------------------+

@@ -1,0 +1,31 @@
+[0:56:12 SYSTEM                   ] 192.168.1.1 connected to server.
+[0:56:13 192.168.1.1 LOGIN        ] (VOID)  'g
+[0:56:15 192.168.1.1 LOGIN        ] (VOID) Genevieve
+[0:56:16 192.168.1.1 LOGIN        ] (VOID) genna
+[0:56:16 192.168.1.1 Genevieve    ] (3000) Entered the world.
+[0:56:17 192.168.1.1 Genevieve    ] (3000) zlist
+[0:56:19 192.168.1.1 Genevieve    ] (3000) zlist all
+[0:56:45 192.168.1.1 Genevieve    ] (3000) Ba'Degra
+[0:56:50 192.168.1.1 Genevieve    ] (3000) quit
+[0:56:50 SYSTEM                   ] 192.168.1.1 Genevieve quit the game.
+[1:12:40 SYSTEM                   ] Tempest Server Started.
+[1:29:12 SYSTEM                   ] 192.168.1.1 connected to server.
+[1:29:12 192.168.1.1 LOGIN        ] (VOID)  'g
+[1:29:15 192.168.1.1 LOGIN        ] (VOID) genevieve
+[1:29:15 192.168.1.1 LOGIN        ] (VOID) genna
+[1:29:16 192.168.1.1 Genevieve    ] (3000) Entered the world.
+[1:29:17 192.168.1.1 Genevieve    ] (3000) rlist all
+[1:29:22 192.168.1.1 Genevieve    ] (3000) zlist all
+[1:29:25 192.168.1.1 Genevieve    ] (3000) zlist
+[1:29:27 192.168.1.1 Genevieve    ] (3000) quit
+[1:29:27 SYSTEM                   ] 192.168.1.1 Genevieve quit the game.
+[1:31:41 SYSTEM                   ] 192.168.1.1 connected to server.
+[1:31:41 192.168.1.1 LOGIN        ] (VOID)  'g
+[1:31:44 192.168.1.1 LOGIN        ] (VOID) Genevieve
+[1:31:44 192.168.1.1 LOGIN        ] (VOID) genna
+[1:31:45 192.168.1.1 Genevieve    ] (3000) Entered the world.
+[1:31:48 192.168.1.1 Genevieve    ] (3000) clan info all
+[1:31:50 192.168.1.1 Genevieve    ] (3000) clan info
+[1:31:54 192.168.1.1 Genevieve    ] (3000) clan info bloody rose
+[1:32:4 192.168.1.1 Genevieve     ] (3000) quit
+[1:32:4 SYSTEM                    ] 192.168.1.1 Genevieve quit the game.

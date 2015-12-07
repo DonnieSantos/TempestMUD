@@ -1,0 +1,27 @@
+[3:50:51 SYSTEM                   ] Tempest Server Started.
+[3:50:53 SYSTEM                   ] 192.168.1.1 connected to server.
+[3:50:54 192.168.1.1 LOGIN        ] (VOID)  'g
+[3:50:55 192.168.1.1 LOGIN        ] (VOID) Genevieve
+[3:50:56 192.168.1.1 LOGIN        ] (VOID) genna
+[3:50:56 192.168.1.1 Genevieve    ] (1563) Entered the world.
+[3:51:0 192.168.1.1 Genevieve     ] (1563) clan ranks bloody rose
+[3:51:12 SYSTEM                   ] 192.168.1.1 Genevieve went linkdead in-game.
+[4:5:16 SYSTEM                    ] Tempest Server Started.
+[4:5:23 SYSTEM                    ] 192.168.1.1 connected to server.
+[4:5:26 192.168.1.1 LOGIN         ] (VOID)  'Genevieve
+[4:5:27 192.168.1.1 LOGIN         ] (VOID) genna
+[4:5:28 192.168.1.1 CREATION      ] (VOID) no
+[4:5:30 192.168.1.1 LOGIN         ] (VOID) genevieve
+[4:5:31 192.168.1.1 LOGIN         ] (VOID) genna
+[4:5:31 192.168.1.1 Genevieve     ] (1563) Entered the world.
+[4:5:34 192.168.1.1 Genevieve     ] (1563) rel
+[4:7:2 192.168.1.1 Genevieve      ] (1563) rel list
+[4:7:6 192.168.1.1 Genevieve      ] (1563) rel degrees golgotha
+[4:12:26 192.168.1.1 Genevieve    ] (1563) clan roster bloody rose
+[4:12:33 192.168.1.1 Genevieve    ] (1563) clan ranks bloody rose
+[4:13:7 192.168.1.1 Genevieve     ] (1563) slay orchid
+[4:13:56 192.168.1.1 Genevieve    ] (1563) rel members golgotha
+[4:14:9 192.168.1.1 Genevieve     ] (1563) rel info golgotha
+[4:14:27 192.168.1.1 Genevieve    ] (1563) clan info bloody rose
+[4:16:36 SYSTEM                   ] 192.168.1.1 Genevieve went linkdead in-game.
+[4:18:36 SYSTEM                   ] 192.168.1.1 Genevieve dropped from the game.

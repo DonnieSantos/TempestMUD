@@ -1,0 +1,94 @@
+[16:06:55 SYSTEM                  ] Tempest Server Started on port 7000.
+[16:07:01 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[16:07:04 SYSTEM                  ] 192.168.1.1 Account Donnie connected to server.
+[16:07:06 SYSTEM                  ] 192.168.1.1 Genevieve entering game.
+[16:07:07 192.168.1.1 Genevieve   ] (331) users
+[16:07:10 192.168.1.1 Genevieve   ] (331) e
+[16:07:12 192.168.1.1 Genevieve   ] (327) d
+[16:07:14 192.168.1.1 Genevieve   ] (1) read board
+[16:07:16 192.168.1.1 Genevieve   ] (1) u
+[16:07:18 192.168.1.1 Genevieve   ] (327) read board
+[16:07:35 192.168.1.1 Genevieve   ] (327) read 1
+[16:07:42 192.168.1.1 Genevieve   ] (327) read 3
+[16:07:53 192.168.1.1 Genevieve   ] (327) read board
+[16:08:26 192.168.1.1 Genevieve   ] (327) read 6
+[16:08:39 192.168.1.1 Genevieve   ] (327) read 12
+[17:38:21 192.168.1.1 Genevieve   ] (327) read board
+[17:38:24 192.168.1.1 Genevieve   ] (327) read 4
+[17:38:34 192.168.1.1 Genevieve   ] (327) goto 1
+[17:38:36 192.168.1.1 Genevieve   ] (1) read board
+[17:38:38 192.168.1.1 Genevieve   ] (1) read 1
+[17:38:52 192.168.1.1 Genevieve   ] (1) list room 0
+[17:38:56 192.168.1.1 Genevieve   ] (1) list room -1
+[17:38:58 192.168.1.1 Genevieve   ] (1) list room 2000
+[17:38:58 SYSTEM                  ] java.lang.ArrayIndexOutOfBoundsException: 100
+[17:38:58 SYSTEM                  ] World.getZone(World.java:51)
+[17:38:58 SYSTEM                  ] Immortal.rlistNum(Immortal.java:652)
+[17:38:58 SYSTEM                  ] Immortal.rlist(Immortal.java:608)
+[17:38:58 SYSTEM                  ] Immortal.list(Immortal.java:323)
+[17:38:58 SYSTEM                  ] Interpreter.interpret(Interpreter.java:332)
+[17:38:58 SYSTEM                  ] Interpreter.interpretCommand(Interpreter.java:142)
+[17:38:58 SYSTEM                  ] PlayerInterface.handleInput(PlayerInterface.java:30)
+[17:38:58 SYSTEM                  ] Client.handleInput(Client.java:60)
+[17:38:58 SYSTEM                  ] ClientList.spin(ClientList.java:339)
+[17:38:58 SYSTEM                  ] Server.acceptingState(Server.java:77)
+[17:38:58 SYSTEM                  ] Server.main(Server.java:35)
+[17:38:58 SYSTEM                  ] Waiting for writing to finish.
+[17:42:06 SYSTEM                  ] Tempest Server Started on port 7000.
+[17:42:10 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[17:42:15 SYSTEM                  ] 192.168.1.1 Account Fhirin connected to server.
+[17:42:15 SYSTEM                  ] 192.168.1.1 Aristal entering game.
+[17:42:18 192.168.1.1 Aristal     ] (327) rlist 2000
+[17:42:21 192.168.1.1 Aristal     ] (327) list room 2000
+[17:42:25 192.168.1.1 Aristal     ] (327) list room -1
+[17:42:28 192.168.1.1 Aristal     ] (327) list room 5
+[17:42:31 192.168.1.1 Aristal     ] (327) list room 10
+[17:42:37 192.168.1.1 Aristal     ] (327) killgame
+[17:42:37 SYSTEM                  ] 192.168.1.1 Aristal went linkdead.
+[17:42:37 SYSTEM                  ] Waiting for writing to finish.
+[17:47:05 SYSTEM                  ] Tempest Server Started on port 7000.
+[17:52:35 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[17:52:37 SYSTEM                  ] 192.168.1.1 Account Fhirin connected to server.
+[17:52:37 SYSTEM                  ] 192.168.1.1 Aristal entering game.
+[17:52:41 192.168.1.1 Aristal     ] (327) rlist well
+[17:52:43 192.168.1.1 Aristal     ] (327) goto 174
+[17:52:52 192.168.1.1 Aristal     ] (174) goto 229
+[17:52:54 192.168.1.1 Aristal     ] (229) d
+[17:52:55 192.168.1.1 Aristal     ] (230) d
+[17:52:57 192.168.1.1 Aristal     ] (231) d
+[17:52:57 192.168.1.1 Aristal     ] (231) n
+[17:53:09 192.168.1.1 Aristal     ] (232) firce argeta j siobhan
+[17:53:15 192.168.1.1 Aristal     ] (232) force argeta k siobhan
+[17:53:16 192.168.1.1 Aristal     ] (232) l
+[17:53:23 192.168.1.1 Aristal     ] (232) l
+[17:53:26 192.168.1.1 Aristal     ] (232) slk
+[17:53:26 192.168.1.1 Aristal     ] (232) sk
+[17:53:32 192.168.1.1 Aristal     ] (232) tiger argeta
+[17:53:32 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:32 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:32 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:34 192.168.1.1 Aristal     ] (232) l
+[17:53:38 192.168.1.1 Aristal     ] (232) tiger siobhan
+[17:53:38 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:39 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:39 192.168.1.1 Aristal     ] (232) tiger strike
+[17:53:40 192.168.1.1 Aristal     ] (232) e
+[17:53:40 192.168.1.1 Aristal     ] (232) w
+[17:53:41 192.168.1.1 Aristal     ] (232) l
+[17:53:41 192.168.1.1 Aristal     ] (232) n
+[17:53:42 192.168.1.1 Aristal     ] (232) s
+[17:53:42 192.168.1.1 Aristal     ] (231) n
+[17:53:43 192.168.1.1 Aristal     ] (232) i
+[17:54:06 192.168.1.1 Aristal     ] (232) stats
+[17:54:34 192.168.1.1 Aristal     ] (232) i
+[17:54:36 192.168.1.1 Aristal     ] (232) iedit rose
+[20:21:52 192.168.1.1 Aristal     ] (232) quit
+[20:21:52 SYSTEM                  ] 192.168.1.1 Aristal has quit the game.
+[20:21:52 SYSTEM                  ] 192.168.1.1 Account Fhirin has quit the game.
+[20:21:59 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[20:22:02 SYSTEM                  ] 192.168.1.1 Account Donnie connected to server.
+[20:22:02 SYSTEM                  ] 192.168.1.1 Genevieve entering game.
+[20:22:03 192.168.1.1 Genevieve   ] (331) save
+[20:22:04 192.168.1.1 Genevieve   ] (331) quit
+[20:22:04 SYSTEM                  ] 192.168.1.1 Genevieve has quit the game.
+[20:22:04 SYSTEM                  ] 192.168.1.1 Account Donnie has quit the game.

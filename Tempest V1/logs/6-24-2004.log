@@ -1,0 +1,25 @@
+[5:58:5 SYSTEM                    ] Tempest Server Started.
+[5:58:8 SYSTEM                    ] 127.0.0.1 connected to server.
+[5:58:10 127.0.0.1 LOGIN          ] (VOID) genevieve
+[5:58:10 127.0.0.1 LOGIN          ] (VOID) genna
+[5:58:10 127.0.0.1 Genevieve      ] (1000) Entered the world.
+[5:58:13 127.0.0.1 Genevieve      ] (1000) scout
+[5:58:24 127.0.0.1 Genevieve      ] (1000) scout
+[5:58:25 127.0.0.1 Genevieve      ] (1000) e
+[5:58:25 127.0.0.1 Genevieve      ] (1000) scout
+[5:58:26 127.0.0.1 Genevieve      ] (1000) s
+[5:58:26 127.0.0.1 Genevieve      ] (1051) scout
+[5:58:44 127.0.0.1 Genevieve      ] (1051) e
+[5:58:44 127.0.0.1 Genevieve      ] (1001) e
+[5:58:45 127.0.0.1 Genevieve      ] (1002) e
+[5:58:48 127.0.0.1 Genevieve      ] (1003) scout
+[5:59:9 127.0.0.1 Genevieve       ] (1003) quit
+[5:59:9 SYSTEM                    ] 127.0.0.1 Genevieve quit the game.
+[21:21:39 SYSTEM                  ] Tempest Server Started.
+[21:21:42 SYSTEM                  ] 127.0.0.1 connected to server.
+[21:21:46 127.0.0.1 LOGIN         ] (VOID) genevieve
+[21:21:46 127.0.0.1 LOGIN         ] (VOID) genna
+[21:21:47 127.0.0.1 Genevieve     ] (1003) Entered the world.
+[21:21:48 127.0.0.1 Genevieve     ] (1003) goto orchid
+[21:21:54 127.0.0.1 Genevieve     ] (1563) l orchid
+[21:26:39 SYSTEM                  ] 127.0.0.1 Genevieve went linkdead in-game.

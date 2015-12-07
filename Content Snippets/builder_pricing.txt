@@ -1,0 +1,39 @@
+
+  +-----------------------------------------------------------------------------+
+  | Gold Balance Chart:                                                         |
+  |                                                                             |
+  | This chart presents how much gold characters should have at certan levels.  |
+  | The three columns represent whether they are poor, average, or rich.        |
+  | Keep in mind that the tendency on a MUD is to get way more gold than        |
+  | anyone anticipated possible, so keep gold rare, bought equipment expensive, |
+  | and found equipment relatively worthless.                                   |
+  |                                                                             |
+  |                +-------------------------------------------+                |
+  |                | Level     Minimum     Average     Loaded  |                |
+  |                +-------------------------------------------+                |
+  |                | 1         100         250         500     |                |
+  |                | 2         200         500         1000    |                |
+  |                | 5         500         1,000       2,000   |                |
+  |                | 10        750         1,500       3,000   |                |
+  |                | 20        1,500       3,000       6,000   |                |
+  |                | 30        3,000       5,000       10,000  |                |
+  |                | 40        7,000       15,000      30,000  |                |
+  |                | 50        12,500      25,000      50,000  |                |
+  |                | 60        25,000      50,000      100,000 |                |
+  |                | 70        50,000      100,000     200,000 |                |
+  |                | 80        100,000     200,000     400,000 |                |
+  |                | 90        175,000     350,000     700,000 |                |
+  |                | 99        250,000     500,000     1 Mil   |                |
+  |                +-------------------------------------------+                |
+  |                                                                             |
+  | As you may recall, the general formula for how much gold a mob drops is:    |
+  |                                                                             |
+  |                               (Level * 10) / 2                              |
+  |                                                                             |
+  | To set the value of an item that a mobile holds, you might want to use this |
+  | number as a reference.  A common item may be worth about the same amount of |
+  | gold, or more, that a mob drops. A rare item would be worth even more.      |
+  |                                                                             |
+  | For pricing items to be sold in a shop, make them very expenseive.  A great |
+  | item should cost more than the expected average of total character gold.    |
+  +-----------------------------------------------------------------------------+

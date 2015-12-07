@@ -1,0 +1,182 @@
+<html>
+<title>Welcome to The Tempest!</title>
+<body background="../bg.jpg">
+<font face="verdana" style="font-size: 10pt; color:black">
+<center>
+
+&nbsp;
+<map name="menumap">
+<area shape="rect" coords="95,12,579,95" href=".././">
+
+<area shape="rect" coords="32,105,151,127" href="../news.html">
+<area shape="rect" coords="154,105,273,127" href="../manual.html">
+<area shape="rect" coords="275,105,394,127" href="../story.html">
+<area shape="rect" coords="396,105,515,127" href="../classes.html">
+<area shape="rect" coords="517,105,636,127" href="../library.html">
+
+<area shape="rect" coords="32,129,151,151" href="../images.html">
+<area shape="rect" coords="154,129,273,151" href="../clans.html">
+<area shape="rect" coords="275,129,394,151" href="../religion.html">
+<area shape="rect" coords="396,129,515,151" href="../builders.html">
+<area shape="rect" coords="517,129,636,151" href="../credits.html">
+
+<IMG SRC="../menu.jpg" usemap="#menumap" border=0>
+</map>&nbsp;<BR><BR>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Colors And File Formatting.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 10pt; color:black">
+Eventually, we will have an online system for builders to use, thus sparing them the tedious
+process of constructing their zones with the actual files. Until such a system is ready, we want
+to provide our builders with enough technical information so that they can understand how to
+build the zone themselves.<BR><BR>
+
+Please not that constructing these actual files is
+<font color=blue><b>completely optional</b></font>. Given the basic
+information for your zone, we could easily construct the files for you. If you do not feel that
+you understand the format of the files, please keep your building work abstract.<BR><BR>
+
+There are three file examples available here online, for a Zone File, Mobile File, and Item File.
+They are pretty self-explanatory to the experienced mudder. There are a few technical details that
+I want to make sure are completely spelled out, in case of any confusion. If you feel this section
+is missing anything, please let us know.<BR>
+</font>
+
+</td></tr></table>
+
+<BR>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Zone Size And ID Numbers.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 10pt; color:black">
+Technically, a zone can only be 100 rooms big. However, the code can merge more than one zone
+together and call it one zone. Odessa for instance is zone 15. There are 500 rooms allocated
+for it. That means the room numbers will range from 1500-1999. It's not such a big deal, since
+zone 15 still refers to all of those rooms, even the ones out of 1500-1599 range. The thing is,
+is that now there can be no zone 16, 17, 18, or 19. Because those room IDs are taken. All this
+means is that you should report early on if your zone is going to be very large, so that we can
+assign you more than 100 rooms.
+</font>
+
+</td></tr></table>
+
+<BR>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Description Spacing.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 10pt; color:black">
+There is a 500 character limit to each line that the file processor will read. To be on the safe side,
+make sure that any long descriptions have enough line-breaks in them so that you can read it all without
+having to scroll horizontally.<BR><BR>
+
+Also, never ever EVER use double spaces. Not after periods, nowhere. If a space is required to separate
+two words, always use one single space.<BR>
+</font>
+
+</td></tr></table>
+
+<BR>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>How To Use Colors.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 10pt; color:black">
+
+To add color to a word, put a color mark before it, and after it to change it back.<BR><BR>
+
+<table border=0>
+
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">n = White</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">N = Grey (Normal)</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">r = Red</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">R = Dark Red</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">g = Green</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">G = Dark Green</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">b = Blue</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">B = Dark Blue</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">y = Yellow</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">Y = Dark Yellow</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">c = Cyan</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">C = Dark Cyan</td>
+</tr>
+<tr>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">m = Magenta</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="courier new" style="font-size: 10pt; color:black">M = Purple</td>
+</tr>
+</table><BR>
+
+<table border=0>
+<tr>
+<td><font face="verdana" style="font-size: 10pt; color:black"><b>Usage:</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">
+A pound sign followed by the letter of the available color.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 10pt; color:black"><b>Example:</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">This is a #rRed#N Rose.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 10pt; color:black"><b>Output:</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 10pt; color:black">This is a <font color=red>Red</font> Rose.</td>
+</tr>
+</table>
+
+</font>
+
+</td></tr></table>
+
+</center>
+
+<BR><BR>
+
+</font>
+</body>
+</html>

@@ -1,0 +1,370 @@
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                            Warrior                          |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Warriors are masters of close combat who specialize in all  |
+  | forms of weaponry and armor. They are durable and strong.   |
+  | While they rely mainly on brute force to get them through   |
+  | rough situations, not all Warriors are without skill. Some  |
+  | experienced Warriors can learn a variety of attack skills,  |
+  | and in some cases even beneficial spells to enhance their   |
+  | protection and perception.                                  |
+  |                                                             |
+  | At level 10, Warriors may become a Paladin or Anti-Paladin. |
+  | Type 'help classes' for information on changing classes.    |
+  |                                                             |
+  | Warriors who stay pure to their profession, and never       |
+  | deviate into the study of other arts, may receive special   |
+  | abilities and the unique title of Master Warrior. While     |
+  | there are, of course, huge advantages to the specialized    |
+  | Warrior classes, and |the long journey to level 99 as just  |
+  | a Warrior is certainly more difficult, there may be some    |
+  | subtle or yet unknown rewards for accomplishing this.       |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                            Knight                           |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Knights are more chivalrous and less barbaric than common   |
+  | Warriors. They abide by a code of conduct, and loyally      |
+  | serve their masters when wartime arises. Knights have more  |
+  | expertise in the area of weaponry and armor than Warriors,  |
+  | but are not nearly as vicious or aggressive. Their superior |
+  | equipment as well as the addition of some beneficial spells |
+  | do, however, make the Knight class far more versatile. A    |
+  | Knight who is aligned with the Light may become a Paladin.  |
+  | Paladins are Holy Knights who possess magical healing       |
+  | abilities and extra armored protection at the cost of       |
+  | damage capabilities. Dark aligned Knights may become        |
+  | Anti-Paladins, who also possess some magical abilities, but |
+  | receive their true gain in the area of raw damage and the   |
+  | ability to kill quickly and efficiently. In general, all    |
+  | forms of Knighthood are well-rounded and well-protected     |
+  | close combat professions.                                   |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help paladin' or 'help anti-paladin'.                 |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                          Berzerker                          |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Berzerkers have taken the aggressive philosophy of a        |
+  | Warrior to a new level. Not very concerned with magic or    |
+  | skills, Berzerkers strive to increase damage and physical   |
+  | protection over all other things. They are Warriors who     |
+  | have become overzealous with the concept of warfare, and    |
+  | can be completely overtaken by their battle-driven emotions |
+  | at any time. Those who have been drawn towards the Light    |
+  | may find themselves a Crusader, who also has great          |
+  | close-combat abilities, but specializes mostly in defense,  |
+  | and does not have quite the ferocity of a Berzerker's       |
+  | attacks. Drawn to the Dark from a path that is already      |
+  | dangerous, a Death Knight is a fearsome combination of      |
+  | combat prowess and evil intent. They are the ultimate war   |
+  | machines; their only desire is to destroy. In any case, all |
+  | Berzerker types are strictly within the realm of pure       |
+  | physicality and overpowering strength, and do not have much |
+  | in the area of skills and spells.                           |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help crusader' or 'help death knight'.                |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                          Assassin                           |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Assassins are killers. They are the most adept and skillful |
+  | of all professions. They use these skills to execute        |
+  | specialized attacks with knives and projectiles, often      |
+  | dealing staggering critical damage. While not as versatile  |
+  | as a common Thief, the Assassin is by far a more effective  |
+  | combat profession. They are relatively weak defensively,    |
+  | but more often than not, the opponent of an Assassin may    |
+  | not even see their attacker until a knife is in their back. |
+  | This way of life, ironically, stands on the edge of a       |
+  | knife--Always on the verge of falling into the Light or     |
+  | Dark. Assassins who become overly fond of killing to the    |
+  | point where they do it out of enjoyment instead of          |
+  | necessity are known as Shadowblade. The Shadowblade are a   |
+  | fearsome variation of the Assassin, even more adept at      |
+  | stalking through the shadows and killing silently. So much  |
+  | is the case, that they lose efficiency in most of the other |
+  | areas of combat. On the other hand, some Assassins come to  |
+  | the realization that their skills can be used for good, and |
+  | protection of others. They become Rangers, masters of       |
+  | projectile weapons. They excel in tracking and scouting.    |
+  | Their marksmanship has no equal. All Assassins can kill     |
+  | quickly, but when and how they choose to do so depends on   |
+  | the individual.                                             |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help ranger' or 'help shadowblade'.                   |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                           Rogue                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Rogues answer to no one. They live by their own rules, and  |
+  | do whatever they please. A Rogue is not so combat-minded,   |
+  | but more concerned with their own prosperity, and usually   |
+  | monetary gain. They do have many useful combat skills,      |
+  | though, to rely upon when they must fight. In fact, a Rogue |
+  | is a bit more robust defensively than the common Thief or   |
+  | even an Assassin. However, their attacks are not nearly as  |
+  | effective. The true power of the Rogue lies in their        |
+  | non-combat skills. Rogues have mysterious abilities in the  |
+  | realm of weapons and item lore. Most shopkeepers are Rogues |
+  | who abandoned combat completely and became Merchants. The   |
+  | Merchant class is essential to the prosperity of others.    |
+  | Rogues and Merchants will often be asked for assistance in  |
+  | various areas from other classes who lack the skills to     |
+  | accomplish their goals. However, some Rogues decide that    |
+  | the best way to earn their gold is to fight. They become    |
+  | Mercenaries, and will wage war against anybody that their   |
+  | employer commands, regardless of morality. Mercenaries are  |
+  | far more formidable in combat than Rogues, but they lose    |
+  | many of their non-combat skills. All Rogues, though, have a |
+  | vast and indescribable array of skills that differ          |
+  | depending on the inclinations of the Rogue in question.     |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help merchant' or 'help mercenary'.                   |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                           Druid                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Druids are those who have dedicated themselves to achieving |
+  | a higher level of combat effectiveness. While not           |
+  | necessarily aligned with the dark or light, Druids are      |
+  | often of a neutral inclination, and are primarily concerned |
+  | with their ability to use magic for healing and protection. |
+  | To this end, they are more effective than the common        |
+  | Cleric. The deeply religious Druid with firm beliefs may    |
+  | become a Priest. The Priest above all other classes are     |
+  | leaders in the church, and set a shining example for all    |
+  | those of their faith. They are also the greatest healers in |
+  | the land, although are not quite as well-rounded in a       |
+  | combat sense as other Clerics may be. Not all religions are |
+  | of the light, and not all Cleric magic is laced with good   |
+  | intent. The Druid who is equally as faithfull as a Priest,  |
+  | yet feels himself compelled to the darkness, becomes the    |
+  | feared Dark Cleric. Not everything is known about the Dark  |
+  | Cleric, but it is said that they hold black masses, learn   |
+  | dark attack spells, and wish curses upon the rest of the    |
+  | world. They use their magical powers for the malcontent of  |
+  | society, or for their own selfish purposes. They do possess |
+  | healing powers, but are not concerned with the welfare of   |
+  | others. They may, if anything, use such powers to heal      |
+  | those who would kill their enemies.                         |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help priest' or 'help dark cleric'.                   |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                           Monk                              |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Monks are drawn towards the realm of physicality, in slight |
+  | abandon of their magical abilities. The Monk can fight      |
+  | using their bare hands with good results. They still        |
+  | possess some of the magical healing powers that their       |
+  | Cleric background taught them, but they now focus on        |
+  | non-magic skills as well. In addition, Monks will often be  |
+  | very wise in the areas of lore. Their knowledge of herbs    |
+  | and potions is vast. It is this that often leads them to a  |
+  | new path. A Monk who decides that herbalism and potion      |
+  | making are more interesting than fighting may become a      |
+  | Healer--A master of herbal lore. A Healer dislikes combat   |
+  | in general, but may gladly lend their assistance to those   |
+  | who need potions to heal various ailments. Often, a Healer  |
+  | will be a simple merchant, spending their days preparing    |
+  | and selling their creations. Like all things, the lore of   |
+  | concocting potions has a dark side. Those who study long    |
+  | and hard to conceive and create liquid poisions and bottled |
+  | curses are known as Alchemists. Famous for trying to create |
+  | gold of out lead, the Alchemist is selfish and mischievous; |
+  | Not to be trusted. The like-minded may find their skills    |
+  | invaluable, but beware of their treachery, and do not drink |
+  | anything they offer if it looks suspicious.                 |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help healer' or 'help alchemist'.                     |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                          Wizard                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Wizards take destructive magic to a new level. They are     |
+  | masters of the elements and wielders of immense arcane      |
+  | power. Their power is so great that they may consume a      |
+  | great host of foes with a single spell. A Wizard, like a    |
+  | Mage, may have varying degrees of versatility; while some   |
+  | Wizards may only concentrate on destruction, others may be  |
+  | balanced with a wide variety of magical abilities. There is |
+  | no telling just what kinds of things a Wizard can do, in    |
+  | and out of a combat situation. Those that are decidedly     |
+  | bent on destruction and nothing else may become a Warlock.  |
+  | The Warlock is the ultimate destroyer, and wields terrible  |
+  | explosive magicks. They suffer in various other aspects of  |
+  | combat, and may often be anathematized from society, but    |
+  | the quality of their assistance in times of conflict is     |
+  | never questioned. Not all Wizards are hell-bent on          |
+  | destruction. Some of them become a Sorcerer: A very         |
+  | balanced and versatile spell caster. While still possessing |
+  | great destructive power, the Sorcerer has many other useful |
+  | spells that can be used in combat as well as in other       |
+  | situations. Sorcerers are looked up to and respected in     |
+  | society; Like a Mage, they represent a scholar and teacher, |
+  | with an immense breadth of knowledge.                       |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help healer' or 'help alchemist'.                     |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                        Illusionist                          |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Illusionists are weavers of deception. You may not believe  |
+  | it, but some things that are not even real can hurt you.    |
+  | The Illusionist uses forgotten magicks and deceptive        |
+  | techniques to damage and confuse their foe. Inherently      |
+  | Mages, they rely mostly on magic to do their work, and      |
+  | craft their illusions out of mana and energy. Not           |
+  | necessarily light or dark, you never know what lies in the  |
+  | mind of an Illusionist. Their phase shifting powers can     |
+  | lead them to two very different paths. The light aligned    |
+  | Illusionist realizes his potential for summoning Familliars |
+  | from another plane or dimension, and calls upon them for    |
+  | assistance in times of need. They are called Summoners.     |
+  | However, those that realize the dark arts of phase          |
+  | manipulation upon one's own body can become Shapeshifters.  |
+  | These abominations can change their own physical form to    |
+  | that of a monstrous beast. Of all Mages, the Shapeshifter   |
+  | is the only one who can act as a melee fighter at times.    |
+  | The cost of this ability is dire indeed; some say that      |
+  | those who delve too deeply into this practice lose grip     |
+  | upon their very own soul.                                   |
+  |                                                             |
+  | Type 'help alignment' for information on aligned classes.   |
+  |                                                             |
+  | Also 'help healer' or 'help alchemist'.                     |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                            Cleric                           |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Clerics are altruistic magic users, who are concerned with  |
+  | protecting themselves and those around them. Their skills   |
+  | are primarily focused upon the healing arts, but also delve |
+  | into areas of enchantment and mysticism. The presense of a  |
+  | Cleric is essential to the success of a hunting party, as   |
+  | their ability to restore the vitality of injured or fallen  |
+  | warriors is unsurpassed. Both wise and talented, the Cleric |
+  | is the foundation upon which an effective group is formed.  |
+  | Clerics are often very spiritual and usually have           |
+  | affiliation with organized religion. The Cleric has many    |
+  | duties in society that are unrelated to combat. They are    |
+  | spiritual leaders in society.                               |
+  |                                                             |
+  | At level 10, a Cleric may become a Druid or a Monk.         |
+  | Type 'help classes' for information on changing classes.    |
+  |                                                             |
+  | Clerics who stay pure to their profession, and never        |
+  | deviate into the study of other arts, may receive special   |
+  | abilities and the unique title of High Cleric. While        |
+  | there are, of course, huge advantages to the specialized    |
+  | Cleric classes, and |the long journey to level 99 as just   |
+  | a Cleric is certainly more difficult, there may be some     |
+  | subtle or yet unknown rewards for accomplishing this.       |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                            Thief                            |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Thieves are somewhat strong physically, but are quite weak  |
+  | in comparison to Warriors. The true power of all            |
+  | Thief-based classes lies in their skills and specialized    |
+  | abilities. When focused on one thing, the Thief can excel   |
+  | like no other. A master of stealth and speed, Thieves rely  |
+  | on their wits and agility to lead them to victory, no       |
+  | matter what their purposes are. The skills that they learn, |
+  | though, rely heavily upon their choice of profession. For a |
+  | Thief more than any other class, one's profession can make  |
+  | a world of difference in what you can and cannot do. They   |
+  | are very specialized, so choose carefully.                  |
+  |                                                             |
+  | At Level 10, a Thief may become an Assassin or a Ranger.    |
+  | Type 'help classes' for information on changing classes.    |
+  |                                                             |
+  | Thieves who stay pure to their profession, and never        |
+  | deviate into the study of other arts, may receive special   |
+  | abilities and the unique title of Master Thief. While       |
+  | there are, of course, huge advantages to the specialized    |
+  | Thief classes, and |the long journey to level 99 as just    |
+  | a Thief is certainly more difficult, there may be some      |
+  | subtle or yet unknown rewards for accomplishing this.       |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                            Mage                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                                             |
+  | Mages are scholars and powerful attack magic users. They    |
+  | are fiercly intelligent, although very weak physically. The |
+  | adept magic user dedicates his life to the study of the     |
+  | arcane, and believes in mind over matter. A vast array of   |
+  | knowledge and an arsenal of attack spells are the weapons   |
+  | of the Mage, and his philosophy is that a good offense is   |
+  | the best defense. Mages cannot absorb damage well--They     |
+  | will more likely try and destroy the source before it has   |
+  | the chance to attack. Some Mages that do not care for       |
+  | combat might lead a life of study and solitude, but more    |
+  | often than not they are formidable adversaries when         |
+  | conflict arises.                                            |
+  |                                                             |
+  | At level 10, a Mage may become a Wizard or an Illusionist.  |
+  | Type 'help classes' for information on changing classes.    |
+  |                                                             |
+  | Mages who stay pure to their profession, and never          |
+  | deviate into the study of other arts, may receive special   |
+  | abilities and the unique title of Arch Mage. While          |
+  | there are, of course, huge advantages to the specialized    |
+  | Mage classes, and |the long journey to level 99 as just     |
+  | a Mage is certainly more difficult, there may be some       |
+  | subtle or yet unknown rewards for accomplishing this.       |
+  |                                                             |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+

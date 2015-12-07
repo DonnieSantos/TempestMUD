@@ -1,0 +1,40 @@
+[4:26:35 SYSTEM                   ] Tempest Server Started.
+[4:26:38 SYSTEM                   ] 127.0.0.1 connected to server.
+[4:26:40 127.0.0.1 LOGIN          ] (VOID) genevieve
+[4:26:40 127.0.0.1 LOGIN          ] (VOID) genna
+[4:26:40 127.0.0.1 Genevieve      ] (1563) Entered the world.
+[4:26:43 127.0.0.1 Genevieve      ] (1563) systime
+[4:26:56 127.0.0.1 Genevieve      ] (1563) quit
+[4:26:56 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.
+[4:44:59 SYSTEM                   ] Tempest Server Started.
+[4:45:1 SYSTEM                    ] 127.0.0.1 connected to server.
+[4:45:2 127.0.0.1 LOGIN           ] (VOID) genevieve
+[4:45:3 127.0.0.1 LOGIN           ] (VOID) genna
+[4:45:3 127.0.0.1 Genevieve       ] (1563) Entered the world.
+[4:45:3 127.0.0.1 Genevieve       ] (1563) time
+[4:45:7 127.0.0.1 Genevieve       ] (1563) systime
+[4:46:6 SYSTEM                    ] 127.0.0.1 Genevieve went linkdead in-game.
+[22:40:3 SYSTEM                   ] Tempest Server Started.
+[22:40:4 SYSTEM                   ] 127.0.0.1 connected to server.
+[22:40:5 127.0.0.1 LOGIN          ] (VOID) Genevieve
+[22:40:6 127.0.0.1 LOGIN          ] (VOID) genna
+[22:40:6 127.0.0.1 Genevieve      ] (1563) Entered the world.
+[22:40:7 127.0.0.1 Genevieve      ] (1563) time
+[22:44:15 SYSTEM                  ] Tempest Server Started.
+[22:44:17 SYSTEM                  ] 127.0.0.1 connected to server.
+[22:44:19 127.0.0.1 LOGIN         ] (VOID) genevieve
+[22:44:19 127.0.0.1 LOGIN         ] (VOID) genna
+[22:44:20 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[22:54:38 127.0.0.1 Genevieve     ] (1563) time
+[23:5:9 127.0.0.1 Genevieve       ] (1563) time
+[23:5:10 127.0.0.1 Genevieve      ] (1563) date
+[23:18:58 SYSTEM                  ] Tempest Server Started.
+[23:19:10 SYSTEM                  ] 127.0.0.1 connected to server.
+[23:19:12 127.0.0.1 LOGIN         ] (VOID)  'genevieve
+[23:19:12 127.0.0.1 LOGIN         ] (VOID) genna
+[23:19:14 127.0.0.1 CREATION      ] (VOID) no
+[23:19:15 127.0.0.1 LOGIN         ] (VOID) genevieve
+[23:19:15 127.0.0.1 LOGIN         ] (VOID) genna
+[23:19:15 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[23:19:16 127.0.0.1 Genevieve     ] (1563) date
+[23:19:20 SYSTEM                  ] 127.0.0.1 Genevieve went linkdead in-game.

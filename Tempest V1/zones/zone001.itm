@@ -1,0 +1,278 @@
+Zone 1
+Items = 18
+
+ITEM: 1
+TYPE: GOLD
+NAME: a #ygold coin#N
+LNAME: a #ygold coin#N
+GDESC: A shiny gold coin has been left here.
+LEVEL: 1
+WORTH: 1
+BEGIN
+A shiny gold coin.
+END
+
+ITEM: 2
+TYPE: GENERIC
+NAME: A Map of the World
+LNAME: a map of the world
+GDESC: a map lays here.
+LEVEL: 1
+WORTH: 0
+BEGIN EXACT
+#n+-------------------------------------------------------------------------+
+#n|                    #Bx x x x #MDiamante#B x x#n                                 |
+#n| #n+#BGolgotha#N                #Bx #MMountains#B x#n                                  |
+#n|                            #Bx x x x x#n                                    |
+#n|                 #n*#rOdessa#N        #Bx x x#n                                    |
+#n|                                  #Bx x#n                                    |
+#n|             #n[#BRavenna#n]             #M< >            #n[#gAlmeccia#n]             |
+#n|                                #Bx x x#n                                    |
+#n|                                #Bx x x x            #n*Lourdes              |
+#n| #G+ + + + + +#N                    #Bx x x x#n                                  |
+#n| #G+ + + + + + +#N       #G+ + + + + + +#c00000#n                                  |
+#n| #G+ #yTerracyon#G + +#N   #G+ + + + + + #c00000000000#n                               |
+#n| #G+ + #yForest#G  + +#M< >#G+ + + + + #c000#y Tempest #c000#N#C+--------#M< >#C-----------------#n+
+#n| #G+ + + + + + + +#N   #G+ + + + + + #c00000000000#n                               |
+#n|                                  #c00000#n                                  |
+#n|                                    #C+                #n*#CDamascus#n           |
+#n|                                    #C|#n                                    |
+#n|                                    #C|#n                                    |
+#n|             #n[#mVolaris#n]             #M< >            #n[#bHydecka#n]              |
+#n|                                    #C|#n                                    |
+#n|                                    #C|#n                                    |
+#n|                                    #C|#N  #gThe Wall#n                          |
+#n|  #n*#bScion#N                            #C|#g of Jericho#n                         |
+#n|                                    #C|#n                                    |
+#n+------------------------------------+------------------------------------+#N
+END
+
+ITEM: 99
+TYPE: BLOCKER
+NAME: A giant boulder
+LNAME: a giant boulder
+GDESC: #CA giant boulder is sitting here, blocking the way east.#N
+BTYPE: E obstacle
+LEVEL: 100
+WORTH: 0
+FLAG: NO_GET
+BEGIN
+A giant boulder is sitting here.
+END
+
+ITEM: 100
+TYPE: BOARD
+BOARDNAME: Main
+NAME: #GMain#N Message Board
+LNAME: a #GMain#N Message Board
+GDESC: #GThe Main Message Board sits here.#N
+LEVEL: 100
+WORTH: 0
+FLAG: NO_GET
+BEGIN
+The #GMain#N Message Board.
+END
+
+ITEM: 101
+TYPE: BOARD
+BOARDNAME: Immortal
+NAME: #cImmortal#N Message Board
+LNAME: an #cImmortal#N Message Board
+GDESC: #GThe Immortal Message Board sits here.#N
+LEVEL: 100
+WORTH: 100
+FLAG: NO_GET
+BEGIN
+The #cImmortal#N Message Board.
+END
+
+ITEM: 102
+TYPE: FOOD
+NAME: Piece of Bread
+LNAME: a piece of bread
+GDESC: A stale looking piece of bread has been left here.
+LEVEL: 1
+WORTH: 2
+BEGIN
+An ordinary piece of bread.
+END
+
+ITEM: 103
+TYPE: DRINKCONTAINER
+LTYPE: Water
+USES: 5
+MAXUSES: 5
+NAME: Buffalo Water Skin
+LNAME: a buffalo water skin
+GDESC: A skin used for holding water lies here on the ground.
+LEVEL: 1
+WORTH: 5
+BEGIN
+A canteen like object crafted from buffalo hide.
+END
+
+ITEM: 104
+TYPE: DRINKCONTAINER
+NAME: Blue Flask
+LNAME: a light blue flask
+GDESC: A light blue flask has been left here.
+LTYPE: Curatio
+USES: 2
+MAXUSES: 5
+LEVEL: 1
+WORTH: 200
+BEGIN
+A light blue flask.
+END
+
+ITEM: 106
+TYPE: FOUNTAIN
+NAME: Blue Fountain
+LNAME: a blue fountain
+GDESC: An bright fountain bubbles with blue liquid here.
+LTYPE: Curatio
+LEVEL: 100
+WORTH: 1
+FLAG: NO_GET
+BEGIN
+A blue fountain.
+END
+
+ITEM: 107
+TYPE: SCROLL
+NAME: Scroll of Gem Missile
+CSPELL: Gem Missile
+LNAME: a scroll of gem missile
+GDESC: A rolled up piece of paper has been left here.
+LEVEL: 1
+WORTH: 1
+BEGIN
+A white rolled up piece of paper.
+END
+
+ITEM: 108
+TYPE: SCROLL
+NAME: Scroll of Identify
+CSPELL: Identify
+LNAME: a scroll of identify
+GDESC: A rolled up piece of paper has been left here.
+LEVEL: 1
+WORTH: 1
+BEGIN
+A white rolled up piece of paper.
+END
+
+ITEM: 109
+TYPE: SCROLL
+NAME: Scroll of Flash
+CSPELL: Flash
+LNAME: a scroll of flash
+GDESC: A rolled up piece of paper has been left here.
+LEVEL: 1
+WORTH: 1
+BEGIN
+A white rolled up piece of paper.
+END
+
+ITEM: 110
+TYPE: FOUNTAIN
+NAME: Stone Block Fountain
+LNAME: a grey stone block fountain
+GDESC: An old grey stone block fountain bubbles with clean water here.
+LTYPE: Water
+LEVEL: 100
+WORTH: 1
+FLAG: NO_GET
+BEGIN
+An old grey stone block fountain.
+END
+
+ITEM: 111
+TYPE: EQUIPMENT
+NAME: Wand of Destruction
+LNAME: the wand of destruction
+GDESC: A wicked looking wand lies here demanding attention.
+LEVEL: 1
+CLASS: All
+PLACE: Right_Hand
+WORTH: 1
+ENHANCEMENT: All Spells 100 0
+ENHANCEMENT: Gem Missile 0 2000
+ENHANCEMENT: Flash 0 500
+ENHANCEMENT: Cure Light 0 500
+INNATE: Sanctuary
+INNATE: Shield
+CHARGED: Gem Missile
+CHARGES: 50
+BEGIN
+A wand of destruction.
+END
+
+ITEM: 112
+TYPE: GENERIC
+NAME: A Wooden Lever
+LNAME: a wooden lever
+GDESC: A large wood lever used to open the Odessa Portculis is here.
+LEVEL: 100
+FLAG: UNTOUCHABLE
+ACTION PULL
+CLASSES All
+MANA_COST 0
+WORK_ROOM 1500
+CONDITION You open
+PREC 1500 open port
+PREC 1500 TEST
+SUCC 1500 echo_room The Odessa Portculis slowly opens.
+FAIL 1500 close port
+FAIL 1500 echo_room The Odessa Portculis slowly closes.
+END ACTION
+BEGIN
+A large wooden lever.
+END
+
+ITEM: 113
+TYPE: EQUIPMENT
+NAME: A Flute
+LNAME: a flute
+LEVEL: 1
+CLASS: All
+PLACE: Right_Hand
+WORTH: 1000
+ACTION PLAY
+CLASSES Cl
+MANA_COST 50
+WORK_ROOM -1
+CONDITION
+PREC 0 load mob 1007
+PREC 0 echo_room A cat pops into existance.
+END ACTION
+BEGIN
+A well-crafted flute.
+END
+
+ITEM: 120
+TYPE: FOUNTAIN
+NAME: Fountain of Restoration
+LNAME: a fountain of restoration
+GDESC: The divine Fountain of Restoration overflows with Panacea.
+LTYPE: Panacea
+LEVEL: 100
+WORTH: 1
+FLAG: NO_GET
+BEGIN
+The fountain of restoration.
+END
+
+ITEM: 666
+TYPE: CORPSE
+MAXITEMS: 101
+NAME: #RGeneric Corpse#N
+LNAME: a #Rgeneric corpse#N
+GDESC: #RA rather undescript looking corpse is rotting here.#N
+LEVEL: 100
+WORTH: 0
+BEGIN
+#RA Generic Corpse#N
+END
+
+-End-

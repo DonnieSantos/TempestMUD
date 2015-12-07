@@ -1,0 +1,53 @@
+NAME: Katrionah
+PASSWORD: koala
+GENDER: female
+CLASS: Wizard
+HOMETOWN: #mVolaris#N
+CLAN: None
+RELIGION: None
+TITLE: needs a proper title.#N
+PRENAME: 
+LEVEL: 110
+ROOM_LOGGED: 1000
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 9000
+CURRENT_HP: 9000
+MAX_MANA: 9000
+CURRENT_MANA: 9000
+MAX_MOVE: 9000
+CURRENT_MOVE: 9000
+EXPERIENCE: 0
+STR: 999
+DEX: 999
+CON: 999
+INT: 999
+WIS: 999
+GOLD: 0
+DPOINTS: 5
+SPELL: 1 0 0
+SPELL: 2 0 0
+SPELL: 3 0 0
+SPELL: 4 0 0
+SPELL: 5 0 0
+SPELL: 6 0 0
+-END- 
+
++DESCRIPTION+
+Katrionah is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

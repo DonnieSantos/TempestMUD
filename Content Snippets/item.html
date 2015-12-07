@@ -1,0 +1,516 @@
+<html>
+<title>Welcome to The Tempest!</title>
+<body background="../bg.jpg">
+<font face="verdana" style="font-size: 10pt; color:black">
+<center>
+
+&nbsp;
+<map name="menumap">
+<area shape="rect" coords="95,12,579,95" href=".././">
+
+<area shape="rect" coords="32,105,151,127" href="../news.html">
+<area shape="rect" coords="154,105,273,127" href="../manual.html">
+<area shape="rect" coords="275,105,394,127" href="../story.html">
+<area shape="rect" coords="396,105,515,127" href="../classes.html">
+<area shape="rect" coords="517,105,636,127" href="../library.html">
+
+<area shape="rect" coords="32,129,151,151" href="../images.html">
+<area shape="rect" coords="154,129,273,151" href="../clans.html">
+<area shape="rect" coords="275,129,394,151" href="../religion.html">
+<area shape="rect" coords="396,129,515,151" href="../builders.html">
+<area shape="rect" coords="517,129,636,151" href="../credits.html">
+
+<IMG SRC="../menu.jpg" usemap="#menumap" border=0>
+</map>&nbsp;<BR><BR>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>How To Build An Item.</b><BR><BR>
+</font></center>
+
+<table border=0>
+
+<tr>
+<td width=135><font face="verdana" style="font-size: 9pt; color:black"><b>ID Number:<BR><BR><BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+Every item type needs a unique ID number. You need your Zone Number to do this properly.
+If you are zone 25, then the first item in your zone will be item 2500 (n*100).
+Then every item you add from there should increment the number. Item 2501, 2502, and so on.</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Name:</b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Every item requires a formal name. For example, "Red Rose".
+</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Lowercase Name:</b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+Informal name, for sentence construction. For example, "a red rose".</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Description:<BR><BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+What you see when you look at the item. This can be one sentence,
+or it can be a very descriptive paragraph.  For example: "The rose is very fragrant, with lush red petals."</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Ground Description:<BR><BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+What you seen when an item is lying on the ground.  Unlike the
+normal description, this must remain relatively short.  One
+sentence is usually good.  For example: "There is a beautiful red rose lying here."</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Value:</b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+Item worth, in gold. Please refer to the <font color=blue><b>Guide To Setting Item Prices</font></b>.</td>
+</tr>
+
+</font>
+</table>
+
+</font>
+</td></tr></table>
+
+<font face="verdana" style="font-size: 10pt; color:black"><BR></font>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Item Requirements.</b><BR><BR>
+</font></center>
+
+<table border=0>
+
+<tr>
+<td width=115><font face="verdana" style="font-size: 9pt; color:black"><b>Level:<BR><BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+You must be this level to even hold this item.  Once you achieve this
+level, you may hold the weapon.  You cannot equip it until you meet all
+of the other requirements, though.</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Innate Stats:<BR><BR><BR><BR><BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+Use these requirements to control what type of characters can use
+this item.  For instance, you can set a very high strength
+requirement if you want only the strongest warriors to be able to
+use it.  A level 99 character will have a total of 500 points to
+distribute between the 5 stats.  Refer to the character stats
+guide to understand how to estimate these numbers depending on character class.
+</td>
+</tr>
+
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Character Class:<BR><BR></b></td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">
+Only characters of these professions may equip/use the item.
+Use the abbreviations for any existing character classes.</td>
+</tr>
+
+</font>
+</table>
+
+<font face="courier new" style="font-size: 9pt; color:black"><BR></font>
+
+<center><table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10>
+<tr><td><font face="courier new" style="font-size: 9pt; color:black">
+Wa - Warrior<BR>
+Kn - Knight<BR>
+Br - Berzerker<BR>
+Pa - Paladin<BR>
+Cr - Crusader<BR>
+Dk - Death Knight<BR>
+Ap - Anti Paladin</td>
+<td><font face="courier new" style="font-size: 9pt; color:black">
+Th - Thief<BR>
+As - Assassin<BR>
+Rg - Rogue<BR>
+Ra - Ranger<BR>
+Me - Merchant<BR>
+Sb - Shadowblade<BR>
+Mc - Mercenary
+</td></tr><tr>
+<td><font face="courier new" style="font-size: 9pt; color:black">
+Cl - Cleric<BR>
+Dr - Druid<BR>
+Mo - Monk<BR>
+Pr - Priest<BR>
+Hl - Healer<BR>
+Dc - Dark Cleric<BR>
+Al - Alchemist</td>
+<td><font face="courier new" style="font-size: 9pt; color:black">
+Mg - Mage<BR>
+Wi - Wizard<BR>
+Il - Illusionist<BR>
+Sc - Sorcerer<BR>
+Sm - Summoner<BR>
+Wl - Warlock<BR>
+Sh - Shapeshifter</td></tr>
+</table></center>
+
+<font face="courier new" style="font-size: 9pt; color:black"><BR></font>
+
+</font>
+</td></tr></table>
+
+<font face="verdana" style="font-size: 9pt; color:black"><BR></font>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Item Stats.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 9pt; color:black">
+
+Deciding the stats of equipable items is the most critical aspect of building.
+The best strategy is to look at the <font color=blue><b>Standard Equipment Lists</b></font>,
+and give your new item similar stats, depending on how valuable it is meant to be.
+Your item does not necessarily have to have similar stats to the standards--you can customize
+your equipable items in many ways to give them distinct advantages or disadvantages.<BR><BR>
+
+The biggest risk, and most difficult part, in building is that you
+can accidentally make an item too strong.  It's easy to do this
+because your character's statistic's are influenced by 16 different
+pieces of equipment.  Try to keep in mind all possible outfits that
+the character can have on, and don't allow for the possiblity of an
+overpowered set of equipment for any particular character type. Please
+refer to the <font color=blue><b>Character Stats And Balancing Items</b></font> guide
+for detailed charts which will help you balance equipable items.<BR><BR>
+
+<center><table border=0>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Hitroll</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Greatly increases how often you hit with attacks.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Damroll</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Greatly increases how much physical damage you do.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Armorclass</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Greatly decreases physical damage taken.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Resistance</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Greatly decreases magical damage taken.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Health</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Items can add hit points.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Mana</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Items can add magic points.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Move</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Items can add movement points.</td>
+</tr>
+</table></center>
+
+</font>
+</table>
+
+<font face="verdana" style="font-size: 9pt; color:black"><BR></font>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Item Placement.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 9pt; color:black">
+This will tell you which places on your body become occupied when
+you equip the item.  If the item is not equipabble, then the
+placement will be set to "None".  An item may take up more than one
+spot on your body. For example, a full plate armor might cover your
+body, waist, and legs.  Here are the 16 available equipment places:
+<BR><BR>
+
+<center><table border=0>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Right Hand</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Weapon.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Left Hand</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Shield / Torch.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Body</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Armor / Shirt.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Head</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Helmet / Hat.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Feet</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Boots / Shoes.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Back</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Cape / Cloak.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Hands</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Gloves.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Waist</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Belt.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Legs</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Pants / Leggings.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Right Ear</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Earring.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Left Ear</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Earring.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Right Wrist</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Bracelet / Bracer.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Left Wrist</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Bracelet / Bracer.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Right Finger</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Ring.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Left Finger</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Ring.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>Neck</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">-</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">Necklace / Amulet.</td>
+</tr>
+</table></center><BR>
+
+You should be specific when naming the placements. If it is something non-specific that can
+be held in either hand, like a piece of paper, then the placement should be Both_Hands. If it
+is meant for your good hand only, then call it Right_Hand. The same goes for rings,
+earrings, etc. If you can wear a ring on either finger, the placement should be Both_Fingers.
+If the item is a weapon or a shield, name the placement "Weapon" and "Shield", respectively.
+
+</font>
+</table>
+
+<font face="verdana" style="font-size: 9pt; color:black"><BR></font>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Item Flags.</b><BR><BR>
+</font></center>
+
+<font face="verdana" style="font-size: 9pt; color:black">
+Flags tell you things about what type of item this is.  You may create
+new flags if you wish, and they can be coded upon request.  Here are some
+examples of some item flags that already exist:
+<BR><BR>
+</font>
+
+<center>
+<table border=0>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>SLASH</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item may be used for slashing skills. (sword)</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>STAB</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item may be used for stabbing skills. (dagger)</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>BOW</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item shoots arrows.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>WHIP</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item is a whip or lash.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>EDIBLE</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">You can eat this item.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>DRINKABLE</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">You can drink this item.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>POTION</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item is a potion.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>POISON</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item will poison you upon contact/consumption.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>CONTAINER</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">You can put other items inside of this item.</td>
+</tr>
+<tr>
+<td><font face="verdana" style="font-size: 9pt; color:black"><b>PERISH</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td><font face="verdana" style="font-size: 9pt; color:black">This item will be destroyed if you die.</td>
+</tr>
+</table>
+</center>
+
+</td></tr></table>
+
+<font face="verdana" style="font-size: 9pt; color:black"><BR></font>
+
+<table border=1 bordercolor=#555555 bgcolor=#EEEEEE cellspacing=0 cellpadding=10 width=650><tr><td>
+
+<center>
+<font face="verdana" style="font-size: 10pt; color:black">
+<b>Item File Example.</b><BR><BR>
+</font></center>
+
+<font face="courier new" style="font-size: 9pt; color:black">
+
+ITEM: 1516<BR>
+NAME: #MBlossom#N Dagger<BR>
+LNAME: a #Mblossom#N dagger<BR>
+GDESC: A deep purple blossom dagger is lying here.<BR>
+LEVEL: 80<BR>
+STATS: 14 14 0 0 0 0 0<BR>
+SREQS: 80 180 80 0 0<BR>
+CLASS: Th As Ra Rg Sb Mc<BR>
+PLACE: Weapon<BR>
+FLAGS: STAB<BR>
+WORTH: 250000<BR>
+BEGIN<BR>
+A #Mdeep purple#N blossom dagger. This weapon is utterly flawless. It is
+light as a daisy, sharp as a razor, and tough as nails. Its beauty is
+equally as splendid. To look upon its unmarked round and supple double-edged
+blade almost takes your breath away. Something that this dagger is certainly
+capable of doing in more ways than one.<BR>
+END
+
+</font>
+</table>
+
+</center>
+
+<BR><BR>
+
+</font>
+</body>
+</html>

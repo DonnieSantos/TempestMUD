@@ -1,0 +1,4 @@
+<Object>
+	<Variable name="name" value="Room name." />
+	<Variable name="desc" value="Room desc." />
+</Object>

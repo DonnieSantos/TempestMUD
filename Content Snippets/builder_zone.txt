@@ -1,0 +1,166 @@
+
+  +---------------------+
+  | How to build a Zone |
+  +---------------------+
+
+  +------------------------------------------------------------------------------+
+  | Building a zone is the easiest part of the building process. The majority    |
+  | of the work is creative writing, and there's not much calculation involved   |
+  | like their is with building mobiles and items. Building the zone itself is   |
+  | the fun part, and it is where you are the least confined by limitations. As  |
+  | long as you stay within the general theme of the MUD, you can write any kind |
+  | of zone you want.                                                            |
+  +------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Name:    Give your zone a name.                                                          |
+  | Number:  Your zone will be assigned a number. Get this as soon as possible.              |
+  | Color:   Pick out a standard color for all room titles in the zone.                      |
+  | Size:    Every zone has a size. This is typically 20-100 rooms, but can less or more.    |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Rooms in the Zone:                                                                       |
+  |                                                                                          |
+  | Number:       Every room in the zone needs a unique number. You need your Zone Number    |
+  |               to do this properly. If you are zone 25, then the first room in your       |
+  |               zone will be room 2500 (n*100). Then every room you add from there should  |
+  |               increment the number.  Room 2501, 2502, and so on.                         |
+  |                                                                                          |
+  | Title:        Every room in the zone has a one-line title. Keep it under 60 characters.  |
+  |               Also, you should give the title the color you chose earlier. Try to keep   |
+  |               all of the room titles in your zone the same color. It gives you a sense   |
+  |               of geography. For instance, every room in the "Bloody Rose" zone has a     |
+  |               red title.                                                                 |
+  |                                                                                          |
+  | Description:  This is what the majority of the zone consists of--room descriptions.      |
+  |               You simply write anything from a couple of sentences to a paragraph        |
+  |               that describes the room you are standing in. You can add color to          |
+  |               words if you deem necessary, but don't overuse color. If you want to       |
+  |               know the maximum length a description can be, it is (unofficially)         |
+  |               975 characters. (15 lines of 65 characters each)                           |
+  |                                                                                          |
+  | Looks:        Extra things you can look at in the room. For instance if there is         |
+  |               a statue in the room, and the person types "look statue", it will          |
+  |               show them this description. Follow the same guidelines as the room         |
+  |               description when writing a look description. (Depending on how             |
+  |               subtle you want to be, you could highlight the word "statue" in            |
+  |               color to bring it to the attention of players that they can look at        |
+  |               it. This is up to you as a builder.)                                       |
+  |                                                                                          |
+  | Blockers:     Each exit in a room can have an optional blocker. For instance, maybe      |
+  |               you want to have a gate that you can only pass if you meet a certain       |
+  |               requirement. Standard blockers are usually clan-membership blockers,       |
+  |               city citizenship blockers, or mortal blockers. Regardless, you can invent  |
+  |               your own reason for why blockers exist if you like. Mobiles can also act   |
+  |               as blockers. Consult with the implementors if you have some unorthodox     |
+  |               ideas for a blocker type.                                                  |
+  |                                                                                          |
+  | Events:       You can have your room randomly "do" things. Just specify what you want    |
+  |               the action to look like, and how often you want it to happen. See the      |
+  |               zone file example at the bottom to clarify how it might look.              |
+  |                                                                                          |
+  | Items:        A room can load an item on the ground. There is no frequency involved,     |
+  |               so all you have to do is specify the item to load.                         |
+  |                                                                                          |
+  |               PLEASE DO NOT USE DOUBLE SPACES ANYWHERE! Not even after periods!!!        |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Mapping Exits:  Each room in the zone must have its exits specified.                     |
+  |                 The six possible exits are: N S E W U D.                                 |
+  |                                                                                          |
+  |                 For example, room 100 may have an exit South to room 101.                |
+  |                 Then you would simply say:                                               |
+  |                                                                                          |
+  |                 SOUTH 101                                                                |
+  |                                                                                          |
+  |                 Please pay close attention to the accuracy of the mapping.               |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Flags:  Flags say what kind of room this is. There are many flags, and you can invent    |
+  |         your own flags if you want to request new types of rooms. Here's an example of   |
+  |         some of the already existing flags:                                              |
+  |                                                                                          |
+  |         LAWFULL   =  Nobody can attack in this room.                                     |
+  |         NO_MOB    =  Mobiles will not walk into this room.                               |
+  |         PKOK      =  Players can attack other players in this room.                      |
+  |         INDOORS   =  This room is indoors.                                               |
+  |         NO_MAGIC  =  Spells will not work in this room.                                  |
+  |         DONATION  =  Items will save when dropped in this room.                          |
+  |         SILENT    =  All channels besides "say" are unusable in this room.               |
+  |         STAGE     =  A room with a stage for holding events.                             |
+  |         REGEN     =  In this room you will regenerate faster.                            |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Colors:  To add color to a word, put a color mark before it, and after it to             |
+  |          change the color setting back to the color it was before.                       |
+  |                                                                                          |
+  |          n = White      N = Grey (Normal)                                                |
+  |          r = Red        R = Dark Red                                                     |
+  |          g = Green      G = Dark Green                                                   |
+  |          b = Blue       B = Dark Blue                                                    |
+  |          y = Yellow     Y = Dark Yellow                                                  |
+  |          c = Cyan       C = Dark Cyan                                                    |
+  |          m = Magenta    M = Purple                                                       |
+  |                                                                                          |
+  |          Usage:    A pound sign followed by the letter of the available color.           |
+  |          Example:  This is a #rRed#N Rose.                                               |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Optional Formatting:  If you think you are able to do so, you could save the coders      |
+  |                       alot of work by keeping your files in the exact format that        |
+  |                       code expects. It isn't that hard, but it can be a little           |
+  |                       tedious. We will eventually have an online editor to save          |
+  |                       everybody this trouble, and generate these files automatically,    |
+  |                       but in the meantime, here's what a zone file looks like,           |
+  |                       just in case you want to craft it yourself. (Of course, remove     |
+  |                       the decorative border. :P)                                         |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | ROOM 3000                                                                                |
+  | FLAG NO_MOB                                                                              |
+  | BEGIN                                                                                    |
+  | #rThe Order of the Bloody Rose#N                                                         |
+  | Before you lies a silvery, yet somewhat rusty, metal gate atop a foot-high slab of       |
+  | vermilion stained concrete. Aside from this sanguine stepping stone, nothing apparently  |
+  | prohibits your entrance, save two stone statues that stand vigilant on each side of the  |
+  | gate. The creaky hinges seem to be time frozen, which would imply that the gate has been |
+  | open for quite some time, as it is now. Similarly, the iron heart-shaped handles on each |
+  | side of the gate seem to have not been touched in ages. The two life-like statues are a  |
+  | bit intimidating, yet you feel that they are not the only danger that lies in store for  |
+  | the hapless intruder. Perhaps you should examine your surroundings a bit                 |
+  | more carefully before you proceed.                                                       |
+  | END                                                                                      |
+  | BLOCKER_N [clan bloody rose] #Y[+] Two Loyal Blades Guard The Open Gate [+]#N            |
+  | ROOM_EVENT [You hear thunder rolling in the distance.] 500                               |
+  | LOAD_ITEM 3000                                                                           |
+  | EAST 100                                                                                 |
+  | WEST 3030                                                                                |
+  | NORTH 3001                                                                               |
+  |                                                                                          |
+  | LOOK 3000 north                                                                          |
+  | BEGIN                                                                                    |
+  | Just beyond the open gate, there seems to be a widening space leading into a more open   |
+  | area. The narrow path must have been used as a means of keeping watch over the entrance  |
+  | into this territory. Looking even closer, you can see some type of stone construct,      |
+  | perhaps a small fort, in the near distance to the north. Judging from the hauntingly     |
+  | realistic appearance of the two stone assassins guarding the gate, you realize that      |
+  | this must be the base of operations for some very dangerous people. It's probably not    |
+  | a good idea to go in uninvited.                                                          |
+  | END                                                                                      |
+  |                                                                                          |
+  | LOOK 3000 statue statues blade blades                                                    |
+  | BEGIN                                                                                    |
+  | Upon closer examination, you see that the two statues guarding the gate are in the       |
+  | likeness of two female assassins. They strike a similar pose, each holding a dagger      |
+  | with a clenched fist, pointed downwards, held firmly against their left breast. Both     |
+  | have their eyes closed. The image suggests that they are giving some type of solemn      |
+  | salute to an unknown figure, with their weapons held to their hearts. Even with          |
+  | closed eyes, you can feel them watching you.                                             |
+  | END                                                                                      |
+  +------------------------------------------------------------------------------------------+

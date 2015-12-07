@@ -1,0 +1,45 @@
+
+  +------------------------------------------+
+  | Dark Mist Jewelry Store:                 |
+  +------------------------------------------+
+  | Brass Ring            --        250 Gold |
+  | Jade Earring          --      1,200 Gold |
+  | Emerald Ring          --      1,500 Gold |
+  | Emerald Earring       --      8,500 Gold |
+  | Ruby Ring             --      9,000 Gold |
+  | Bronze Medal          --     10,000 Gold |
+  | Sapphire Earring      --     20,000 Gold |
+  | Ring of Precision     --     22,000 Gold |
+  | Silver Medal          --    100,000 Gold |
+  | Ruby Earring          --    150,000 Gold |
+  | Ring of Balance       --    180,000 Gold |
+  | Lapis Amulet          --    200,000 Gold |
+  | Gold Medal            --    350,000 Gold |
+  | Diamond Ring          --    450,000 Gold |
+  | Diamond Earring       --    450,000 Gold |
+  | Bloodstone Medallion  --    750,000 Gold |
+  | Black Narcissus       --  2,000,000 Gold |
+  +------------------------------------------+
+
+  +--------+----------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+-------------------+
+  | Lv. 5  | Brass Ring           | 1   |     |     |     |     |     |     | 0   0   0   0   0   | All               |
+  | Lv. 20 | Emerald Ring         |     |     |     |     | 50  | 20  |     | 0   0   0   0   0   | All               |
+  | Lv. 35 | Ruby Ring            |     |     |     |     | 80  |     |     | 0   0   0   0   0   | All               |
+  | Lv. 50 | Sapphire Ring        | 1   |     |     |     | 50  |     |     | 0   0   0   0   0   | All               |
+  | Lv. 50 | Ring of Precision    | 2   |     |     |     |     |     |     | 0   0   0   0   0   | All Thief         |
+  | Lv. 80 | Ring of Balance      | 1   |     |     |     | 100 |     |     | 0   0   0   0   0   | All Thief         |
+  | Lv. 90 | Diamond Ring         |     |     |     | 5   | 50  | 50  |     | 0   0   0   0   0   | All               |
+  +--------+----------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+-------------------+
+  | Lv. 35 | Bronze Medal         |     |     |     | 5   |     |     |     | 0   0   0   0   0   | All               |
+  | Lv. 60 | Silver Medal         |     |     |     | 10  |     |     |     | 0   0   0   0   0   | All               |
+  | Lv. 80 | Gold Medal           |     |     |     | 15  |     |     |     | 0   0   0   0   0   | All               |
+  | Lv. 80 | Lapis Amulet         |     |     |     |     | 100 | 100 |     | 0   0   0   0   0   | All Thief         |
+  | Lv. 90 | Bloodstone Medallion |     |     |     |     | 200 |     |     | 0   0   0   0   0   | All Thief         |
+  | Lv. 99 | Black Narcissus      |     |     |     | 20  |     |     |     | 0   0   0   0   0   | All Thief         |
+  +--------+----------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+-------------------+
+  | Lv. 20 | Jade Earring         | 1   |     |     |     |     |     |     | 0   0   0   0   0   | All               |
+  | Lv. 35 | Emerald Earring      |     |     |     |     | 50  | 20  |     | 0   0   0   0   0   | All               |
+  | Lv. 50 | Sapphire Earring     | 1   |     |     |     | 50  |     |     | 0   0   0   0   0   | All               |
+  | Lv. 75 | Ruby Earring         |     |     |     |     | 150 |     |     | 0   0   0   0   0   | All               |
+  | Lv. 90 | Diamond Earring      |     |     |     | 5   | 50  | 50  |     | 0   0   0   0   0   | All               |
+  +--------+----------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+-------------------+

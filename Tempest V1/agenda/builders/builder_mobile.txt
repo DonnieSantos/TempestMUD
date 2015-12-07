@@ -1,0 +1,214 @@
+
+  +-----------------------+
+  | How to build a Mobile |
+  +-----------------------+
+
+  +---------------------------------------------------------------------------------------------+
+  | Name:         Every mobile needs a name. Such as, "The Cityguard".                          |
+  | Gender:       Self explanatory. The only options are "male" and "female".                   |
+  | Targets:      What you type to identify the mobile. Like, "city", "guard", "cityguard".     |
+  | Title:        What you see in the room. "The Cityguard is standing here."                   |
+  | Description:  What you see when you look at the mobile. This can be a short description,    |
+  |               or it can be an entire paragraph, depending on how descriptive you want it.   |
+  |               Just don't use double spaces please. Not even after periods.                  |
+  |                                                                                             |
+  | Speed:      How fast your mobile walks, if it is a mob that moves. Rated on a scale from    |
+  |             0-60000. Zero being motionless, Sixty-thousand meaning the mobile would move    |
+  |             at every possible opportunity (once per second).                                |
+  |                                                                                             |
+  | Alignment:  An indicator if your mobile is light or dark (good or evil). Rated on a scale   |
+  |             from 0-100. Zero would be completely dark, fifty would be neutral, etc.         |
+  |                                                                                             |
+  | Level:  Every mobile needs a level from 1-99.  This is an indicator of how strong it is.    |
+  | Stats:  The following stats you should attribute to your mobile based on its level. This    |
+  |         can be done by following the stat balance charts shown below here. Every mobile     |
+  |         has five innate stats (STR/DEX/CON/INT/WIS) that are basic and static. They also    |
+  |         have four stats that are modified by equipment. These "equipment stats" are usually |
+  |         only modified by equipment with characters, but mobiles can have equipment stats    |
+  |         without actually using equipment. This is necessary because every mobile needs to   |
+  |         have sufficient equipment stats to be strong enough for its level, even if it is    |
+  |         unarmed. If you arm a mobile with equipment, simply deduct your equipment's stats   |
+  |         from the mobile's already-given equipment stats. There are also three stats for     |
+  |         health, mana, and movement. Movement is unnecessary for mobiles, since they have    |
+  |         unlimited movment. Mana will probably be unnecessary as well, since I plan on       |
+  |         giving mobiles unlimited mana. So you might want to give all mobs the same amount   |
+  |         of health/mana for simplicity.                                                      |
+  +---------------------------------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------------------+
+  | HP/MN:  Health is the number of hitpoints the mob has.  Mana is magic points. |
+  |                                                                               |
+  | Innate Stats:  Strength      (Attack Power)                                   |
+  |                Dexterity     (Dodging and Defense)                            |
+  |                Constitution  (Health Regeneration)                            |
+  |                Intelligence  (Magic Power)                                    |
+  |                Wisdom        (Mana Regeneration)                              |
+  |                                                                               |
+  | Equipment Stats:  Hitroll     (Attack Aim)                                    |
+  |                   Damroll     (Attack Damage)                                 |
+  |                   Armorclass  (Damage Absorb)                                 |
+  |                   Resistance  (Magic Absorb)                                  |
+  +-------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Balance Formulas for Average Mobile Stats.                                               |
+  |                                                                                          |
+  | Health/Mana/Movement = (Level * 100) + 100                                               |
+  |                                                                                          |
+  | STR = (Level * 2)   + 2     Hitroll    = (Level / 5)  + 1                                |
+  | DEX = (Level * 1.5) + 2     Damroll    = (Level / 4)  + 1                                |
+  | CON = (Level * 1.5) + 2     Armorclass = (Level * 10) + 10                               |
+  | INT = (Level * 1)   + 1     Resistance = (Level / 3)                                     |
+  | WIS = (Level * 1)   + 1                                                                  |
+  |                                                                                          |
+  | +--------------------------+  +--------------------------+  +--------------------------+ |
+  | | Level 1 Average Mobile   |  | Level 50 Average Mobile  |  | Level 99 Average Mobile  | |
+  | |                          |  |                          |  |                          | |
+  | | HP/MN    200             |  | HP/MN    5100            |  | HP/MN    10000           | |
+  | |                          |  |                          |  |                          | |
+  | | STR 4    Hitroll 1       |  | STR 102  Hitroll 11      |  | STR 200  Hitroll 20      | |
+  | | DEX 3    Damroll 1       |  | DEX 77   Damroll 13      |  | DEX 150  Damroll 25      | |
+  | | CON 3    Armorclass 20   |  | CON 77   Armorclass 510  |  | CON 150  Armorclass 1000 | |
+  | | INT 2    Resistance 0    |  | INT 51   Resistance 16   |  | INT 100  Resistance 33   | |
+  | | WIS 2                    |  | WIS 51                   |  | WIS 100                  | |
+  | +--------------------------+  +--------------------------+  +--------------------------+ |
+  |                                                                                          |
+  | REMEMBER!!!  Mobiles can have Hit/Dam/AC/MR without equipment.  So all of these stats    |
+  | should be within a reasonable deviation of the norms with or without equipment.          |
+  |                                                                                          |
+  | For example, if you wanted to make a perfectly average level 99 mobile and give          |
+  | him a weapon that did 20 Hit / 20 Dam...  Then you would also give that mobile a         |
+  | natural Damroll of 5.  Thus completing the perfect average of 20 Hitroll 25 Damroll.     |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Equipment:  Mobiles can have items that they have in their inventory, or items that they |
+  |             automatially equip.  All you need to do is specify which item is to be       |
+  |             loaded, and how often it loads.  This is done on a scale from 0-10000.  A    |
+  |             zero would indicate that they never load with the item, and a ten-thousand   |
+  |             would mean that they always do.  For example:                                |
+  |                                                                                          |
+  |             ITEM 3100 10000                                                              |
+  |             WEAR 1000 5000                                                               |
+  |                                                                                          |
+  |             Item 3100 is a Red Rose, and item 1000 is a Backpack.  With these numbers,   |
+  |             the mobile would always load with a Red Rose in their inventory, and half    |
+  |             the time, they would load and equip a backpack.                              |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Experience & Gold:  You get these when you kill a mob. These are going to be subject to  |
+  |                     alot of change, so don't spend alot of time thinking about these.    |
+  |                     Try to just use these simple formulas (on the average) for now.      |
+  |                                                                                          |
+  | Experience  =  Level * 1000                                                              |
+  | Gold        =  (Level * 10) / 2                                                          |
+  +------------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------------------+
+  | Flags:  Flags can say many things about your mobile. You can make up your own flags      |
+  |         even if they don't exist in the code, and they will be added by the coders.      |
+  |         Here are some examples of flags that exist already:                              |
+  |                                                                                          |
+  | MOBILE       =  Your mobile can move around.                                             |
+  | AGGRO        =  Your mobile will attack people.                                          |
+  | ANTIGOOD     =  Your mobile will attack people aligned with the light.                   |
+  | ANTIEVIL     =  Your mobile will attack people aligned with the dark.                    |
+  | NPC          =  Your mobile acts as a character. You can speak interactively with them.  |
+  | BARD         =  Your mobile can help you write a new description and plan.               |
+  | GUARD        =  Your mobile will guard the zone, and respond to any unlawful acts.       |
+  | SKILLMASTER  =  Your mobile can give people skill information.                           |
+  | SPELLMASTER  =  Your mobile can give people spell information.                           |
+  | MERCHANT     =  Your mobile can list, buy and sell items.                                |
+  +------------------------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------------------+
+  | Skills & Actions:  Your mobile can randomly say and do things. And if they are in     |
+  |                    combat, they can randomly execute skills and spells.  Both actions |
+  |                    and skills simply need an indicated frequency. This is again based |
+  |                    on the scale from 0-60000 (since mobiles consider movement and     |
+  |                    action every 1 second). Therefore once again, 0 would be to never  |
+  |                    perform the action, and 60000 would be to perform the action every |
+  |                    second. (1000 would be once every minute, etc.)                    |
+  |                                                                                       |
+  | Unique Interaction & Quests:  Right now, speech interaction with mobiles is based on  |
+  |                               flags, but eventually you will be able to carry on a    |
+  |                               unique conversation with an individual mobile. Some     |
+  |                               mobiles will send you on quests, or be a part of an     |
+  |                               interactive quest. Until I update the code for this,    |
+  |                               just keep any ideas of this type in your notes.         |
+  +---------------------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------------------+
+  | Colors:  To add color to a word, put a color mark before it, and after it to          |
+  |          change the color setting back to the color it was before. You can add color  |
+  |          to anything except the mobiles NAME, TARGETS and TITLE. (Incidentally, the   |
+  |          title is dark yellow by mandatory default)                                   |
+  |                                                                                       |
+  |          n = White      N = Grey (Normal)                                             |
+  |          r = Red        R = Dark Red                                                  |
+  |          g = Green      G = Dark Green                                                |
+  |          b = Blue       B = Dark Blue                                                 |
+  |          y = Yellow     Y = Dark Yellow                                               |
+  |          c = Cyan       C = Dark Cyan                                                 |
+  |          m = Magenta    M = Purple                                                    |
+  |                                                                                       |
+  |          Usage:    A pound sign followed by the letter of the available color.        |
+  |          Example:  This is a #rRed#N Rose.                                            |
+  +---------------------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------------------+
+  | Optional Formatting:  If you think you are able to do so, you could save the coders   |
+  |                       alot of work by keeping your files in the exact format that     |
+  |                       code expects. It isn't that hard, but it can be a little        |
+  |                       tedious. We will eventually have an online editor to save       |
+  |                       everybody this trouble, and generate these files automatically, |
+  |                       but in the meantime, here's what a mobile file looks like,      |
+  |                       just in case you want to craft it yourself. (Of course, remove  |
+  |                       the decorative border. :P)                                      |
+  |                                                                                       |
+  |                       Also, doing this might imply that you assign your own ID number |
+  |                       to your mob. This is easy. If your zone number is 5, then your  |
+  |                       first mob will be number 500. Then 501, then 502, etc.          |
+  |                       The example listed below is Orchid, the first mobile in         |
+  |                       zone 15, thus she is number 1500.                               |
+  +---------------------------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------------------+
+  | 1500 Orchid                                                                   |
+  | shadowy smith knifesmith orchid                                               |
+  | #YA shadowy female knifesmith is here handling some daggers.#N                |
+  | BEGIN                                                                         |
+  | Orchid is very beautiful. Her long black hair covers her cheeks and rests     |
+  | upon her shoulders, gently fluttering in the cool breeze. Her eyes are        |
+  | half-hidden under the hood of her cloak, as she listlessly stands in the      |
+  | midst of her Weapon Shop. Her lips are fixed in an icy indifference, and yet  |
+  | they are supple and lush with rose-red color. Her black cape and vestcoat     |
+  | follow her slender figure all the way down to her sturdy boots, which stand   |
+  | firm on the ground. Her only movement is to playfully flip about a black      |
+  | stiletto dagger in her right hand, which she does with perfect ease and       |
+  | graceful dexterity.                                                           |
+  | END                                                                           |
+  | Level 99                                                                      |
+  | HP/MN = 50000 50000                                                           |
+  | Stats = 400 400 200 200 200                                                   |
+  | WStats = 50 50 1500 95                                                        |
+  | Exp = 50000                                                                   |
+  | Gold = 50000                                                                  |
+  | Gender = female                                                               |
+  | Allign = 5                                                                    |
+  | Speed = 50000                                                                 |
+  | FLAG NPC                                                                      |
+  | FLAG MERCHANT The Black Orchid                                                |
+  | SELL 1500 1501 1502 1503 1504 1505 1506 1507 1508 1509                        |
+  | SELL 1510 1511 1512 1513 1514 1515 1516 1517 1518 1519                        |
+  | SKILL [Critical Hit] 0                                                        |
+  | SKILL [Heart Attack] 20000                                                    |
+  | ACT [me flips her stiletto up in the air and catches it easily.] 60           |
+  | ACT [me licks the blade of her stiletto and grins seductively.] 30            |
+  | ACT [say Knives for sale.] 15                                                 |
+  | ACT [say Mmm..  Yes.. I have #Rjust#n the thing for you.] 10                  |
+  | ITEM 3100 10000                                                               |
+  | WEAR 1000 5000                                                                |
+  | [End]                                                                         |
+  +-------------------------------------------------------------------------------+

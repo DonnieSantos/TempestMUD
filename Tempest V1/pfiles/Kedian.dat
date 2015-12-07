@@ -1,0 +1,59 @@
+NAME: Kedian
+PASSWORD: suckit
+GENDER: male
+CLASS: Warrior
+HOMETOWN: #nAlmeccia#N
+CLAN: #rBloody Rose#N
+RELIGION: None
+TITLE: #YPrimus Illuminatus#N
+PRENAME: #RWize One #N
+LEVEL: 100
+ROOM_LOGGED: 1046
+TOG_ANSI: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 5500
+CURRENT_HP: 5500
+MAX_MANA: 2000
+CURRENT_MANA: 2000
+MAX_MOVE: 4500
+CURRENT_MOVE: 4500
+EXPERIENCE: 0
+STR: 500
+DEX: 500
+CON: 500
+INT: 500
+WIS: 500
+GOLD: 7500000
+DPOINTS: 0
+SKILL: 1 100 0
+SKILL: 2 100 0
+SKILL: 3 100 0
+SKILL: 4 100 0
+SPELL: 1 100 0
+SPELL: 2 100 0
+SPELL: 3 100 0
+SPELL: 4 100 0
+SPELL: 5 100 0
+SPELL: 6 100 0
+-END- 
+
++DESCRIPTION+
+Kedian is a tall man with shoulder-length black hair, and
+dark-blue eyes. He is dressed in a blood-red cape which pulsates
+and flows almost if alive. His armor and leggings are made of
+pure mythril, and sparkle brightly in the sun. He is carrying a
+katana which appears to be made from pure crystal.
++END+
+
++PLAN+
+  #n|#N Long term goals: World domination, oppression of rights.  #n|#N
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

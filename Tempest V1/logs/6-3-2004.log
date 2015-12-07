@@ -1,0 +1,36 @@
+[14:48:40 SYSTEM                  ] Tempest Server Started.
+[14:48:57 SYSTEM                  ] 127.0.0.1 connected to server.
+[14:48:59 127.0.0.1 LOGIN         ] (VOID) genevieve
+[14:49:0 127.0.0.1 LOGIN          ] (VOID) genna
+[14:49:0 127.0.0.1 Genevieve      ] (101) Entered the world.
+[14:49:6 127.0.0.1 Genevieve      ] (101) rlist all
+[14:49:17 127.0.0.1 Genevieve     ] (101) zlist all
+[14:49:19 127.0.0.1 Genevieve     ] (101) rlist 31
+[14:49:21 127.0.0.1 Genevieve     ] (101) goto 3100
+[14:49:38 127.0.0.1 Genevieve     ] (3100) zlist all
+[14:49:42 127.0.0.1 Genevieve     ] (3100) rlist 32
+[14:49:44 127.0.0.1 Genevieve     ] (3100) goto 3200
+[14:49:53 127.0.0.1 Genevieve     ] (3200) rlist 30
+[14:49:56 127.0.0.1 Genevieve     ] (3200) goto 3000
+[14:50:13 127.0.0.1 Genevieve     ] (3000) l blades
+[14:50:40 127.0.0.1 Genevieve     ] (3000) get blades
+[14:50:44 127.0.0.1 Genevieve     ] (3000) drop blades
+[14:50:46 127.0.0.1 Genevieve     ] (3000) ilist all
+[14:50:50 127.0.0.1 Genevieve     ] (3000) ilist 30
+[14:50:57 127.0.0.1 Genevieve     ] (3000) l
+[14:51:1 127.0.0.1 Genevieve      ] (3000) n
+[14:51:1 127.0.0.1 Genevieve      ] (3001) s
+[14:51:11 127.0.0.1 Genevieve     ] (3000) who
+[15:0:22 SYSTEM                   ] 127.0.0.1 Genevieve went linkdead in-game.
+[17:5:56 SYSTEM                   ] Tempest Server Started.
+[17:6:2 SYSTEM                    ] 127.0.0.1 connected to server.
+[17:6:4 127.0.0.1 LOGIN           ] (VOID) blarg
+[17:6:5 127.0.0.1 CREATION        ] (VOID) yes
+[17:6:6 127.0.0.1 CREATION        ] (VOID) hi
+[17:6:7 127.0.0.1 CREATION        ] (VOID) yes
+[17:6:8 127.0.0.1 CREATION        ] (VOID) m
+[17:6:9 127.0.0.1 CREATION        ] (VOID) m
+[17:6:10 127.0.0.1 CREATION       ] (VOID) 4
+[17:6:10 127.0.0.1 Blarg          ] (100) Entered the world.
+[17:6:13 127.0.0.1 Blarg          ] (100) quit
+[17:6:13 SYSTEM                   ] 127.0.0.1 Blarg quit the game.

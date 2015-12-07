@@ -1,0 +1,29 @@
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  #n|                            #GCleric#n                           |
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  #n|                                                             |
+  #n|#N Clerics are altruistic magic users, who are concerned with  #n|
+  #n|#N protecting themselves and those around them. Their skills   #n|
+  #n|#N are primarily focused upon the healing arts, but also delve #n|
+  #n|#N into areas of enchantment and mysticism. The presense of a  #n|
+  #n|#N Cleric is essential to the success of a hunting party, as   #n|
+  #n|#N their ability to restore the vitality of injured or fallen  #n|
+  #n|#N warriors is unsurpassed. Both wise and talented, the Cleric #n|
+  #n|#N is the foundation upon which an effective group is formed.  #n|
+  #n|#N Clerics are often very spiritual and usually have           #n|
+  #n|#N affiliation with organized religion. The Cleric has many    #n|
+  #n|#N duties in society that are unrelated to combat. They are    #n|
+  #n|#N spiritual leaders in society.                               #n|
+  #n|                                                             |
+  #n|#N At level 10, a Cleric may become a #gDruid#N or a #GMonk#N.         #n|
+  #n|#N Type #n'#rhelp classes#n'#N for information on changing classes.    #n|
+  #n|                                                             |
+  #n|#N Clerics who stay pure to their profession, and never        #n|
+  #n|#N deviate into the study of other arts, may receive special   #n|
+  #n|#N abilities and the unique title of High Cleric. While        #n|
+  #n|#N there are, of course, huge advantages to the specialized    #n|
+  #n|#N Cleric classes, and the long journey to level 99 as just    #n|
+  #n|#N a Cleric is certainly more difficult, there may be some     #n|
+  #n|#N subtle or yet unknown rewards for accomplishing this.       #n|
+  #n|                                                             |
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N

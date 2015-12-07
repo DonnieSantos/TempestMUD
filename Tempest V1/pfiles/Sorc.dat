@@ -1,0 +1,58 @@
+NAME: Sorc
+PASSWORD: hi
+GENDER: male
+CLASS: Sorcerer
+HOMETOWN: #mVolaris#N
+CLAN: None
+RELIGION: None
+TITLE: the Sorcerer.#N
+PRENAME: 
+LEVEL: 99
+ROOM_LOGGED: 100
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 1537
+CURRENT_HP: 1537
+MAX_MANA: 3762
+CURRENT_MANA: 3762
+MAX_MOVE: 1959
+CURRENT_MOVE: 1959
+EXPERIENCE: 0
+STR: 25
+DEX: 50
+CON: 75
+INT: 250
+WIS: 100
+GOLD: 5000
+DPOINTS: 0
+SPELL: 1 0 0
+SPELL: 2 0 0
+SPELL: 3 0 0
+SPELL: 4 0 0
+SPELL: 5 0 0
+SPELL: 6 0 0
+SPELL: 7 0 3
+SPELL: 8 0 4
+SPELL: 9 0 4
+-END- 
+
++DESCRIPTION+
+Sorc is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 2
+ALIAS: [con] OUTPUT: [add con;;add con;;add con;;add con;;add con]
+ALIAS: [dist] OUTPUT: [add %;;add %;;add %;;add %;;add %]
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

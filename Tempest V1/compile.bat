@@ -1,0 +1,1 @@
+c:\progra~1\cxx\bin\bcc32.exe -e"server.exe" -I"c:\progra~1\cxx\include" -L"c:\progra~1\cxx\lib" -tWM source/*.cpp

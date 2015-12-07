@@ -1,0 +1,47 @@
+
+  +--------------------------+
+  | The Rogue Stockpile      |
+  +--------------------------+
+  | Gloves           --   50 |
+  | Sandals          --   60 |
+  | Cape             --   90 |
+  | Black Pants      --  100 |
+  | Leather Bracer   --  150 |
+  | Boots            --  180 |
+  | Leather Pants    --  200 |
+  | White Headband   --  200 |
+  | White Shirt      --  220 |
+  | Brown Belt       --  250 |
+  | Green Headband   --  400 |
+  | White Gloves     --  400 |
+  | Black Shirt      --  410 |
+  | Red Boots        --  500 |
+  | Dark Cape        --  500 |
+  | Bronze Bracer    --  550 |
+  | Brown Corduroys  --  600 |
+  | Amber Vest       --  900 |
+  | Leather Gloves   --  950 |
+  +--------------------------+
+
+  +----------------------------------+
+  | The Rogue Stockpile              |
+  +----------------------------------+
+  | Leather Belt          --   1,000 |
+  | Thief Boots           --   1,100 |
+  | Black Corduroys       --   1,200 |
+  | Rogue Jacket          --   1,300 |
+  | Yellow Headband       --   1,500 |
+  | Brown Cape            --   1,800 |
+  | Garnet Coat           --   2,200 |
+  | Red Corduroys         --   2,300 |
+  | Silent Shoes          --   5,500 |
+  | Snakeskin Belt        --   6,000 |
+  | Orange Headband       --   7,500 |
+  | Thief Gloves          --  15,000 |
+  | Blue Headband         --  20,000 |
+  | Red Headband          --  43,000 |
+  | Black Headband        --  50,000 |
+  | Black Leather Gloves  --  60,000 |
+  | Black Belt            --  65,000 |
+  | Red Belt              --  90,000 |
+  +----------------------------------+

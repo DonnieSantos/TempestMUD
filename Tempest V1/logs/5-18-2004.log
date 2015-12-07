@@ -1,0 +1,59 @@
+[12:52:19 SYSTEM                  ] 68.170.210.116 connected to server.
+[12:52:21 68.170.210.116 LOGIN    ] (VOID) Aristal
+[12:52:21 68.170.210.116 LOGIN    ] (VOID) chagrin
+[12:52:21 68.170.210.116 Aristal  ] (100) Entered the world.
+[12:56:42 SYSTEM                  ] 68.170.210.116 Aristal went linkdead in-game.
+[12:58:42 SYSTEM                  ] 68.170.210.116 Aristal dropped from the game.
+[13:4:14 SYSTEM                   ] 68.170.210.116 connected to server.
+[13:4:15 68.170.210.116 LOGIN     ] (VOID) Aristal
+[13:4:15 68.170.210.116 LOGIN     ] (VOID) chagrin
+[13:4:15 68.170.210.116 Aristal   ] (100) Entered the world.
+[13:4:18 68.170.210.116 Aristal   ] (100) quit
+[13:4:18 SYSTEM                   ] 68.170.210.116 Aristal quit the game.
+[16:55:48 SYSTEM                  ] 68.170.210.116 connected to server.
+[16:55:49 68.170.210.116 LOGIN    ] (VOID) Aristal
+[16:55:50 68.170.210.116 LOGIN    ] (VOID) chagrin
+[16:55:50 68.170.210.116 Aristal  ] (100) Entered the world.
+[16:55:51 68.170.210.116 Aristal  ] (100) chat Hi
+[17:2:36 SYSTEM                   ] 68.170.210.116 connected to server.
+[17:2:38 SYSTEM                   ] 68.170.210.116 LOGGING IN went linkdead during login.
+[17:2:51 SYSTEM                   ] 68.170.210.116 connected to server.
+[17:2:53 68.170.210.116 LOGIN     ] (VOID) Aristal
+[17:2:53 68.170.210.116 LOGIN     ] (VOID) chagrin
+[17:2:53 SYSTEM                   ] 68.170.210.116 reconnected to 68.170.210.116 Aristal.
+[17:2:55 68.170.210.116 Aristal   ] (100) chat Hi
+[17:3:3 68.170.210.116 Aristal    ] (100) quit
+[17:3:3 SYSTEM                    ] 68.170.210.116 Aristal quit the game.
+[17:37:9 SYSTEM                   ] 68.170.210.116 connected to server.
+[17:37:10 68.170.210.116 LOGIN    ] (VOID) Aristal
+[17:37:11 68.170.210.116 LOGIN    ] (VOID) chagrin
+[17:37:11 68.170.210.116 Aristal  ] (100) Entered the world.
+[17:37:16 SYSTEM                  ] 68.170.210.116 Aristal went linkdead in-game.
+[17:37:43 SYSTEM                  ] 68.170.210.116 connected to server.
+[17:37:44 68.170.210.116 LOGIN    ] (VOID) Aristal
+[17:37:45 68.170.210.116 LOGIN    ] (VOID) chagrin
+[17:37:45 SYSTEM                  ] 68.170.210.116 reconnected to 68.170.210.116 Aristal.
+[17:37:46 68.170.210.116 Aristal  ] (100) quit
+[17:37:46 SYSTEM                  ] 68.170.210.116 Aristal quit the game.
+[17:37:46 SYSTEM                  ] 68.170.210.116 connected to server.
+[17:37:47 68.170.210.116 LOGIN    ] (VOID) Aristal
+[17:37:47 68.170.210.116 LOGIN    ] (VOID) chagrin
+[17:37:47 68.170.210.116 Aristal  ] (100) Entered the world.
+[17:38:2 68.170.210.116 Aristal   ] (100) quit
+[17:38:2 SYSTEM                   ] 68.170.210.116 Aristal quit the game.
+[17:38:7 SYSTEM                   ] 68.170.210.116 connected to server.
+[17:38:8 68.170.210.116 LOGIN     ] (VOID) Aristal
+[17:38:8 68.170.210.116 LOGIN     ] (VOID) chagrin
+[17:38:8 68.170.210.116 Aristal   ] (100) Entered the world.
+[17:38:11 SYSTEM                  ] 68.170.210.116 Aristal went linkdead in-game.
+[17:40:11 SYSTEM                  ] 68.170.210.116 Aristal dropped from the game.
+[23:3:4 SYSTEM                    ] 192.168.1.1 connected to server.
+[23:3:5 192.168.1.1 LOGIN         ] (VOID)  'g
+[23:3:8 192.168.1.1 LOGIN         ] (VOID) Genevieve
+[23:3:10 192.168.1.1 LOGIN        ] (VOID) genna
+[23:3:10 192.168.1.1 Genevieve    ] (100) Entered the world.
+[23:3:11 192.168.1.1 Genevieve    ] (100) l
+[23:3:13 192.168.1.1 Genevieve    ] (100) n
+[23:3:14 192.168.1.1 Genevieve    ] (100) w
+[23:3:17 SYSTEM                   ] 192.168.1.1 Genevieve went linkdead in-game.
+[23:5:17 SYSTEM                   ] 192.168.1.1 Genevieve dropped from the game.

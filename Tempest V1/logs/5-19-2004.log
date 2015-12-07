@@ -1,0 +1,338 @@
+[16:37:5 SYSTEM                   ] 24.131.30.7 connected to server.
+[16:37:12 24.131.30.7 LOGIN       ] (VOID) mahat
+[16:37:13 24.131.30.7 LOGIN       ] (VOID) Ttam
+[16:37:24 SYSTEM                  ] 24.131.30.7 connected to server.
+[16:37:25 24.131.30.7 LOGIN       ] (VOID) mahat
+[16:37:26 24.131.30.7 LOGIN       ] (VOID) matthew
+[16:37:26 24.131.30.7 Mahat       ] (1031) Entered the world.
+[16:37:28 24.131.30.7 Mahat       ] (1031) l
+[16:37:31 24.131.30.7 Mahat       ] (1031) zlist
+[16:37:34 24.131.30.7 Mahat       ] (1031) zlist all
+[16:37:41 24.131.30.7 Mahat       ] (1031) ilist 15
+[16:37:44 24.131.30.7 Mahat       ] (1031) ilist map
+[16:37:52 24.131.30.7 Mahat       ] (1031) load item map
+[16:37:57 24.131.30.7 Mahat       ] (1031) load item 2.map
+[16:37:58 24.131.30.7 Mahat       ] (1031) l
+[16:38:3 24.131.30.7 Mahat        ] (1031) i
+[16:38:7 24.131.30.7 Mahat        ] (1031) l map
+[16:38:13 24.131.30.7 Mahat       ] (1031) l 2.map
+[16:38:32 24.131.30.7 Mahat       ] (1031) i
+[16:39:13 24.131.30.7 Mahat       ] (1031) who -s
+[16:39:18 24.131.30.7 Mahat       ] (1031) users
+[16:39:22 24.131.30.7 Mahat       ] (1031) title the oldbie
+[16:39:27 24.131.30.7 Mahat       ] (1031) l
+[16:39:33 24.131.30.7 Mahat       ] (1031) slay harlan
+[16:39:37 24.131.30.7 Mahat       ] (1031) load mob
+[16:39:43 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:39:45 24.131.30.7 Mahat       ] (1031) kill harlan
+[16:39:56 24.131.30.7 Mahat       ] (1031) skill
+[16:40:2 24.131.30.7 Mahat        ] (1031) sac corpse
+[16:40:5 24.131.30.7 Mahat        ] (1031) load mob harlan
+[16:40:9 24.131.30.7 Mahat        ] (1031) death blossom
+[16:40:18 24.131.30.7 Mahat       ] (1031) sac corpse
+[16:40:20 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:40:20 24.131.30.7 Mahat       ] (1031) skill
+[16:40:51 24.131.30.7 Mahat       ] (1031) alias
+[16:40:53 24.131.30.7 Mahat       ] (1031) help alias
+[16:41:14 24.131.30.7 Mahat       ] (1031) alias k assassinate
+[16:41:17 24.131.30.7 Mahat       ] (1031) l
+[16:41:18 24.131.30.7 Mahat       ] (1031) k harlan
+[16:41:21 24.131.30.7 Mahat       ] (1031) k
+[16:41:29 24.131.30.7 Mahat       ] (1031) stab harlan
+[16:41:35 24.131.30.7 Mahat       ] (1031) stab harlan
+[16:41:41 24.131.30.7 Mahat       ] (1031) sac corpse
+[16:41:43 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:41:44 24.131.30.7 Mahat       ] (1031) skill
+[16:42:1 24.131.30.7 Mahat        ] (1031) poison strike harlan
+[16:42:8 24.131.30.7 Mahat        ] (1031) backstab harlan
+[16:42:15 24.131.30.7 Mahat       ] (1031) heart attack harlan
+[16:42:19 24.131.30.7 Mahat       ] (1031) stab and twist harlan
+[16:42:30 24.131.30.7 Mahat       ] (1031) skill
+[16:42:35 24.131.30.7 Mahat       ] (1031) spell
+[16:42:41 24.131.30.7 Mahat       ] (1031) cast magic missile
+[16:42:44 24.131.30.7 Mahat       ] (1031) cast magic
+[16:42:53 24.131.30.7 Mahat       ] (1031) sac corpse
+[16:42:55 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:0 24.131.30.7 Mahat        ] (1031) 
+[16:43:8 24.131.30.7 Mahat        ] (1031) load mob harlan
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:8 24.131.30.7 Mahat        ] (1031) !
+[16:43:12 24.131.30.7 Mahat       ] (1031) l
+[16:43:14 24.131.30.7 Mahat       ] (1031) l
+[16:43:16 24.131.30.7 Mahat       ] (1031) spell
+[16:43:20 24.131.30.7 Mahat       ] (1031) cast gem missile harlan
+[16:43:26 24.131.30.7 Mahat       ] (1031) cast lightning bolt harlan
+[16:44:15 24.131.30.7 Mahat       ] (1031) l
+[16:44:22 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:30 24.131.30.7 Mahat       ] (1031) !
+[16:44:30 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:31 24.131.30.7 Mahat       ] (1031) !
+[16:44:35 24.131.30.7 Mahat       ] (1031) death blossom
+[16:44:40 24.131.30.7 Mahat       ] (1031) death blossom
+[16:44:43 24.131.30.7 Mahat       ] (1031) death blossom
+[16:44:48 24.131.30.7 Mahat       ] (1031) l
+[16:44:51 24.131.30.7 Mahat       ] (1031) spell
+[16:44:52 24.131.30.7 Mahat       ] (1031) cast flash
+[16:44:55 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:55 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:56 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:56 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:56 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:56 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:56 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) 
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:57 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:58 24.131.30.7 Mahat       ] (1031) 
+[16:44:58 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:58 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:58 24.131.30.7 Mahat       ] (1031) cast burst
+[16:44:58 24.131.30.7 Mahat       ] (1031) cast burst
+[16:45:0 24.131.30.7 Mahat        ] (1031) l
+[16:45:6 24.131.30.7 Mahat        ] (1031) sac corpse
+[16:45:9 24.131.30.7 Mahat        ] (1031) sac all.corpse
+[16:45:13 24.131.30.7 Mahat       ] (1031) l
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:19 24.131.30.7 Mahat       ] (1031) load mob harlan
+[16:45:32 24.131.30.7 Mahat       ] (1031) restore mahat
+[16:45:35 24.131.30.7 Mahat       ] (1031) l
+[16:45:42 SYSTEM                  ] 24.131.30.7 connected to server.
+[16:45:55 24.131.30.7 LOGIN       ] (VOID) aristal
+[16:45:58 24.131.30.7 LOGIN       ] (VOID) chagrin
+[16:45:58 24.131.30.7 Aristal     ] (100) Entered the world.
+[16:46:8 24.131.30.7 Aristal      ] (100) load mob cityguard
+[16:46:13 24.131.30.7 Aristal     ] (100) cast gem missile guiard
+[16:46:18 24.131.30.7 Aristal     ] (100) cast gem missile guard
+[16:46:20 24.131.30.7 Aristal     ] (100) l
+[16:46:21 24.131.30.7 Aristal     ] (100) w
+[16:46:25 24.131.30.7 Aristal     ] (3000) load mob guard
+[16:46:27 24.131.30.7 Aristal     ] (3000) cast gem guard
+[16:46:30 24.131.30.7 Aristal     ] (3000) cast burst mob
+[16:46:55 24.131.30.7 Aristal     ] (3000) quit
+[16:46:55 SYSTEM                  ] 24.131.30.7 Aristal quit the game.
+[16:47:2 24.131.30.7 Mahat        ] (1031) l
+[16:47:5 24.131.30.7 Mahat        ] (1031) 
+[16:47:5 24.131.30.7 Mahat        ] (1031) s
+[16:47:7 24.131.30.7 Mahat        ] (1030) s
+[16:47:9 24.131.30.7 Mahat        ] (1003) load mob guard
+[16:47:11 24.131.30.7 Mahat       ] (1003) cast burst
+[16:47:22 24.131.30.7 Mahat       ] (1003) sac corpse
+[16:47:23 24.131.30.7 Mahat       ] (1003) n
+[16:47:25 24.131.30.7 Mahat       ] (1030) lick pappsi
+[16:47:29 24.131.30.7 Mahat       ] (1030) kiss pappsi
+[16:47:33 24.131.30.7 Mahat       ] (1030) slap pappsi
+[16:47:37 24.131.30.7 Mahat       ] (1030) spell
+[16:47:40 24.131.30.7 Mahat       ] (1030) cast sanc mahat
+[16:47:44 24.131.30.7 Mahat       ] (1030) cast sanctuary mahat
+[16:47:52 24.131.30.7 Mahat       ] (1030) cast fireball pappsi
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:47:57 24.131.30.7 Mahat       ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:3 24.131.30.7 Mahat        ] (1030) !
+[16:48:8 24.131.30.7 Mahat        ] (1030) sac corpse
+[16:48:9 24.131.30.7 Mahat        ] (1030) n
+[16:48:11 24.131.30.7 Mahat       ] (1031) cast burst
+[16:48:21 24.131.30.7 Mahat       ] (1031) cast burst
+[16:48:22 24.131.30.7 Mahat       ] (1031) cast burst
+[16:48:22 24.131.30.7 Mahat       ] (1031) cast burst
+[16:48:23 24.131.30.7 Mahat       ] (1031) cast burst
+[16:48:24 24.131.30.7 Mahat       ] (1031) death blossom
+[16:48:30 24.131.30.7 Mahat       ] (1031) restore mahat
+[16:48:47 24.131.30.7 Mahat       ] (1031) l
+[16:48:52 24.131.30.7 Mahat       ] (1031) l
+[16:48:56 24.131.30.7 Mahat       ] (1031) sac all.corpse
+[16:48:58 24.131.30.7 Mahat       ] (1031) cast burst
+[16:49:1 24.131.30.7 Mahat        ] (1031) !
+[16:49:1 24.131.30.7 Mahat        ] (1031) !
+[16:49:1 24.131.30.7 Mahat        ] (1031) !
+[16:49:1 24.131.30.7 Mahat        ] (1031) !
+[16:49:1 24.131.30.7 Mahat        ] (1031) !
+[16:49:4 24.131.30.7 Mahat        ] (1031) !
+[16:49:4 24.131.30.7 Mahat        ] (1031) !
+[16:49:4 24.131.30.7 Mahat        ] (1031) !
+[16:49:4 24.131.30.7 Mahat        ] (1031) !
+[16:49:4 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:6 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:7 24.131.30.7 Mahat        ] (1031) !
+[16:49:10 24.131.30.7 Mahat       ] (1031) l
+[16:49:14 24.131.30.7 Mahat       ] (1031) sac all.corpse
+[16:49:16 24.131.30.7 Mahat       ] (1031) l
+[16:50:15 24.131.30.7 Mahat       ] (1031) l
+[16:50:18 24.131.30.7 Mahat       ] (1031) phallus city
+[16:50:21 24.131.30.7 Mahat       ] (1031) 'phallus city
+[16:50:33 24.131.30.7 Mahat       ] (1031) l
+[16:50:36 24.131.30.7 Mahat       ] (1031) l
+[16:50:38 24.131.30.7 Mahat       ] (1031) who -s
+[16:50:45 24.131.30.7 Mahat       ] (1031) l
+[16:50:53 24.131.30.7 Mahat       ] (1031) ieieieie
+[16:50:54 24.131.30.7 Mahat       ] (1031) who -s
+[16:51:0 24.131.30.7 Mahat        ] (1031) chat fuck all you mother fuckers!
+[16:51:12 24.131.30.7 Mahat       ] (1031) chat mute me bitches!
+[16:51:18 24.131.30.7 Mahat       ] (1031) smite
+[16:51:22 24.131.30.7 Mahat       ] (1031) wizhelp
+[16:51:26 24.131.30.7 Mahat       ] (1031) chat fuck you Donnie!
+[16:51:38 24.131.30.7 Mahat       ] (1031) chat You can't defeat me!
+[16:51:42 24.131.30.7 Mahat       ] (1031) chat I will crush you!
+[16:51:53 24.131.30.7 Mahat       ] (1031) chat Jon is gay
+[16:52:9 24.131.30.7 Mahat        ] (1031) 
+[16:52:9 24.131.30.7 Mahat        ] (1031) l
+[16:52:10 24.131.30.7 Mahat       ] (1031) quit
+[16:52:10 SYSTEM                  ] 24.131.30.7 Mahat quit the game.
+[19:32:12 SYSTEM                  ] 68.170.210.116 connected to server.
+[19:32:13 68.170.210.116 LOGIN    ] (VOID) Aristal
+[19:32:13 68.170.210.116 LOGIN    ] (VOID) chagrin
+[19:32:13 68.170.210.116 Aristal  ] (3000) Entered the world.
+[19:32:15 68.170.210.116 Aristal  ] (3000) goto 100
+[19:32:16 68.170.210.116 Aristal  ] (100) quit
+[19:32:16 SYSTEM                  ] 68.170.210.116 Aristal quit the game.
+[19:38:39 SYSTEM                  ] 68.170.210.116 connected to server.
+[19:38:40 68.170.210.116 LOGIN    ] (VOID) Aristal
+[19:38:40 68.170.210.116 LOGIN    ] (VOID) chagrin
+[19:38:40 68.170.210.116 Aristal  ] (100) Entered the world.
+[19:38:42 68.170.210.116 Aristal  ] (100) quit
+[19:38:42 SYSTEM                  ] 68.170.210.116 Aristal quit the game.
+[19:40:33 SYSTEM                  ] 68.170.210.116 connected to server.
+[19:40:34 68.170.210.116 LOGIN    ] (VOID) Aristal
+[19:40:35 68.170.210.116 LOGIN    ] (VOID) chagrin
+[19:40:35 68.170.210.116 Aristal  ] (100) Entered the world.
+[19:40:36 68.170.210.116 Aristal  ] (100) goto
+[19:40:37 68.170.210.116 Aristal  ] (100) e
+[19:40:38 68.170.210.116 Aristal  ] (1000) s
+[19:40:39 68.170.210.116 Aristal  ] (1051) n
+[19:40:39 68.170.210.116 Aristal  ] (1000) 
+[19:40:40 68.170.210.116 Aristal  ] (1000) w
+[19:40:45 SYSTEM                  ] 68.170.210.116 Aristal went linkdead in-game.
+[19:41:25 SYSTEM                  ] 68.170.210.116 connected to server.
+[19:41:26 68.170.210.116 LOGIN    ] (VOID) Aristal
+[19:41:27 68.170.210.116 LOGIN    ] (VOID) chagrin
+[19:41:27 SYSTEM                  ] 68.170.210.116 reconnected to 68.170.210.116 Aristal.
+[19:41:29 SYSTEM                  ] 68.170.210.116 Aristal went linkdead in-game.
+[19:42:48 SYSTEM                  ] 68.170.210.116 Aristal dropped from the game.
+[23:25:0 SYSTEM                   ] 192.168.1.1 connected to server.
+[23:25:1 192.168.1.1 LOGIN        ] (VOID)  'g
+[23:25:3 192.168.1.1 LOGIN        ] (VOID) genevieve
+[23:25:3 192.168.1.1 LOGIN        ] (VOID) genna
+[23:25:4 192.168.1.1 Genevieve    ] (3000) Entered the world.
+[23:25:5 192.168.1.1 Genevieve    ] (3000) zlist all
+[23:38:41 SYSTEM                  ] 192.168.1.1 Genevieve went linkdead in-game.
+[23:40:41 SYSTEM                  ] 192.168.1.1 Genevieve dropped from the game.

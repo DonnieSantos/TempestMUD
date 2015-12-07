@@ -1,0 +1,13 @@
+[3:46:53 SYSTEM                   ] Tempest Server Started.
+[3:48:1 SYSTEM                    ] 127.0.0.1 connected to server.
+[3:48:6 SYSTEM                    ] 127.0.0.1 LOGGING IN went linkdead during login.
+[3:48:17 SYSTEM                   ] 127.0.0.1 connected to server.
+[3:48:21 127.0.0.1 LOGIN          ] (VOID)  'genevieve
+[3:48:22 127.0.0.1 LOGIN          ] (VOID) genna
+[3:48:22 127.0.0.1 CREATION       ] (VOID) n
+[3:48:24 127.0.0.1 LOGIN          ] (VOID) genevieve
+[3:48:24 127.0.0.1 LOGIN          ] (VOID) genna
+[3:48:24 127.0.0.1 Genevieve      ] (100) Entered the world.
+[3:48:25 127.0.0.1 Genevieve      ] (100) l
+[3:48:28 127.0.0.1 Genevieve      ] (100) write test
+[3:48:47 SYSTEM                   ] 127.0.0.1 Genevieve went linkdead in-game.

@@ -1,0 +1,25 @@
+[2:21:22 SYSTEM                   ] Tempest Server Started.
+[2:21:31 SYSTEM                   ] 127.0.0.1 connected to server.
+[2:21:34 127.0.0.1 LOGIN          ] (VOID)  'genevieve
+[2:21:35 127.0.0.1 LOGIN          ] (VOID) genna
+[2:21:36 127.0.0.1 CREATION       ] (VOID) n
+[2:21:37 127.0.0.1 LOGIN          ] (VOID) genevieve
+[2:21:37 127.0.0.1 LOGIN          ] (VOID) genna
+[2:21:37 127.0.0.1 Genevieve      ] (100) Entered the world.
+[2:21:39 127.0.0.1 Genevieve      ] (100) goto laruel
+[2:21:41 127.0.0.1 Genevieve      ] (100) goto laurel
+[2:21:46 127.0.0.1 Genevieve      ] (100) goto zora
+[2:21:52 127.0.0.1 Genevieve      ] (1576) goto cendrillon
+[2:21:56 127.0.0.1 Genevieve      ] (1575) track laurel
+[2:21:58 127.0.0.1 Genevieve      ] (1575) mlist all
+[2:26:36 127.0.0.1 Genevieve      ] (1575) medit 1505
+[2:26:45 127.0.0.1 Genevieve      ] (1575) quit
+[2:26:45 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.
+[3:2:54 SYSTEM                    ] Tempest Server Started.
+[3:3:2 SYSTEM                     ] 127.0.0.1 connected to server.
+[3:3:3 127.0.0.1 LOGIN            ] (VOID)  'gn
+[3:3:5 127.0.0.1 LOGIN            ] (VOID) genevieve
+[3:3:6 127.0.0.1 LOGIN            ] (VOID) genna
+[3:3:6 127.0.0.1 Genevieve        ] (1575) Entered the world.
+[3:3:10 127.0.0.1 Genevieve       ] (1575) say cendrillon list
+[3:5:23 SYSTEM                    ] 127.0.0.1 Genevieve went linkdead in-game.

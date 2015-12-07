@@ -1,0 +1,60 @@
+Zone Name = #gBa'Degra Swamp#N
+Zone Number = 47
+Zone Size = 2
+Repop Rate = 100
+Mobiles = 1
+Terrain = Swamp Boggy
+Scheme = Green
+
+ROOM 4700
+TERRAIN: Swamp Boggy
+BEGIN
+#gBa'Degra Swamp#N
+Everything about the scenery seems to say that you are not welcome here. Tall,
+skeletal trees tower all around you like ghostly sentinels. Many are packed so
+close together that it's impossible to see beyond the barrier they create, much
+less go that way. Beyond the trees and fallen branches there is not much to see
+im this oppressive wasteland. The only thing green here is the cold and brackish
+water that comes almost to your knees and sucks at your feet with every step.
+The sounds of your passage through the murk is the only sound here. It's quiet
+here, too quiet..
+END
+LOAD_MOB 4700
+NORTH 4701
+SOUTH 100
+
+LOOK 4700 north
+BEGIN
+Stretching north is a gap between the foliage that is about the size of a common
+road. Now if only if the way was dry...
+END
+
+LOOK 4700 south
+BEGIN
+To the south lies the way out of the swamp, where its boundaries are clearly
+marked.The murky water tapers off from mud to sickly grass and the bare trees
+and shrubs give way to more lively looking specimens.
+END
+
+LOOK 4700 trees
+BEGIN
+All of the trees here appear to have died long ago, though they rise high above
+the water where their gnarled roots are tangled. Their smooth trunks and
+leafless branches are the color of bone.
+END
+
+LOOK 4700 water
+BEGIN
+You don't want to think of what might be in this water, much less drink it. It's
+bad enough you're standing in it.
+END
+
+ROOM 4701
+TERRAIN: Swamp Boggy
+BEGIN
+#gBa'Degra Swamp#N
+This room needs a description...
+END
+SOUTH 4700
+
+-End- 

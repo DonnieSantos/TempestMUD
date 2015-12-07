@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Object name="attributes">
+  <name>Newbie</name>
+  <gender>male</gender>
+  <level>1</level>
+  <class>cleric</class>
+  <title>Generic title.</title>
+  <hp>100</hp>
+  <mn>100</mn>
+  <mv>100</mv>
+  <maxhp>100</maxhp>
+  <maxmn>100</maxmn>
+  <maxmv>100</maxmv>
+  <STR>1</STR>
+  <DEX>1</DEX>
+  <CON>1</CON>
+  <INT>1</INT>
+  <WIS>1</WIS>
+  <hitroll>0</hitroll>
+  <dacroll>0</dacroll>
+  <armorclass>0</armorclass>
+  <resistance>0</resistance>
+  <gold>100</gold>
+  <alignment>neutral</alignment>
+  <followable>true</followable>
+  <autoassist>false</autoassist>
+  <isPlayer>true</isPlayer>
+</Object>

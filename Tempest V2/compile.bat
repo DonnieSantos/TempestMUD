@@ -1,0 +1,1 @@
+javac -d .\bytecode -classpath .\source .\source\*.java .\source\Spells\*.java .\source\Skills\*.java .\source\Effects\*.java .\source\Interfaces\*.java .\source\Classes\*.java

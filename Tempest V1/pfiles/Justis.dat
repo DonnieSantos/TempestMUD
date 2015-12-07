@@ -1,0 +1,49 @@
+NAME: Justis
+PASSWORD: drakkon
+GENDER: male
+CLASS: Knight
+HOMETOWN: #CHydecka#N
+CLAN: #rBloody Rose#N
+RELIGION: #BGolgotha#N
+TITLE: #N
+PRENAME: 
+LEVEL: 35
+ROOM_LOGGED: 1563
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 0
+MAX_HP: 1060
+CURRENT_HP: 1060
+MAX_MANA: 215
+CURRENT_MANA: 215
+MAX_MOVE: 972
+CURRENT_MOVE: 972
+EXPERIENCE: 60524
+STR: 155
+DEX: 2
+CON: 3
+INT: 0
+WIS: 0
+GOLD: 4900
+DPOINTS: 20
+SKILL: 1 0 0
+SKILL: 2 0 0
+-END- 
+
++DESCRIPTION+
+Justis is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

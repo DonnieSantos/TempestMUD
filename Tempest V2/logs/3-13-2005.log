@@ -1,0 +1,40 @@
+[02:00:57 SYSTEM                  ] Tempest Server Started on port 7000.
+[02:01:22 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:01:25 SYSTEM                  ] 192.168.1.1 Account Donnie connected to server.
+[02:01:25 SYSTEM                  ] 192.168.1.1 Genevieve entering game.
+[02:01:27 192.168.1.1 Genevieve   ] (331) killgame
+[02:01:27 SYSTEM                  ] 192.168.1.1 Genevieve went linkdead.
+[02:01:27 SYSTEM                  ] Waiting for writing to finish.
+[02:01:35 SYSTEM                  ] Tempest Server Started on port 7000.
+[02:32:06 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:32:15 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[02:33:29 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:33:31 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[02:37:07 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:37:10 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[02:40:08 68.170.210.116 LOGIN    ] (VOID) 68.170.210.116 connected to server.
+[02:40:10 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[02:40:11 SYSTEM                  ] 68.170.210.116 Account Fhirin connected to server.
+[02:40:11 SYSTEM                  ] 68.170.210.116 Aristal entering game.
+[02:40:11 68.170.210.116 Aristal  ] (1) who
+[02:40:12 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[02:40:13 68.170.210.116 Aristal  ] (1) read board
+[02:40:17 68.170.210.116 Aristal  ] (1) quit
+[02:40:17 SYSTEM                  ] 68.170.210.116 Aristal has quit the game.
+[02:40:18 SYSTEM                  ] 68.170.210.116 Account Fhirin has quit the game.
+[02:40:21 68.170.210.116 LOGIN    ] (VOID) 68.170.210.116 connected to server.
+[02:40:23 SYSTEM                  ] 68.170.210.116 Account VOID went linkdead during login.
+[03:39:28 SYSTEM                  ] Tempest Server Started on port 7000.
+[03:39:44 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[03:39:49 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[05:45:04 SYSTEM                  ] Tempest Server Started on port 7000.
+[05:45:06 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[05:45:09 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[05:45:50 SYSTEM                  ] Tempest Server Started on port 8000.
+[05:45:55 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[05:45:59 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[05:46:11 SYSTEM                  ] Tempest Server Started on port 9000.
+[05:46:27 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[05:46:31 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[21:11:47 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[21:11:48 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.

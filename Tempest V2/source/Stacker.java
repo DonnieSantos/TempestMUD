@@ -1,0 +1,139 @@
+import java.util.*;
+import java.io.*;
+
+public class Stacker
+
+{
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  private ArrayList titles;
+  private ArrayList counts;
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public int getSize()          { return titles.size();                      }
+  public String getTitle(int i) { return (String) titles.get(i);             }
+  public int getCount(int i)    { return Utility.getInt(counts, i);          }
+  public void increment(int i)  { counts.set(i, new Integer(getCount(i)+1)); }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public Stacker()
+
+  {
+    titles = new ArrayList();
+    counts = new ArrayList();
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void add(String title)
+
+  {
+    for (int i=0; i<titles.size(); i++)
+    if (getTitle(i).equals(title)) {
+      increment(i);
+      return; }
+
+    titles.add(title);
+    counts.add(new Integer(1));
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void clear()
+
+  {
+    titles = new ArrayList();
+    counts = new ArrayList();
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public String stack()
+
+  {
+    String str = "";
+
+    for (int i=0; i<titles.size(); i++)
+
+    {
+      int count = getCount(i);
+      String title = getTitle(i);
+
+      if (count == 1) str += "\r\n" + title;
+
+      else if ((count > 1) && (count < 10))
+        str += "\r\n" + "[ " + count + "] " + title;
+
+      else if ((count > 9) && (count < 100))
+        str += "\r\n" + "[" + count + "] " + title;
+    }
+
+    clear();
+
+    return str;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public String itemStack()
+
+  {
+    String str = "";
+
+    for (int i=0; i<titles.size(); i++)
+
+    {
+      int count = getCount(i);
+      String title = getTitle(i);
+
+      if (count == 1) str += "\r\n" + title;
+
+      else str += "\r\n" + title + " #N(" + count + ")";
+    }
+
+    clear();
+
+    return str;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public String shortStack(int dist)
+
+  {
+    String str = "";
+    String n = "" + dist;
+
+    for (int i=0; i<titles.size(); i++)
+
+    {
+      int count = getCount(i);
+      String title = getTitle(i);
+
+      if (count == 1) str += "\r\n    " + n + " - " + title;
+
+      else if ((count > 1) && (count < 10))
+        str += "\r\n    " + n + " - " + "[ " + count + "] " + title;
+
+      else if ((count > 9) && (count < 100))
+        str += "\r\n    " + n + " - " + "[" + count + "] " + title;
+    }
+
+    clear();
+
+    return str;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+}

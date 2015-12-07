@@ -1,0 +1,280 @@
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static void startXMLWrite(Object O)
+
+  {
+    try
+
+    {
+      Document Doc = XMLHandler.newDocument();
+      Element root = createObjectXML(O, Doc);
+      Doc.appendChild(root);
+
+      createXML(O, root, Doc);
+      write(Doc, "test2.xml");
+    }
+
+    catch (Exception e) { e.printStackTrace(); }
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static void createXML(Object O, Element root, Document Doc) throws Exception
+
+  {
+    ArrayList list = getFields(O.getClass());
+    Object[] listObjects = list.toArray();
+    Field[] fields = new Field[listObjects.length];
+
+    for (int i=0; i<listObjects.length; i++)
+      fields[i] = (Field)listObjects[i];
+
+    for (int i=0; i<fields.length; i++)
+
+    {
+      fields[i].setAccessible(true);
+
+      if (fields[i].getType().isArray())
+
+      {
+        Object objectList = fields[i].get(O);
+        int size = Array.getLength(objectList);
+        Element E = createArrayXML(objectList, Doc);
+
+        for (int j=0; j<size; j++)
+
+        {
+          Object temp = Array.get(objectList, j);
+          Element subtree = createObjectXML(temp, Doc);
+          if (temp != null) createXML(temp, subtree, Doc);
+          E.appendChild(subtree);
+        }
+
+        root.appendChild(E);
+      }
+
+      else if (fields[i].getType().isPrimitive() || fields[i].getType() == String.class)
+
+      {
+        Element E = createPrimitiveXML(fields[i], O, Doc);
+        root.appendChild(E);
+      }
+
+      else if (fields[i].getType() == ArrayList.class)
+
+      {
+        Element E = createListXML(fields[i], Doc);
+        ArrayList A = (ArrayList)fields[i].get(O);
+
+        for (int j=0; j<A.size(); j++)
+
+        {
+          Element subtree = createObjectXML(A.get(j), Doc);
+          if (A.get(j) != null) createXML(A.get(j), subtree, Doc);
+          E.appendChild(subtree);
+        }
+
+        root.appendChild(E);
+      }
+
+      else
+
+      {
+        Element E = createObjectXML(fields[i], Doc);
+        createXML(fields[i].get(O), E, Doc);
+        root.appendChild(E);
+      }
+    }
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static Element createArrayXML(Object O, Document Doc)
+
+  {
+    Element E = Doc.createElement("ARR");
+    E.setAttribute("size", Integer.toString(Array.getLength(O)));
+    E.setAttribute("type", O.getClass().getCanonicalName());
+    return E;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static Element createObjectXML(Object O, Document Doc)
+
+  {
+    Element E = Doc.createElement("OBJ");
+    if (O == null) E.setAttribute("type", "null");
+    else E.setAttribute("type", O.getClass().getName());
+    return E;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static Element createObjectXML(Field F, Document Doc)
+
+  {
+    Element E = Doc.createElement("OBJ");
+    E.setAttribute("type", F.getType().getCanonicalName());
+    return E;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static Element createListXML(Field F, Document Doc)
+
+  {
+    Element E = Doc.createElement("OBJ");
+    E.setAttribute("id", F.getName());
+    E.setAttribute("type", F.getType().getCanonicalName());
+    return E;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static Element createPrimitiveXML(Field F, Object O, Document Doc) throws Exception
+
+  {
+    Element E = Doc.createElement("VAR");
+    E.setAttribute("id", F.getName());
+    E.setAttribute("type", F.getType().getCanonicalName());
+    E.setAttribute("value", F.get(O).toString());
+    return E;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static ArrayList getFields(Class C) throws Exception
+
+  {
+    if (C == Legend.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.add(C.getDeclaredField("list"));
+      return A;
+    }
+
+    else if (C == LegendMark.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.add(C.getDeclaredField("mark"));
+      A.add(C.getDeclaredField("date"));
+      A.add(C.getDeclaredField("times"));
+      return A;
+    }
+
+    else if (C == Char.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.addAll(getFields(C.getSuperclass()));
+      A.add(C.getDeclaredField("experience"));
+      A.add(C.getDeclaredField("expNeeded"));
+      A.add(C.getDeclaredField("lastExperience"));
+      A.add(C.getDeclaredField("dPoints"));
+      A.add(C.getDeclaredField("clanID"));
+      A.add(C.getDeclaredField("religionID"));
+      A.add(C.getDeclaredField("screenSize"));
+      A.add(C.getDeclaredField("accountName"));
+      A.add(C.getDeclaredField("creationDate"));
+      A.add(C.getDeclaredField("lastLogin"));
+      A.add(C.getDeclaredField("fullname"));
+      A.add(C.getDeclaredField("prename"));
+      A.add(C.getDeclaredField("hometown"));
+      A.add(C.getDeclaredField("religionName"));
+      A.add(C.getDeclaredField("myMentor"));
+      A.add(C.getDeclaredField("students"));
+      A.add(C.getDeclaredField("myStudent"));
+      A.add(C.getDeclaredField("myRequest"));
+      A.add(C.getDeclaredField("dietyTitle"));
+      A.add(C.getDeclaredField("snooping"));
+      A.add(C.getDeclaredField("myPrompt"));
+      A.add(C.getDeclaredField("myLegend"));
+      A.add(C.getDeclaredField("ansiMode"));
+      A.add(C.getDeclaredField("colorMode"));
+      A.add(C.getDeclaredField("plan"));
+      A.add(C.getDeclaredField("myAliases"));
+      return A;
+    }
+
+    else if (C == Cleric.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.addAll(getFields(C.getSuperclass()));
+      return A;
+    }
+
+    else if (C == Alias.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.add(C.getDeclaredField("name"));
+      A.add(C.getDeclaredField("output"));
+      return A;
+    }
+
+    else if (C == AliasList.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.add(C.getDeclaredField("list"));
+      return A;
+    }
+
+    else if (C == Entity.class)
+
+    {
+      ArrayList A = new ArrayList();
+      A.add(C.getDeclaredField("currentHP"));
+      A.add(C.getDeclaredField("currentMN"));
+      A.add(C.getDeclaredField("currentMV"));
+      A.add(C.getDeclaredField("maxHP"));
+      A.add(C.getDeclaredField("maxMN"));
+      A.add(C.getDeclaredField("maxMV"));
+      A.add(C.getDeclaredField("level"));
+      A.add(C.getDeclaredField("myRoom"));
+      A.add(C.getDeclaredField("backupRoom"));
+      A.add(C.getDeclaredField("alignment"));
+      A.add(C.getDeclaredField("blockerType"));
+      A.add(C.getDeclaredField("blockerDir"));
+      A.add(C.getDeclaredField("WIS"));
+      A.add(C.getDeclaredField("gold"));
+      A.add(C.getDeclaredField("EQ_MV"));
+      A.add(C.getDeclaredField("playerState"));
+      A.add(C.getDeclaredField("intermittentSkill"));
+      A.add(C.getDeclaredField("trackDir"));
+      A.add(C.getDeclaredField("name"));
+      A.add(C.getDeclaredField("gender"));
+      A.add(C.getDeclaredField("title"));
+      A.add(C.getDeclaredField("blockerParam"));
+      A.add(C.getDeclaredField("poisoned"));
+      A.add(C.getDeclaredField("SANCD"));
+      A.add(C.getDeclaredField("spellList"));
+      A.add(C.getDeclaredField("skillList"));
+      A.add(C.getDeclaredField("effectList"));
+      A.add(C.getDeclaredField("equipment"));
+      A.add(C.getDeclaredField("description"));
+      A.add(C.getDeclaredField("schedule"));
+      A.add(C.getDeclaredField("followable"));
+      A.add(C.getDeclaredField("autoassist"));
+      A.add(C.getDeclaredField("inventory"));
+      return A;
+    }
+
+    return new ArrayList();
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+}

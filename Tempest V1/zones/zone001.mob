@@ -1,0 +1,62 @@
+Zone 1
+Mobile Types = 3
+
+100 The Priest
+priest
+The Priest is standing here looking holy.
+BEGIN
+This is what you see when you look at the priest. He is standing in the temple,
+casting spells on people. He looks like Peppin from Diablo.
+END
+Level 99
+HP/MN = 25000 9999
+Stats = 200 200 200 200 200
+WStats = 25 25 1000 33
+Exp = 20000
+Gold = 5000
+Gender = male
+Allign = 95
+Speed = 1
+FLAG NPC
+ACT [say Hello there.] 100
+[End]
+
+101 The Beastly Fido
+beastly fido dog
+An ugly dog is standing here.
+BEGIN
+This fido is a filthy animal.
+END
+Level 1
+HP/MN = 10 5
+Stats = 1 2 3 4 5
+WStats = 1 1 50 0
+Exp = 100
+Gold = 20
+Gender = male
+Allign = 5
+Speed = 50000
+ACT [snarl] 2000
+[End]
+
+102 The Cityguard
+cityguard guard
+The Cityguard is standing here. Yep.
+BEGIN
+The mean cityguard is standing here, acting like a total buttwipe, trying to
+send your weapon flying.
+END
+Level 10
+HP/MN = 100 100
+Stats = 10 10 10 10 10
+WStats = 5 5 100 0
+Exp = 2000
+Gold = 300
+Gender = male
+Allign = 50
+Speed = 2000
+FLAG MOBILE
+ACT [grin] 2000
+[End]
+
+-End- 

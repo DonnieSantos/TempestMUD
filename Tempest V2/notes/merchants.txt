@@ -1,0 +1,24 @@
+  {
+    else if ((info->MERCHANT) && SAID("buy"))
+      interpret_command("respond Soon I will provide you with information about the items you want to buy.");
+
+    else if ((info->MERCHANT) && SAID("sell"))
+      interpret_command("respond Soon I will provide you with information about the items you have to sell.");
+
+    else if ((info->MERCHANT) && SAID("list"))
+      SRC->echo(merchant_item_list());
+
+    else if ((info->NPC) && (!info->BANKER) && (SAID("account") || SAID("deposit") || SAID("withdraw")))
+      interpret_command("respond Does this look like a bank to you?");
+
+    else if ((info->BANKER) && SAID("account"))
+      SRC->display_bank_account();
+
+    else if ((info->BANKER) && SAID("deposit"))
+      interpret_command("respond " + SRC->deposit(lowercase(item_after(str, "deposit"))));
+
+    else if ((info->BANKER) && SAID("withdraw"))
+      interpret_command("respond " + SRC->withdraw(lowercase(item_after(str, "withdraw"))));
+
+    else if ((info->SKILLMASTER) && SAID("skill"))
+  }

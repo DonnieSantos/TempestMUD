@@ -1,0 +1,47 @@
+NAME: Aeron
+PASSWORD: pepsi
+GENDER: male
+CLASS: Thief
+HOMETOWN: #BRavenna#N
+CLAN: None
+RELIGION: None
+TITLE: the Beast#N
+PRENAME: 
+LEVEL: 1
+ROOM_LOGGED: 101
+SCREEN_SIZE: 25
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 140
+CURRENT_HP: 140
+MAX_MANA: 70
+CURRENT_MANA: 70
+MAX_MOVE: 135
+CURRENT_MOVE: 135
+EXPERIENCE: 0
+STR: 2
+DEX: 5
+CON: 2
+INT: 1
+WIS: 0
+GOLD: 5000
+DPOINTS: 0
+-END- 
+
++DESCRIPTION+
+Aeron is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

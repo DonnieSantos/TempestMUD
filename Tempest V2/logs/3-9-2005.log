@@ -1,0 +1,14 @@
+[01:09:39 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[01:09:41 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.
+[08:06:00 64.157.38.195 LOGIN     ] (VOID) 64.157.38.195 connected to server.
+[08:06:03 SYSTEM                  ] 64.157.38.195 Account Christo connected to server.
+[08:06:05 SYSTEM                  ] 64.157.38.195 Kiras entering game.
+[08:06:07 64.157.38.195 Kiras     ] (469) who
+[08:06:11 64.157.38.195 Kiras     ] (469) l lizard
+[08:06:13 64.157.38.195 Kiras     ] (469) l 2.lizard
+[08:06:16 64.157.38.195 Kiras     ] (469) l 3.lizard
+[08:06:42 64.157.38.195 Kiras     ] (469) n
+[08:07:02 64.157.38.195 Kiras     ] (470) s
+[08:07:19 64.157.38.195 Kiras     ] (469) quit
+[08:07:19 SYSTEM                  ] 64.157.38.195 Kiras has quit the game.
+[08:07:20 SYSTEM                  ] 64.157.38.195 Account Christo has quit the game.

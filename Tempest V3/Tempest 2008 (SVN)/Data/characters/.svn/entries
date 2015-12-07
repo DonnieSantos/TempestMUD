@@ -1,0 +1,37 @@
+9
+
+dir
+25
+svn+ssh://donnie@Tempest/svn/tempest/trunk/Data/characters
+svn+ssh://donnie@Tempest/svn/tempest
+
+
+
+2008-07-16T23:49:33.764018Z
+16
+jon
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ab58fb05-a940-0410-8d94-a7f3d5bd8c10
+
+aristal
+dir
+
+template_character
+dir
+
+shayde
+dir
+

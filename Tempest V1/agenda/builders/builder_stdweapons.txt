@@ -1,0 +1,47 @@
+
+  +----+--------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+----------------------------------+
+  | LV |         NAME       | HIT | DAM | AC  | MR  | HP  | MN  | MV  |   REQUIRED STATS    |             CLASSES              |
+  +-------------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+----------------------------------+
+  | 1  | Razorblade         |     | 1   |     |     |     |     |     | 2   5   2   0   0   | All Thief                        |
+  | 2  | White Dagger       | 1   | 1   |     |     |     |     |     | 2   5   2   0   0   | All Thief                        |
+  | 5  | Steel Dagger       | 2   | 1   |     |     |     |     |     | 0   10  0   0   0   | All Thief                        |
+  | 8  | Sharp Steel Dagger | 2   | 2   |     |     |     |     |     | 0   15  0   0   0   | All Thief                        |
+  | 10 | Stiletto           | 3   | 3   |     |     |     |     |     | 10  20  10  0   0   | Th As Rg Ra Sb Mc                |
+  | 12 | Sharp Stiletto     | 3   | 4   |     |     |     |     |     | 10  22  10  0   0   | Th As Rg Ra Sb Mc                |
+  | 15 | Serrated Knife     | 4   | 4   |     |     |     |     |     | 15  25  10  0   0   | Th As Rg Sb Mc                   |
+  | 20 | Assassin's Knife   | 5   | 5   |     |     |     |     |     | 20  40  20  0   0   | Th As Rg Sb Mc                   |
+  | 25 | Onyx Dagger        | 5   | 6   |     |     |     |     |     | 25  50  30  0   0   | Th As Rg Sb Mc                   |
+  | 30 | Morning Glory      | 6   | 6   |     |     |     |     |     | 20  60  30  0   0   | Th As Rg Ra Sb Mc                |
+  | 35 | Blood Dagger       | 6   | 7   |     |     |     |     |     | 35  60  30  0   0   | Th As Rg Sb Mc                   |
+  | 40 | The Sidewinder     | 8   | 8   |     |     |     |     |     | 20  80  50  10  0   | Th As Rg Ra Sb Mc                |
+  | 45 | Lotus Dagger       | 9   | 8   |     |     |     |     |     | 20  95  40  5   5   | Th As Rg Ra Sb Mc                |
+  | 50 | Black Stiletto     | 10  | 10  |     |     |     |     |     | 50  100 50  10  0   | Th As Ra Rg Sb Mc                |
+  | 65 | Ebony Kris         | 11  | 12  |     |     |     |     |     | 75  120 50  15  5   | Th As Rg Sb Mc                   |
+  | 70 | Sun Dagger         | 12  | 12  |     |     |     |     |     | 70  120 80  20  15  | Th As Ra Rg Sb Mc                |
+  | 80 | Blossom Dagger     | 14  | 14  |     |     |     |     |     | 80  180 80  0   0   | Th As Ra Rg Sb Mc                |
+  | 90 | Royal Dagger       | 19  | 14  |     |     |     |     |     | 90  200 90  0   0   | Th As Rg Sb                      |
+  | 95 | Black Orchid       | 18  | 18  |     |     |     |     |     | 150 150 100 0   0   | Th As Sb                         |
+  | 99 | The Heartseeker    | 21  | 17  |     |     |     |     |     | 100 200 100 20  0   | Th As Sb                         |
+  +----+--------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+----------------------------------+
+  | 1  | Wooden Bow         | 0   | 1   |     |     |     |     |     | 2   5   2   0   0   | Th As Rg Ra Me Sb Mc Cl Hl Wa Pa |
+  | 2  | Longbow            | 0   | 2   |     |     |     |     |     | 2   5   2   0   0   | Rg Ra Mc Wa                      |
+  | 5  | Iron Bow           | 1   | 1   |     |     |     |     |     | 5   6   0   0   0   | Th As Rg Ra Me Sb Mc Cl Hl Wa Pa |
+  | 8  | Leather Whip       | 2   | 2   |     |     |     |     |     | 5   10  10  0   0   | Th As Rg Sb Mc Wa                |
+  | 10 | Crossbow           | 1   | 3   |     |     |     |     |     | 10  20  5   0   0   | Th As Rg Ra Me Sb Mc Cl Hl Wa Pa |
+  | 12 | Iron Crossbow      | 2   | 3   |     |     |     |     |     | 15  20  5   0   0   | Th As Rg Ra Sb Mc Cl Hl Wa Pa    |
+  | 15 | Throwing Star      | 1   | 4   |     |     |     |     |     | 0   25  0   0   0   | Th As Rg Sb                      |
+  | 20 | Black Leather Whip | 4   | 4   |     |     |     |     |     | 20  20  20  0   0   | Th As Rg Sb Mc Wa                |
+  | 25 | Throwing Knife     | 3   | 5   |     |     |     |     |     | 0   50  0   0   0   | Th As Rg Sb                      |
+  | 30 | Poison Darts       | 3   | 3   |     |     |     |     |     | 0   60  0   0   0   | Th As Rg Sb                      |
+  | 35 | Elven Longbow      | 4   | 6   |     |     |     |     |     | 20  45  20  10  0   | Th As Rg Ra Sb Mc Cl Hl Wa Pa    |
+  | 40 | Morningstar        | 6   | 7   |     |     |     |     |     | 40  40  40  0   0   | Th As Rg Sb Mc Wa                |
+  | 50 | Drow Longbow       | 3   | 9   |     |     |     |     |     | 30  80  30  20  10  | Th As Rg Ra Sb Mc Cl Hl Wa Pa    |
+  | 55 | Triple Flail       | 8   | 9   |     |     |     |     |     | 60  60  60  0   0   | Th As Rg Sb Mc Wa                |
+  | 60 | Robin Bow          | 6   | 10  |     |     |     |     |     | 20  100 20  10  10  | Th As Rg Ra Sb Mc Cl Hl Wa Pa    |
+  | 70 | Mystic Bow         | 7   | 10  |     |     |     |     |     | 10  120 10  20  20  | Th As Rg Ra Mc Cl Hl             |
+  | 75 | Flame Whip         | 10  | 10  |     |     |     |     |     | 90  90  90  0   0   | Th As Rg Sb Mc Wa                |
+  | 80 | Dream Bow          | 8   | 12  |     |     |     |     |     | 80  100 100 0   50  | Th Rg Ra Mc Cl Hl                |
+  | 85 | Giant Scythe       | 13  | 13  |     |     |     |     |     | 100 100 100 0   0   | Th As Rg Sb Mc Wa                |
+  | 95 | Seraphic Bow       | 12  | 16  |     |     |     |     |     | 80  120 120 30  30  | Ra Cl                            |
+  | 99 | Valkyrie           | 9   | 17  |     |     |     |     |     | 130 130 130 0   0   | Ra As                            |
+  +-------------------------+-----+-----+-----+-----+-----+-----+-----+---------------------+----------------------------------+

@@ -1,0 +1,27 @@
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|                       #gSkills#n                        |#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|#N The skills you may learn are, for the most part,    #n|#N
+  #n|#N dicated by your class. It may be possible in some   #n|#N
+  #n|#N cases to learn skills not meant for your class, but #n|#N
+  #n|#N that would require either divine intervention, or   #n|#N
+  #n|#N a severely determined student of multiple arts.     #n|#N
+  #n|                                                     |#N
+  #n|#N The best way to find out which skills you can learn #n|#N
+  #n|#N and what their requirements are is to talk to a     #n|#N
+  #n|#N Skillmaster NPC.  Every major city has one, so find #n|#N
+  #n|#N them and speak with them about skills.              #n|#N
+  #n|                                                     |#N
+  #n|#N The only way to find out about the skills of other  #n|#N
+  #n|#N classes is to speak with a human player of that     #n|#N
+  #n|#N class, and they can tell you about it.              #n|#N
+  #n|                                                     |#N
+  #n|#N To list your current skills, type #n'#rskills#n'#N.         #n|#N
+  #n|                                                     |#N
+  #n|#N To use a skill, just type in the name of the skill. #n|#N
+  #n|                                                     |#N
+  #n|#N If nothing happens, it's most likely a passive      #n|#N
+  #n|#N skill, which means it works automatically. Consult  #n|#N
+  #n|#N a Skillmaster or player if you are unsure of how    #n|#N
+  #n|#N a particular skill works.                           #n|#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N

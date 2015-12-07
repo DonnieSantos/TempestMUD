@@ -1,0 +1,5 @@
+<Object name="attributes">
+	<Variable name="mv" value="3000" />
+	<Variable name="hp" value="2000" />
+	<Variable name="mn" value="5000" />
+</Object>

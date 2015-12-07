@@ -1,0 +1,64 @@
+
+  Utility.ENTER_LOGIN
+  Utility.ENTER_MOVE
+  Utility.ENTER_FOLLOW
+  Utility.ENTER_REBORN
+  Utility.ENTER_GOTO
+  Utility.ENTER_TRANS
+  Utility.ENTER_UNPOS
+  Utility.ENTER_NEWCLASS
+
+  Utility.LEAVE_QUIT
+  Utility.LEAVE_MOVE
+  Utility.LEAVE_FOLLOW
+  Utility.LEAVE_DIE
+  Utility.LEAVE_GOTO
+  Utility.LEAVE_TRANS
+  Utility.LEAVE_POSSESS
+  Utility.LEAVE_NEWCLASS
+  Utility.LEAVE_TELEPORT
+
+  Room.enter(E, ENTRY_MOVE)
+  Room.leave(E, LEAVE_MOVE)
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void enter(Entity E, int type)
+
+  {
+    E.setRoom(id);
+    gain(E);
+
+    updateEffects(E);
+    E.updateEffects();
+
+    if ((type == ENTER_MOVE) || (type == ENTER_FOLLOW))
+    if (!E.isSneaking())
+
+    {
+      action(RESPONSE_ENTER);
+      informMobs(RESPONSE_ENTER);
+    }
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public void leave(Entity E, int type)
+
+  {
+    loss(E);
+    updateEffects(E);
+
+    if ((type == LEAVE_MOVE) || (type == LEAVE_FOLLOW))
+    if (!E.isSneaking())
+
+    {
+      action(RESPONSE_EXIT);
+      informMobs(RESPONSE_EXIT);
+    }
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////

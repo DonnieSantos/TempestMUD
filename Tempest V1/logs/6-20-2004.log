@@ -1,0 +1,63 @@
+[2:10:4 SYSTEM                    ] Tempest Server Started.
+[2:10:23 SYSTEM                   ] 68.170.210.116 connected to server.
+[2:10:25 68.170.210.116 LOGIN     ] (VOID) 
+[2:10:44 68.170.210.116 CREATION  ] (VOID) asdfasdf
+[2:10:44 68.170.210.116 LOGIN     ] (VOID) sa
+[2:10:44 68.170.210.116 CREATION  ] (VOID) df
+[2:10:44 68.170.210.116 LOGIN     ] (VOID) sadf
+[2:10:45 68.170.210.116 CREATION  ] (VOID) 
+[2:10:46 68.170.210.116 LOGIN     ] (VOID) sad
+[2:10:46 68.170.210.116 CREATION  ] (VOID) f
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) sadf
+[2:10:47 68.170.210.116 CREATION  ] (VOID) saf
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) df
+[2:10:47 68.170.210.116 CREATION  ] (VOID) ds
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) ad
+[2:10:47 68.170.210.116 CREATION  ] (VOID) sfs
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) df
+[2:10:47 68.170.210.116 CREATION  ] (VOID) sdf
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) sda
+[2:10:47 68.170.210.116 CREATION  ] (VOID) f
+[2:10:47 68.170.210.116 LOGIN     ] (VOID) sa
+[2:10:48 68.170.210.116 CREATION  ] (VOID) fsa
+[2:10:48 68.170.210.116 LOGIN     ] (VOID) fs
+[2:10:48 68.170.210.116 CREATION  ] (VOID) af
+[2:10:48 68.170.210.116 LOGIN     ] (VOID) asfd
+[2:10:48 68.170.210.116 CREATION  ] (VOID) as
+[2:10:49 68.170.210.116 LOGIN     ] (VOID) f
+[2:11:14 SYSTEM                   ] 68.170.210.116 F went linkdead during creation.
+[2:11:15 SYSTEM                   ] 127.0.0.1 connected to server.
+[2:11:17 127.0.0.1 LOGIN          ] (VOID) genevieve
+[2:11:17 SYSTEM                   ] 68.170.210.116 connected to server.
+[2:11:17 127.0.0.1 LOGIN          ] (VOID) genna
+[2:11:17 127.0.0.1 Genevieve      ] (1576) Entered the world.
+[2:11:19 127.0.0.1 Genevieve      ] (1576) who
+[2:11:19 68.170.210.116 LOGIN     ] (VOID) Aristal
+[2:11:20 127.0.0.1 Genevieve      ] (1576) users
+[2:11:20 68.170.210.116 LOGIN     ] (VOID) chagrin
+[2:11:20 68.170.210.116 Aristal   ] (100) Entered the world.
+[2:11:23 127.0.0.1 Genevieve      ] (1576) goto aris
+[2:11:23 68.170.210.116 Aristal   ] (100) 
+[2:11:23 68.170.210.116 Aristal   ] (100) asd
+[2:11:23 68.170.210.116 Aristal   ] (100) fas
+[2:11:24 68.170.210.116 Aristal   ] (100) df
+[2:11:24 68.170.210.116 Aristal   ] (100) fd
+[2:11:24 127.0.0.1 Genevieve      ] (100) say Hi
+[2:11:24 68.170.210.116 Aristal   ] (100) sa
+[2:11:24 68.170.210.116 Aristal   ] (100) df
+[2:11:25 68.170.210.116 Aristal   ] (100) s
+[2:11:25 68.170.210.116 Aristal   ] (100) fs
+[2:11:25 68.170.210.116 Aristal   ] (100) df
+[2:11:25 68.170.210.116 Aristal   ] (100) sa
+[2:11:25 68.170.210.116 Aristal   ] (100) sd
+[2:11:25 68.170.210.116 Aristal   ] (100) af
+[2:11:26 68.170.210.116 Aristal   ] (100) sd
+[2:11:26 68.170.210.116 Aristal   ] (100) f
+[2:11:28 SYSTEM                   ] 68.170.210.116 Aristal went linkdead in-game.
+[2:11:34 SYSTEM                   ] 68.170.210.116 connected to server.
+[2:11:36 68.170.210.116 LOGIN     ] (VOID) Aristal
+[2:11:38 68.170.210.116 LOGIN     ] (VOID) chagrin
+[2:11:38 SYSTEM                   ] 68.170.210.116 reconnected to 68.170.210.116 Aristal.
+[2:12:9 68.170.210.116 Aristal    ] (100) say Hi
+[2:12:15 SYSTEM                   ] 68.170.210.116 Aristal went linkdead in-game.
+[2:14:5 SYSTEM                    ] 68.170.210.116 Aristal dropped from the game.

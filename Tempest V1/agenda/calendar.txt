@@ -1,0 +1,38 @@
+
+  Maleficus 6000.  -  Supreme Immortals come to exist.
+  Maleficus 300.   -  The Demon War begins.
+  Domina 0.        -  The Demon War ends.
+  Domina 2995.     -  The God War begins.
+  Domina 2998.     -  The Supreme Immortals battle.
+  Vallum 0.        -  The Tempest is created.
+  Vallum 1000.     -  The present day.
+
+  +----------------------------------------------------+
+  | Lenneth Leviatha. (Paladine Leviatha)              |
+  +----------------------------------------------------+
+  | Human Warrior.                    --  Vallum 1000. |
+  | Paladin by oath of Genevieve.     --  Vallum 1002. |
+  | Founded Guild Paladine Leviatha.  --  Vallum 1002. |
+  +----------------------------------------------------+
+
+  +-------------------------------------------------+
+  | Genevieve. (Bloody Rose)                        |
+  +-------------------------------------------------+
+  | Goddess of Deception.       --  Maleficus 6000. |
+  | Shadowblade Assassin.       --  Maleficus 6000. |
+  | Founded City Odessa.        --  Domina 1250.    |
+  | Founded Guild Bloody Rose.  --  Vallum 650.     |
+  | Mother of the Earth.        --  Vallum 1000.    |
+  +-------------------------------------------------+
+
+  One real-life month   =  One Vallum.
+  One real-life week    =  One season.
+  Two real-life hours   =  One day.
+  30 real-life minutes  =  One period.
+
+  525960 Game Minutes in a Vallum.
+  131490 Game Minutes in a Season.
+  1461   Game Minutes in a Day.     (90 Days per Season)
+  365.25 Game Minutes in a Period.  (365, 730, 1095, 1461)
+
+  The Morning of the 46th day of Autumn, Vallum 2012.

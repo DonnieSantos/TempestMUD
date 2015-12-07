@@ -1,0 +1,33 @@
+//////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////
+
+SerialVersionUID Listing:
+
+Room         - 1
+Zone         - 2
+Writable     - 3
+Char         - 4
+Item         - 5
+Alias        - 6
+AliasList    - 7
+ClanMember   - 8
+Clan         - 9
+Religion     - 10
+Note         - 11
+MessageBoard - 12
+Mobile       - 13
+Legend       - 14
+LegendMark   - 15
+Flag         - 16
+Action       - 17
+Account      - 18
+BankChain    - 80
+BankBranch   - 81
+BankAccount  - 82
+PopMember    - 90
+Skill        - 1000
+Spell        - 2000
+Effect       - 3000
+
+//////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////

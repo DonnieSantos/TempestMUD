@@ -1,0 +1,10 @@
+[8:5:39 SYSTEM                    ] Tempest Server Started.
+[8:5:53 SYSTEM                    ] 127.0.0.1 connected to server.
+[8:5:55 127.0.0.1 LOGIN           ] (VOID) genevieve
+[8:5:56 127.0.0.1 LOGIN           ] (VOID) genna
+[8:5:56 127.0.0.1 Genevieve       ] (100) Entered the world.
+[8:5:57 127.0.0.1 Genevieve       ] (100) inv
+[8:6:2 127.0.0.1 Genevieve        ] (100) cast identify sch
+[8:6:47 127.0.0.1 Genevieve       ] (100) cast identify map
+[8:6:58 127.0.0.1 Genevieve       ] (100) quit
+[8:6:58 SYSTEM                    ] 127.0.0.1 Genevieve quit the game.

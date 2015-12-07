@@ -1,0 +1,4 @@
+<Object name="attributes">
+	<Variable name="name" value="Damascus Room" />
+	<Variable name="description" value="This is the first room in Damascus." />
+</Object>

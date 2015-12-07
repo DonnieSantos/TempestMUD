@@ -1,0 +1,2 @@
+cls
+javac -d .\bytecode .\source\*.java .\source\Interfaces\*.java .\source\Data\*.java .\source\Interfaces\GameInterface\*.java .\source\Interfaces\GameInterface\Commands\*.java .\source\Interfaces\LoginInterface\*.java .\source\Primitives\*.java

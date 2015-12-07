@@ -1,0 +1,133 @@
+
+  +-----------------------------+
+  | Creating Balanced Equipment |
+  +-----------------------------+
+
+  +-------------------------------------------------------------------------------------------+
+  | Health/Mana/Movement Chart:                                                               |
+  |                                                                                           |
+  | At the following levels, the different classes should (if they balanced their stats in    |
+  | a common fashion) end up with something around these numbers.  It is possible to get way  |
+  | less or way more, but that's not necessary to take into account for the purposes of       |
+  | making balanced equipment, since they will suffer other losses for their sacrifice.       |
+  |                                                                                           |
+  |                    Warrior            Thief             Cleric              Mage          |
+  | +------------+-----------------+------------------+------------------+------------------+ |
+  | | Level  1:  | 210   45   190  | 140   70    135  | 120   110   120  | 95    20    100  | |
+  | | Level  5:  | 300   65   280  | 200   110   220  | 170   185   190  | 135   340   170  | |
+  | | Level 10:  | 450   100  400  | 280   160   330  | 240   280   280  | 190   490   250  | |
+  | | Level 20:  | 700   150  650  | 460   270   560  | 400   500   475  | 300   800   430  | |
+  | | Level 30:  | 1000  200  900  | 650   380   800  | 550   730   650  | 440   1150  620  | |
+  | | Level 40:  | 1300  250  1100 | 850   490   1050 | 725   980   860  | 590   1500  805  | |
+  | | Level 50:  | 1700  300  1400 | 1100  600   1300 | 900   1260  1050 | 740   1850  980  | |
+  | | Level 60:  | 2100  350  1700 | 1300  700   1550 | 1090  1550  1250 | 890   2250  1180 | |
+  | | Level 70:  | 2400  400  2000 | 1600  850   1850 | 1300  1850  1450 | 1050  2650  1350 | |
+  | | Level 80:  | 2800  450  2300 | 1850  950   2100 | 1500  2200  1700 | 1190  3100  1560 | |
+  | | Level 90:  | 3200  550  2600 | 2100  1050  2400 | 1750  2550  1900 | 1350  3550  1750 | |
+  | | Level 99:  | 3600  600  2800 | 2300  1200  2600 | 1950  2900  2100 | 1480  3950  1900 | |
+  | +------------+-----------------+------------------+------------------+------------------+ |
+  |                                                                                           |
+  | These numbers represent NATURAL stats, meaning with no equipment modifiers.               |
+  | Equipment in a SPECIFIC Full Kit should not exceed roughly 150 % of the natural stat.     |
+  |                                                                                           |
+  | For example, a Level 99 Warrior in a hitpoint kit should not be able to get much more     |
+  | than (3600 * 1.5) which is 5400.  If equipment exists that allows such a character to     |
+  | attain well over this amount (in this case, well over 6000 hp) then the equipment either  |
+  | needs some negative modifiers, or a reduction in the specified health bonus.              |
+  +-------------------------------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------------------------------+
+  | Character Statistics Chart:                                                               |
+  |                                                                                           |
+  | The following chart very loosley represents what the AVERAGE BALANCED character might     |
+  | have for statistics. These are generalized for each class type, so they will vary if      |
+  | you have a special class.  For example, a Knight might have more armorclass but less      |
+  | damage than a Warrior, and a Death Knight would have more damage and less armorclass.     |
+  |                                                                                           |
+  | These are a very general reference. You will have to adjust these numbers depending on    |
+  | which specific class you are of this class type, and also what type of equipment this     |
+  | particular character is outfitted in.                                                     |
+  |                                                                                           |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |       | Warrior | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |       |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                   | Lv. 1  | 5   | 2   | 3   | 0   | 0   | 0   | 1   | 40   | 0   |       |
+  |                   | Lv. 25 | 50  | 25  | 40  | 7   | 5   | 6   | 6   | 320  | 15  |       |
+  |                   | Lv. 50 | 100 | 50  | 75  | 15  | 10  | 12  | 12  | 600  | 30  |       |
+  |                   | Lv. 75 | 150 | 75  | 115 | 20  | 20  | 18  | 18  | 900  | 45  |       |
+  |                   | Lv. 99 | 200 | 100 | 150 | 25  | 25  | 25  | 25  | 1200 | 65  |       |
+  |                   +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                                                                                           |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |       | Thief   | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |       |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                   | Lv. 1  | 2   | 5   | 2   | 1   | 0   | 0   | 1   | 25   | 0   |       |
+  |                   | Lv. 25 | 40  | 50  | 25  | 7   | 5   | 5   | 5   | 210  | 10  |       |
+  |                   | Lv. 50 | 75  | 100 | 50  | 15  | 10  | 10  | 10  | 400  | 20  |       |
+  |                   | Lv. 75 | 115 | 150 | 75  | 20  | 20  | 15  | 15  | 600  | 30  |       |
+  |                   | Lv. 99 | 150 | 200 | 100 | 25  | 25  | 20  | 20  | 800  | 40  |       |
+  |                   +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                                                                                           |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |       | Cleric  | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |       |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                   | Lv. 1  | 1   | 1   | 1   | 2   | 5   | 1   | 0   | 20   | 0   |       |
+  |                   | Lv. 25 | 6   | 20  | 25  | 25  | 50  | 5   | 4   | 140  | 15  |       |
+  |                   | Lv. 50 | 12  | 40  | 50  | 50  | 100 | 8   | 7   | 290  | 35  |       |
+  |                   | Lv. 75 | 18  | 60  | 75  | 75  | 150 | 11  | 11  | 440  | 50  |       |
+  |                   | Lv. 99 | 25  | 75  | 100 | 100 | 200 | 15  | 15  | 600  | 70  |       |
+  |                   +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                                                                                           |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |       | Mage    | | Level  | STR | DEX | CON | INT | WIS | Hit | Dam |  AC  | MR  |       |
+  |       +---------+ +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                   | Lv. 1  | 0   | 0   | 0   | 6   | 4   | 1   | 0   | 15   | 0   |       |
+  |                   | Lv. 25 | 6   | 12  | 25  | 60  | 25  | 2   | 2   | 130  | 20  |       |
+  |                   | Lv. 50 | 12  | 25  | 50  | 125 | 50  | 4   | 4   | 250  | 40  |       |
+  |                   | Lv. 75 | 18  | 37  | 65  | 190 | 75  | 7   | 7   | 375  | 60  |       |
+  |                   | Lv. 99 | 25  | 50  | 75  | 250 | 100 | 9   | 9   | 500  | 80  |       |
+  |                   +--------+-----+-----+-----+-----+-----+-----+-----+------+-----+       |
+  |                                                                                           |
+  | Remember to make adjustments for CLASS and KIT! A Shadowblade is more geared for damage   |
+  | than an Assassin, with less protection. They would most likely be interested, then, in    |
+  | doing more damage with their equipment. Thus you would want to keep in mind all possible  |
+  | outfits for a Shadowblade that add damage, and keep it balanced. This is the type of      |
+  | thing you must consider at all times when balancing equipment for each class.             |
+  |                                                                                           |
+  +-------------------------------------------------------------------------------------------+
+
+  +-------------------------------------------------------------------------------------------+
+  | General Class Differences:                                                                |
+  |                                                                                           |
+  | Warrior       --  All-round combat class.  Well-protected and great damage.               |
+  | Knight        --  More defense than a Warrior, less damage.                               |
+  | Berzerker     --  More damage than a Warrior, less defense.                               |
+  | Paladin       --  More defense than a Warrior, less damage.  Great resistance.            |
+  | Crusader      --  Best defense, worst damage.                                             |
+  | Death Knight  --  Second-best damage.                                                     |
+  | Anti Paladin  --  Best damage, worst defense.                                             |
+  |                                                                                           |
+  | Thief         --  Skill class.  Less protection than a warrior.  Good damage.             |
+  | Assassin      --  More damage than a thief.  No combat losses.  Great damage class.       |
+  | Rogue         --  Slightly better than a Thief in all combat areas.                       |
+  | Ranger        --  Best-protected Thief class.  Best bow-user.  Good damage.               |
+  | Merchant      --  Cannot equip most weapons and armor.  Non-combat class.                 |
+  | Shadowblade   --  Better damage than an Assassin, less protection.                        |
+  | Mercenary     --  Well protected and versatile in armament.  Good damage.                 |
+  |                                                                                           |
+  | Cleric        --  Healing class.  Weak physically.                                        |
+  | Druid         --  More health and protection than a Cleric.  Slightly less mana.          |
+  | Monk          --  Most health, best physical damage.  Lowest mana and spell power.        |
+  | Priest        --  More mana than a Cleric, less health and protection.  Best healer.      |
+  | Healer        --  Same physical attributes as a Cleric.  Uses items instead of spells.    |
+  | Dark Cleric   --  Geared towards spell power instead of mana supply.  Good protection.    |
+  | Alchemist     --  Non-combat oriented.  Weakest stats.                                    |
+  |                                                                                           |
+  | Mage          --  Magic class.  Great spell damage and resistance.  Weakest physically.   |
+  | Wizard        --  More mana and damage than a basic mage.  Great damage spellcaster.      |
+  | Illusionist   --  Less mana, more health.  Uses illusory spells to compensate for damage. |
+  | Sorcerer      --  All-purpose mage.  Versatile and balanced.                              |
+  | Summoner      --  Weak stats, but can summon powerful familliars.                         |
+  | Warlock       --  Most magic damage.  Lower mana and physical stats.                      |
+  | Shapeshifter  --  Weakest stats, but can change shape to a melee type entity.             |
+  +-------------------------------------------------------------------------------------------+

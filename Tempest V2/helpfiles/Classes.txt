@@ -1,0 +1,23 @@
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|                       #gClasses#N                       #n|#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|#N Your class determines which skills and spells you   #n|#N
+  #n|#N may receive, and the type of equipment you can use. #n|#N
+  #n|#N It also determines your natural health and mana.    #n|#N
+  #n|                                                     |#N
+  #n|#N To view a full list of classes, type #n'#rclasses#n'#N.     #n|#N
+  #n|                                                     |#N
+  #n|#N For information on one class, type #n'#rhelp #n<#Rclass#n>'#N.  #n|#N
+  #n|                                                     |#N
+  #n|#N You must start as a #BWarrior#N, #YThief#N, #GCleric#N or #MMage#N. #n|#N
+  #n|#N Upon reaching the 10th level, you have the option   #n|#N
+  #n|#N to choose a specialized class, by talking to one    #n|#N
+  #n|#N who is already of that class, and will sponsor you. #n|#N
+  #n|                                                     |#N
+  #n|#N In addition to this, upon reaching the 50th level,  #n|#N
+  #n|#N you have the option of changing your class to one   #n|#N
+  #n|#N of the special classes reserved for a certain       #n|#N
+  #n|#N alignment. All class changes are optional.          #n|#N
+  #n|                                                     |#N
+  #n|#N For detailed information, type #n'#rhelp alignment#n'     |#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N

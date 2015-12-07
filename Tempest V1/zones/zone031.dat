@@ -1,0 +1,36 @@
+Zone Name = #BGolgotha#N
+Zone Number = 31
+Zone Size = 1
+Repop Rate = 100
+Mobiles = 0
+Terrain = Normal Flat Terrain
+Scheme = Dark Blue
+
+ROOM 3100
+BEGIN EXACT
+#BGolgotha Prison #N-- #CCell Block #N[#rA#N]#N
+   You are surrounded on all sides by stone walls, and can't do
+much more than stare out through the cold iron bars into the dark,
+lonely corridor. The faint moans of other prisoners down the hall
+to the left are the only signs of life in this place, and you have
+been left to rot here until you atone for your crimes.
+++---++---++---++---++---++---++---++---++---++---++---++---++---++
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||   ||
+++---++---++---++---++---++---++---++---++---++---++---++---++---++#N
+END
+
+-End- 

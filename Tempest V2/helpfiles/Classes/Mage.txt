@@ -1,0 +1,29 @@
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  #n|                            #MMage#n                             |
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  #n|                                                             |
+  #n|#N Mages are scholars and powerful attack magic users. They    #n|
+  #n|#N are fiercly intelligent, although very weak physically. The #n|
+  #n|#N adept magic user dedicates his life to the study of the     #n|
+  #n|#N arcane, and believes in mind over matter. A vast array of   #n|
+  #n|#N knowledge and an arsenal of attack spells are the weapons   #n|
+  #n|#N of the Mage, and his philosophy is that a good offense is   #n|
+  #n|#N the best defense. Mages cannot absorb damage well--They     #n|
+  #n|#N will more likely try and destroy the source before it has   #n|
+  #n|#N the chance to attack. Some Mages that do not care for       #n|
+  #n|#N combat might lead a life of study and solitude, but more    #n|
+  #n|#N often than not they are formidable adversaries when         #n|
+  #n|#N conflict arises.                                            #n|
+  #n|                                                             |
+  #n|#N At level 10, a Mage may become a #mWizard#N or an #yIllusionist#N.  #n|
+  #n|#N Type #n'#rhelp classes#n'#N for information on changing classes.    #n|
+  #n|                                                             |
+  #n|#N Mages who stay pure to their profession, and never          #n|
+  #n|#N deviate into the study of other arts, may receive special   #n|
+  #n|#N abilities and the unique title of Arch Mage. While          #n|
+  #n|#N there are, of course, huge advantages to the specialized    #n|
+  #n|#N Mage classes, and the long journey to level 99 as just      #n|
+  #n|#N a Mage is certainly more difficult, there may be some       #n|
+  #n|#N subtle or yet unknown rewards for accomplishing this.       #n|
+  #n|                                                             |
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N

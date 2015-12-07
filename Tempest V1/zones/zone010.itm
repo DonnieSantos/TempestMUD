@@ -1,0 +1,48 @@
+Zone 10
+Items = 3
+
+ITEM: 1000
+TYPE: CONTAINEREQ
+MAXITEMS: 50
+NAME: Backpack
+LNAME: a backpack
+GDESC: A leather backpack has been left here.
+LEVEL: 1
+STATS: 0 0 0 0 0 0 0
+SREQS: 10 5 0 0 0
+CLASS: All
+PLACE: Back
+WORTH: 100
+BEGIN
+This backpack looks like it could hold quite a few items.
+END
+
+ITEM: 1001
+TYPE: CONTAINER
+MAXITEMS: 99
+NAME: The Chest
+LNAME: the chest
+GDESC: A wooden chest sits here waiting for you to put something in.
+LEVEL: 100
+WORTH: 100
+BEGIN
+This chest if for testing purposes.
+END
+
+ITEM: 1002
+TYPE: CONTAINEREQ
+MAXITEMS: 50
+NAME: CWRU Backpack
+LNAME: a CWRU backpack
+GDESC: A CWRU backpack has been left here.
+LEVEL: 1
+STATS: 0 0 0 0 0 0 0
+SREQS: 10 5 0 0 0
+CLASS: All
+PLACE: Back
+WORTH: 100
+BEGIN
+This CWRU backpack looks like it could hold quite a few items.
+END
+
+-End- 

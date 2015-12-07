@@ -1,0 +1,58 @@
+[5:6:44 SYSTEM                    ] Tempest Server Started.
+[5:7:5 SYSTEM                     ] 127.0.0.1 connected to server.
+[5:7:9 127.0.0.1 LOGIN            ] (VOID) lenneth
+[5:7:13 127.0.0.1 CREATION        ] (VOID) n
+[5:7:15 127.0.0.1 LOGIN           ] (VOID) Lenneth
+[5:7:16 127.0.0.1 CREATION        ] (VOID) n
+[5:7:18 127.0.0.1 LOGIN           ] (VOID) genevieve
+[5:7:19 127.0.0.1 LOGIN           ] (VOID) genna
+[5:7:19 127.0.0.1 Genevieve       ] (1528) Entered the world.
+[5:7:21 127.0.0.1 Genevieve       ] (1528) l
+[5:7:22 127.0.0.1 Genevieve       ] (1528) stat
+[5:7:24 127.0.0.1 Genevieve       ] (1528) finger lenneth
+[5:7:27 127.0.0.1 Genevieve       ] (1528) eq
+[5:7:29 127.0.0.1 Genevieve       ] (1528) ilist all
+[5:7:33 127.0.0.1 Genevieve       ] (1528) load item truth
+[5:7:34 127.0.0.1 Genevieve       ] (1528) l truth
+[5:8:1 127.0.0.1 Genevieve        ] (1528) load item faith
+[5:8:2 127.0.0.1 Genevieve        ] (1528) l faith
+[5:8:38 127.0.0.1 Genevieve       ] (1528) ilist all
+[5:18:31 127.0.0.1 Genevieve      ] (1528) ilist all
+[5:19:4 127.0.0.1 Genevieve       ] (1528) l
+[5:19:8 127.0.0.1 Genevieve       ] (1528) goto 1
+[5:19:9 127.0.0.1 Genevieve       ] (1528) goto 100
+[5:19:14 127.0.0.1 Genevieve      ] (100) read board
+[5:19:15 127.0.0.1 Genevieve      ] (100) read 1
+[5:19:21 127.0.0.1 Genevieve      ] (100) w
+[5:19:22 127.0.0.1 Genevieve      ] (3000) n
+[5:19:23 127.0.0.1 Genevieve      ] (3001) s
+[5:19:26 127.0.0.1 Genevieve      ] (3000) n
+[5:19:27 127.0.0.1 Genevieve      ] (3001) n
+[5:19:28 127.0.0.1 Genevieve      ] (3004) n
+[5:19:29 127.0.0.1 Genevieve      ] (3009) s
+[5:19:29 127.0.0.1 Genevieve      ] (3004) s
+[5:19:32 127.0.0.1 Genevieve      ] (3001) s
+[5:19:34 127.0.0.1 Genevieve      ] (3000) w
+[5:19:36 127.0.0.1 Genevieve      ] (3030) n
+[5:19:38 127.0.0.1 Genevieve      ] (1500) n
+[5:19:42 127.0.0.1 Genevieve      ] (1500) open port
+[5:19:44 127.0.0.1 Genevieve      ] (1500) n
+[5:19:46 127.0.0.1 Genevieve      ] (1501) w
+[5:19:47 127.0.0.1 Genevieve      ] (1502) w
+[5:19:47 127.0.0.1 Genevieve      ] (1503) w
+[5:19:47 127.0.0.1 Genevieve      ] (1504) w
+[5:19:47 127.0.0.1 Genevieve      ] (1505) w
+[5:19:48 127.0.0.1 Genevieve      ] (1505) w
+[5:19:48 127.0.0.1 Genevieve      ] (1506) w
+[5:19:48 127.0.0.1 Genevieve      ] (1507) w
+[5:19:48 127.0.0.1 Genevieve      ] (1508) w
+[5:19:48 127.0.0.1 Genevieve      ] (1509) w
+[5:19:49 127.0.0.1 Genevieve      ] (1510) w
+[5:19:49 127.0.0.1 Genevieve      ] (1510) w
+[5:19:50 127.0.0.1 Genevieve      ] (1510) n
+[5:19:51 127.0.0.1 Genevieve      ] (1511) s
+[5:19:52 127.0.0.1 Genevieve      ] (1510) e
+[5:19:52 127.0.0.1 Genevieve      ] (1509) e
+[5:19:53 127.0.0.1 Genevieve      ] (1508) e
+[5:19:59 127.0.0.1 Genevieve      ] (1507) quit
+[5:19:59 SYSTEM                   ] 127.0.0.1 Genevieve quit the game.

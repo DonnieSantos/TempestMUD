@@ -1,0 +1,34 @@
+[18:8:40 SYSTEM                   ] Tempest Server Started.
+[18:14:37 SYSTEM                  ] Tempest Server Started.
+[18:14:44 SYSTEM                  ] 127.0.0.1 connected to server.
+[18:14:47 127.0.0.1 LOGIN         ] (VOID) genevieve
+[18:14:47 127.0.0.1 LOGIN         ] (VOID) genna
+[18:14:47 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[18:14:50 127.0.0.1 Genevieve     ] (1563) rel info golgotha
+[18:14:59 127.0.0.1 Genevieve     ] (1563) quit
+[18:14:59 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[18:16:6 SYSTEM                   ] 127.0.0.1 connected to server.
+[18:16:8 127.0.0.1 LOGIN          ] (VOID) genevieve
+[18:16:8 127.0.0.1 LOGIN          ] (VOID) genn
+[18:16:11 SYSTEM                  ] 127.0.0.1 connected to server.
+[18:16:12 127.0.0.1 LOGIN         ] (VOID) genevieve
+[18:16:12 127.0.0.1 LOGIN         ] (VOID) genna
+[18:16:12 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[18:16:16 127.0.0.1 Genevieve     ] (1563) rel ranks golgotha
+[18:18:55 127.0.0.1 Genevieve     ] (1563) quit
+[18:18:55 SYSTEM                  ] 127.0.0.1 Genevieve quit the game.
+[19:28:41 SYSTEM                  ] Tempest Server Started.
+[19:29:0 SYSTEM                   ] 127.0.0.1 connected to server.
+[19:29:2 127.0.0.1 LOGIN          ] (VOID) genevieve
+[19:29:2 127.0.0.1 LOGIN          ] (VOID) genna
+[19:29:3 127.0.0.1 Genevieve      ] (1563) Entered the world.
+[19:29:4 127.0.0.1 Genevieve      ] (1563) stat
+[20:50:30 SYSTEM                  ] Tempest Server Started.
+[20:50:33 SYSTEM                  ] 127.0.0.1 connected to server.
+[20:50:35 127.0.0.1 LOGIN         ] (VOID) genevive
+[20:50:35 127.0.0.1 CREATION      ] (VOID) n
+[20:50:37 127.0.0.1 LOGIN         ] (VOID) genevieve
+[20:50:37 127.0.0.1 LOGIN         ] (VOID) genna
+[20:50:37 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[20:50:52 127.0.0.1 Genevieve     ] (1563) l orchid
+[20:54:28 SYSTEM                  ] 127.0.0.1 Genevieve went linkdead in-game.

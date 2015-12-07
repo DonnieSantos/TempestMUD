@@ -1,0 +1,55 @@
+Omnes Relinquite Spes, O Vos Intrantes.
+Abandon all hope, ye who enter here.
+
+   With the dark, brackish depths of the old well behind you,
+you face a black opening in the granite walls. Each side bears
+an emblem of the rose-red inverted crucifix of Genevieve, etched
+deeply into the facade of the cold rock. These ancient symbols
+also resemble royal daggers of Odessa, which may be the case, as
+it is now apparent to you that the gate is being watched.
+#b      +--------------------------------------+
+#b     /    #N.   .   .#M   ________   #N.   .   .    #b\
+#b    / #N.           #M   /        \              #N. #b\
+#b   /     #r++    #N.  #M  /          \    #N.    #r++     #b\
+#b  @      #r||       #M /            \        #r||      #b@
+#b  |  #N.   #r||  #N.  . #M|              | #N.  .  #r||   #N.  #b|
+#b  |      #r||       #M|              |       #r||      #b|
+#b / #N.  #r-=>#n++#r<=-    #M|              |    #r-=>#n++#r<=-  #N. #b\
+#b@        #r||     #N. #M|              | #N.     #r||        #b@
+#b| #N.  .   #r++  #N.    #M|              |    #N.  #r++   #N.  . #b|
+#b|                 #M*______________*                 #b|
+#b+=================#M/^^^^^^^^^^^^^^\#b=================+
+
+   With the dark, brackish depths of the old well behind you,
+you face a black opening in the granite walls. Each side bears
+an emblem of the rose-red inverted crucifix of Genevieve, etched
+deeply into the facade of the cold rock. These ancient symbols
+also resemble royal daggers of Odessa, which may be the case, as
+it is now apparent to you that the gate is being watched.
+#b         +--------------------------------------+
+#b        /    #N.   .   .#M   ________   #N.   .   .    #b\
+#b       / #N.           #M   /        \              #N. #b\
+#b      /     #r++    #N.  #M  /          \    #N.    #r++     #b\
+#b     @      #r||       #M /            \        #r||      #b@
+#b     |  #N.   #r||  #N.  . #M|              | #N.  .  #r||   #N.  #b|
+#b     |      #r||       #M|              |       #r||      #b|
+#b    / #N.  #r-=>#n++#r<=-    #M|              |    #r-=>#n++#r<=-  #N. #b\
+#b   @        #r||     #N. #M|              | #N.     #r||        #b@
+#b   | #N.  .   #r++  #N.    #M|              |    #N.  #r++   #N.  . #b|
+#b   |                 #M*______________*                 #b|
+#b   +=================#M/^^^^^^^^^^^^^^\#b=================+
+
+
+
+      +--------------------------------------+
+     /    .   .   .   ________   .   .   .    \
+    / .              /        \              . \
+   /     ++    .    /          \    .    ++     \
+  @      ||        /            \        ||      @
+  |  .   ||  .  . |              | .  .  ||   .  |
+  |      ||       |              |       ||      |
+ / .  -=>++<=-    |              |    -=>++<=-  . \
+@        ||     . |              | .     ||        @
+| .  .   ++  .    |              |    .  ++   .  . |
+|                 *______________*                 |
++=================/^^^^^^^^^^^^^^\=================+

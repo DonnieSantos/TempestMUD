@@ -1,0 +1,47 @@
+NAME: Mayim
+PASSWORD: hammer
+GENDER: female
+CLASS: Druid
+HOMETOWN: #nAlmeccia#N
+CLAN: #rBloody Rose#N
+RELIGION: #BGolgotha#N
+TITLE: the newbie.
+PRENAME: 
+LEVEL: 1
+ROOM_LOGGED: 3001
+SCREEN_SIZE: 25
+TOG_ANSI: 1
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 1
+MAX_HP: 210
+CURRENT_HP: 210
+MAX_MANA: 45
+CURRENT_MANA: 45
+MAX_MOVE: 190
+CURRENT_MOVE: 190
+EXPERIENCE: 0
+STR: 5
+DEX: 2
+CON: 3
+INT: 0
+WIS: 0
+GOLD: 5000
+DPOINTS: 0
+-END- 
+
++DESCRIPTION+
+Mayim is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

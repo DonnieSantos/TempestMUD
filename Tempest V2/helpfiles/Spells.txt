@@ -1,0 +1,28 @@
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|                       #mSpells#n                        |#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N
+  #n|#N The spells you may learn are, for the most part,    #n|#N
+  #n|#N dicated by your class. It may be possible in some   #n|#N
+  #n|#N cases to learn spells not meant for your class, but #n|#N
+  #n|#N that would require either divine intervention, or   #n|#N
+  #n|#N a severely determined student of multiple arts.     #n|#N
+  #n|                                                     |#N
+  #n|#N The best way to find out which spells you can learn #n|#N
+  #n|#N and what their requirements are is to talk to a     #n|#N
+  #n|#N Spellmaster NPC.  Every major city has one, so find #n|#N
+  #n|#N them and speak with them about spells.              #n|#N
+  #n|                                                     |#N
+  #n|#N The only way to find out about the spells of other  #n|#N
+  #n|#N classes is to speak with a human player of that     #n|#N
+  #n|#N class, and they can tell you about it.              #n|#N
+  #n|                                                     |#N
+  #n|#N To list your current spells, type #n'#rspells#n'#N.         #n|#N
+  #n|                                                     |#N
+  #n|#N To use a spell, type #n'#rcast #n<#Rspell name#n>'#N.           #n|#N
+  #n|                                                     |#N
+  #n|#N There are different types of spells, so not all     #n|#N
+  #n|#N spells can be cast on all things. It's usually      #n|#N
+  #n|#N obvious by the name whether the spell requires a    #n|#N
+  #n|#N target, but if you are not sure, ask a Spellmaster  #n|#N
+  #n|#N or player about how to use that particular spell.   #n|#N
+  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N

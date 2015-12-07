@@ -1,0 +1,16 @@
+Zone Information
+----------------
+
+ID      - Unique zone id number. (This will be given to you)
+Name    - Name of your zone.
+Repop   - Repopulation rate. (In percentage: 0-100)
+SCheme  - Standard and automatic color of room titles.
+Terrain - Standard room terrain type.
+
+Link Zone       - Automatically attach all room exits.
+Update Terrains - Automatically set all room terrains.
+Debug Exits     - Generate error report regarding room exits.
+
+
+
+

@@ -1,0 +1,26 @@
+[19:30:42 SYSTEM                  ] Tempest Server Started on port 7000.
+[19:30:52 127.0.0.1 LOGIN         ] (VOID) 127.0.0.1 connected to server.
+[19:31:03 SYSTEM                  ] 127.0.0.1 Account Donnie connected to server.
+[19:31:09 SYSTEM                  ] 127.0.0.1 Genevieve entering game.
+[19:31:11 127.0.0.1 Genevieve     ] (331) l
+[19:31:12 127.0.0.1 Genevieve     ] (331) stat
+[19:31:18 127.0.0.1 Genevieve     ] (331) inv
+[19:31:23 127.0.0.1 Genevieve     ] (331) look map
+[19:31:34 127.0.0.1 Genevieve     ] (331) inv
+[19:31:37 127.0.0.1 Genevieve     ] (331) ilist all
+[19:31:40 127.0.0.1 Genevieve     ] (331) ilist map
+[19:31:43 127.0.0.1 Genevieve     ] (331) load 3
+[19:31:46 127.0.0.1 Genevieve     ] (331) load item 3
+[19:31:47 127.0.0.1 Genevieve     ] (331) inv
+[19:31:49 127.0.0.1 Genevieve     ] (331) look world
+[19:32:04 127.0.0.1 Genevieve     ] (331) l
+[19:32:05 127.0.0.1 Genevieve     ] (331) e
+[19:32:07 127.0.0.1 Genevieve     ] (327) got 1
+[19:32:08 127.0.0.1 Genevieve     ] (1) goto 1
+[19:32:09 127.0.0.1 Genevieve     ] (1) l
+[19:32:10 127.0.0.1 Genevieve     ] (1) read board
+[19:32:17 127.0.0.1 Genevieve     ] (1) read 7
+[19:32:28 127.0.0.1 Genevieve     ] (1) quit
+[19:32:28 SYSTEM                  ] 127.0.0.1 Genevieve has quit the game.
+[19:32:29 SYSTEM                  ] 127.0.0.1 Account Donnie has quit the game.
+[19:32:34 SYSTEM                  ] Tempest Server Started on port 7000.

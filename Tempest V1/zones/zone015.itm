@@ -1,0 +1,2127 @@
+Zone 15
+Items = 123
+
+ITEM: 1500
+TYPE: EQUIPMENT
+NAME: Razorblade
+LNAME: a razorblade
+GDESC: A VERY sharp razorblade has been left here.
+LEVEL: 1
+WORTH: 60
+STATS: 0 1 0 0 0 0 0
+SREQS: 2 5 2 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Weapon
+DTYPE: SLASH
+BEGIN
+A standard foldout razorblade with a mahogany handle. It seems perfect for
+shaving a beard, or slicing a throat. The razor's edge appears to be extremely
+sharp, although short in length. It wouldn't be wise to try and pass a finger
+over it.
+END
+
+ITEM: 1501
+TYPE: EQUIPMENT
+NAME: #nWhite#N Dagger
+LNAME: a #nwhite#N dagger
+GDESC: A white dagger has been left here.
+LEVEL: 2
+WORTH: 250
+STATS: 1 1 0 0 0 0 0
+SREQS: 2 5 2 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+This fine dagger has a round wooden handle and a six-inch white blade. It
+appears to be sturdy enough to block a sword, and sharp enough to pierce a tough
+hide. Aside from the shiny blade, there are no decidedly odd markings on or
+about the dagger.
+END
+
+ITEM: 1502
+TYPE: EQUIPMENT
+NAME: Steel Dagger
+LNAME: a steel dagger
+GDESC: A sturdy steel dagger has been left here.
+LEVEL: 5
+WORTH: 400
+STATS: 2 1 0 0 0 0 0
+SREQS: 0 10 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A dark and sturdy dagger made of re-enforced steel. The blade does not look
+particularly daunting in sharpness, however you can tell that it is robust
+enough to withstand quite a bit of abuse. It could prove quite a reliable
+companion indeed.
+END
+
+ITEM: 1503
+TYPE: EQUIPMENT
+NAME: Sharp Steel Dagger
+LNAME: a sharp steel dagger
+GDESC: A sharpened steel dagger has been left here.
+LEVEL: 8
+WORTH: 600
+STATS: 2 2 0 0 0 0 0
+SREQS: 0 15 0 0 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A darkish dagger, both sharp as well as sturdy. The solid walnut handle holds
+firmly a dark navy blue blade of re-enforced steel. A reliable looking dagger,
+by all accounts.
+END
+
+ITEM: 1504
+TYPE: EQUIPMENT
+NAME: Stiletto
+LNAME: a stiletto
+GDESC: A stiletto knife is lying here.
+LEVEL: 10
+WORTH: 800
+STATS: 3 3 0 0 0 0 0
+SREQS: 10 20 10 0 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A standard stiletto--the trademark of any respectable killer. The soft, glossy
+handle supports a curved silver blade with a half-inch niche atop the dull side.
+The sharp side of the blade is sharp indeed, and the point of the knife is even
+more dangerous.
+END
+
+ITEM: 1505
+TYPE: EQUIPMENT
+NAME: Sharp Stiletto
+LNAME: a sharp stiletto
+GDESC: A sharpened stiletto knife is lying here.
+LEVEL: 12
+WORTH: 885
+STATS: 3 4 0 0 0 0 0
+SREQS: 10 22 10 0 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+The same sharp blade and glossy handle as your standard stiletto, although this
+particular blade is VERY sharp. It would be wise to take caution when testing
+the blade against one's own skin.
+END
+
+ITEM: 1506
+TYPE: EQUIPMENT
+NAME: Serrated Knife
+LNAME: a serrated knife
+GDESC: A jagged knife has been left here.
+LEVEL: 15
+WORTH: 950
+STATS: 4 4 0 0 0 0 0
+SREQS: 15 25 10 0 0
+CLASS: Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+This hunting knife has a tapered ivory-colored handle, and a monstrous ten-inch
+machete blade lined with metal teeth. You could saw your way through an oak tree
+with this thing.
+END
+
+ITEM: 1507
+TYPE: EQUIPMENT
+NAME: Assassin's Knife
+LNAME: an Assassin's knife
+GDESC: An Assassin's knife has been left here.
+LEVEL: 20
+WORTH: 1500
+STATS: 5 5 0 0 0 0 0
+SREQS: 20 40 20 0 0
+CLASS: Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+While not terribly long, at around eight inches handle and blade, this
+double-edged knife is as sharp as it is discrete. Marvellous for both stabbing
+and swiping.
+END
+
+ITEM: 1508
+TYPE: EQUIPMENT
+NAME: Onyx Dagger
+LNAME: an onyx dagger
+GDESC: A shiny onyx dagger is lying here.
+LEVEL: 25
+WORTH: 2500
+STATS: 5 6 0 0 0 0 0
+SREQS: 25 50 30 0 0
+CLASS: Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+The handle on this dagger is made of shiny black onyx, of course. A rather long
+handle it is, too. The blade is of equal value, and is sharp and sturdy. A true
+work of art.
+END
+
+ITEM: 1509
+TYPE: EQUIPMENT
+NAME: Morning Glory
+LNAME: morning glory
+GDESC: A bright orange blossom dagger, 'morning glory', is lying here.
+LEVEL: 30
+WORTH: 4000
+STATS: 6 6 0 0 0 0 0
+SREQS: 20 60 30 0 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A bright orange blossom dagger named after the sunrise. It feels warm to the
+touch, and the beautiful shine of the blade reminds you of a flower.
+END
+
+ITEM: 1510
+TYPE: EQUIPMENT
+NAME: #RBlood#N Dagger
+LNAME: a #Rblood#N dagger
+GDESC: A dark, blood-red dagger is lying here.
+LEVEL: 35
+WORTH: 7500
+STATS: 6 7 0 0 0 0 0
+SREQS: 35 60 30 0 0
+CLASS: Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+This dagger has an iron handle, rectangular with beveled edges. The blade
+however is an ominous blood-red, like a tongue wreathed in flame. It feels warm.
+END
+
+ITEM: 1511
+TYPE: EQUIPMENT
+NAME: The Sidewinder
+LNAME: the Sidewinder
+GDESC: The ivory-handled kris, 'Sidewinder', is lying here.
+LEVEL: 40
+WORTH: 10000
+STATS: 8 8 0 0 0 0 0
+SREQS: 20 80 50 10 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A lightweight ivory-handled kris with a razor-sharp stiletto blade. The handle
+has ornate carvings on it, while the blade is long and broad. The curve of the
+sharp edge is deep, which adds both beauty as well as slicing ability.
+END
+
+ITEM: 1512
+TYPE: EQUIPMENT
+NAME: #nLotus#N Dagger
+LNAME: a #nlotus#N dagger
+GDESC: A lotus dagger has been left here.
+LEVEL: 45
+WORTH: 20000
+STATS: 9 8 0 0 0 0 0
+SREQS: 20 95 40 5 5
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+A light and sharp lotus dagger. The handle is apparently ivory, and blossoms
+into a flowery ornamental array beneath the base of the snow-white blade. If
+this dagger is half as dangerous as it is lovely, it will serve you against any
+adversary.
+END
+
+ITEM: 1513
+TYPE: EQUIPMENT
+NAME: Black Stiletto
+LNAME: a black stiletto
+GDESC: A black stiletto is lying here.
+LEVEL: 50
+WORTH: 30000
+STATS: 10 10 0 0 0 0 0
+SREQS: 50 100 50 10 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+BEGIN
+A trademark Odessa Black Stiletto. The rogues and assassins of Ravenna use these
+with solidarity in both stealth and open war. You can tell why. The glossy black
+handle and sharp silver blade are both of miraculous quality. A true wonder
+among all daggers.
+END
+
+ITEM: 1514
+TYPE: EQUIPMENT
+NAME: Ebony Kris
+LNAME: an ebony kris
+GDESC: A curved, snaking ebony kris is lying here.
+LEVEL: 65
+WORTH: 68000
+STATS: 11 12 0 0 0 0 0
+SREQS: 75 120 50 15 5
+CLASS: Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+A curved and menacing looking black kris. The blade snakes and swurves like a
+harsh river. An evil looking knife, to be sure.
+END
+
+ITEM: 1515
+TYPE: EQUIPMENT
+NAME: #ySun#N Dagger
+LNAME: a #ysun#N dagger
+GDESC: A bright yellow-orange sun dagger is lying here.
+LEVEL: 70
+WORTH: 170000
+STATS: 12 12 0 0 0 0 0
+SREQS: 70 120 50 20 15
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+A bright #yyellow-orange#N dagger that shines with the light of the sun. It almost
+hurts your eyes to look at it. Imagine what it must feel like to be on the
+receiving end of a stab from this scorching dagger.
+END
+
+ITEM: 1516
+TYPE: EQUIPMENT
+NAME: #MBlossom#N Dagger
+LNAME: a #Mblossom#N dagger
+GDESC: A deep purple blossom dagger is lying here.
+LEVEL: 80
+WORTH: 250000
+STATS: 14 14 0 0 0 0 0
+SREQS: 80 180 50 0 0
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+A #Mdeep purple#N blossom dagger. This weapon is utterly flawless. It is light as a
+daisy, sharp as a razor, and tough as nails. Its beauty is equally as splendid.
+To look upon its unmarked round and supple double-edged blade almost takes your
+breath away. Something that this dagger is certainly capable of doing in more
+ways than one.
+END
+
+ITEM: 1517
+TYPE: EQUIPMENT
+NAME: #rRoyal#N Dagger
+LNAME: a #rroyal#N dagger
+GDESC: An ornate jeweled dagger has been dropped here.
+LEVEL: 90
+WORTH: 600000
+STATS: 19 14 0 0 0 0 0
+SREQS: 90 200 50 0 0
+CLASS: Th As Rg Sb
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+A jeweled dagger hilt-laiden with gems. A buroque and ornate treasure, which
+looks almost ornamental upon examination of the kingly hilt. The blade however
+tells the story of a dagger ready for combat. This is no ornament. There is a
+slight underhook to the blade before the point, for a little extra laceration.
+END
+
+ITEM: 1518
+TYPE: EQUIPMENT
+NAME: Black Orchid
+LNAME: Black Orchid
+GDESC: An extremely deadly looking blossom stiletto has been left here.
+LEVEL: 95
+WORTH: 800000
+STATS: 18 18 0 0 0 0 0
+SREQS: 120 150 50 0 0
+CLASS: Th As Sb
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+The deadly blossom stiletto of Orchid. The smoke black handle looks like a
+dragon's head, and the cloudy grey blade looks so sharp that it could cut you
+from any contact, no matter how slight. It's dangerous to even look at this
+thing.
+END
+
+ITEM: 1519
+TYPE: EQUIPMENT
+NAME: The Heartseeker
+LNAME: the Heartseeker
+GDESC: A silver-hilted dagger lies here, wriggling with sentient energy.
+LEVEL: 99
+WORTH: 950000
+STATS: 21 17 0 0 0 0 0
+SREQS: 50 200 50 0 0
+CLASS: Th As Sb
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+This silver-hilted dagger pulsates with sentient energy. You are afraid to touch
+it... It seems almost alive.
+END
+
+ITEM: 1520
+TYPE: EQUIPMENT
+NAME: Wooden Bow
+LNAME: a wooden bow
+GDESC: A wooden bow is lying here.
+LEVEL: 1
+WORTH: 100
+STATS: 0 1 0 0 0 0 0
+SREQS: 2 5 2 0 0
+CLASS: Wa Pa Th As Rg Ra Sb Me Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+A common wooden bow, just fine for hunting.
+END
+
+ITEM: 1521
+TYPE: EQUIPMENT
+NAME: Longbow
+LNAME: a longbow
+GDESC: A longbow is lying here.
+LEVEL: 2
+WORTH: 300
+STATS: 0 2 0 0 0 0 0
+SREQS: 2 5 2 0 0
+CLASS: Wa Rg Ra Mc
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+This wooden longbow looks excellent for hunting.
+END
+
+ITEM: 1522
+TYPE: EQUIPMENT
+NAME: Iron Bow
+LNAME: an iron bow
+GDESC: An iron bow has been left here.
+LEVEL: 5
+WORTH: 550
+STATS: 1 1 0 0 0 0 0
+SREQS: 5 6 0 0 0
+CLASS: Wa Pa Th As Rg Ra Sb Me Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+A polished iron bow, very sturdy. It is flexible and powerful.
+END
+
+ITEM: 1523
+TYPE: EQUIPMENT
+NAME: Leather Whip
+LNAME: a leather whip
+GDESC: Somebody has left a perfectly good whip here.
+LEVEL: 8
+WORTH: 800
+STATS: 2 2 0 0 0 0 0
+SREQS: 5 10 10 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: WHIP
+BEGIN
+This brown leather whip looks ready to lash out at someone.
+END
+
+ITEM: 1524
+TYPE: EQUIPMENT
+NAME: Crossbow
+LNAME: a crossbow
+GDESC: There is a crossbow lying here.
+LEVEL: 10
+WORTH: 920
+STATS: 1 3 0 0 0 0 0
+SREQS: 10 20 5 0 0
+CLASS: Wa Pa Th As Rg Ra Sb Me Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+A very reliable looking crossbow. It's made of sturdy cherry, and it could most
+likely put a bolt through most tough hides.
+END
+
+ITEM: 1525
+TYPE: EQUIPMENT
+NAME: Iron Crossbow
+LNAME: an iron crossbow
+GDESC: There is a sturdy iron crossbow lying here.
+LEVEL: 12
+WORTH: 1000
+STATS: 2 3 0 0 0 0 0
+SREQS: 15 20 5 0 0
+CLASS: Wa Pa Th As Rg Ra Sb Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+This sturdy iron crossbow could put a bolt straight through an Orc.
+END
+
+ITEM: 1526
+TYPE: EQUIPMENT
+NAME: Throwing Star
+LNAME: a throwing star
+GDESC: There is a sharp throwing star here.
+LEVEL: 15
+WORTH: 1200
+STATS: 1 4 0 0 0 0 0
+SREQS: 0 25 0 0 0
+CLASS: Th As Rg Sb
+PLACE: Weapon
+DTYPE: STAR
+BEGIN
+A VERY sharp shuriken. It has five points, and each of them looks equally as
+dangerous. It is thin, and lightweight. The metal is tinted dark navy blue. You
+are just itching to throw it at somebody.
+END
+
+ITEM: 1527
+TYPE: EQUIPMENT
+NAME: Black Leather Whip
+LNAME: a black leather whip
+GDESC: There is a black leather whip lying here.
+LEVEL: 20
+WORTH: 2000
+STATS: 4 4 0 0 0 0 0
+SREQS: 20 20 20 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: WHIP
+BEGIN
+This black leather whip is both stylish and deadly. In the right hands it could
+be either extremely dangerous, or a lot of fun. Or both.
+END
+
+ITEM: 1528
+TYPE: EQUIPMENT
+NAME: Throwing Knife
+LNAME: a throwing knife
+GDESC: There is a throwing knife lying here.
+LEVEL: 25
+WORTH: 4000
+STATS: 3 5 0 0 0 0 0
+SREQS: 0 50 0 0 0
+CLASS: Th As Rg Sb
+PLACE: Weapon
+DTYPE: PIERCE
+BEGIN
+A standard orthodox Odessa throwing-knife. A thin, tapered blade and a sleek
+wooden handle with a light steel covering for maximum flight speed.
+END
+
+ITEM: 1529
+TYPE: EQUIPMENT
+NAME: #gPoison Darts#N
+LNAME: #gpoison darts#N
+GDESC: Some poison darts have been left here.
+LEVEL: 30
+WORTH: 7500
+STATS: 3 3 0 0 0 0 0
+SREQS: 0 60 0 0 0
+CLASS: Th As Rg Sb
+PLACE: Weapon
+DTYPE: PIERCE
+FLAG: PERISH
+BEGIN
+These are just the thing to get rid of any unwanted guests. Tiny darts with
+sticky lime tips, and a tiny feather dangling off the back.
+END
+
+ITEM: 1530
+TYPE: EQUIPMENT
+NAME: #yElven#N Longbow
+LNAME: an #yelven#N longbow
+GDESC: An elven longbow is lying here.
+LEVEL: 35
+WORTH: 10000
+STATS: 4 6 0 0 0 0 0
+SREQS: 20 45 20 10 0
+CLASS: Wa Rg Ra Mc
+PLACE: Weapon
+DTYPE: ARROW
+BEGIN
+A light-weight longbow enchanted by elven magick. It has a slight gleam to it,
+and feels as if it would float if you dropped it.
+END
+
+ITEM: 1531
+TYPE: EQUIPMENT
+NAME: #nMorningstar#N
+LNAME: a #nmorningstar#N
+GDESC: A morningstar is lying here.
+LEVEL: 40
+WORTH: 14000
+STATS: 6 7 0 0 0 0 0
+SREQS: 40 40 40 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: WHIP
+BEGIN
+A bright morningstar with a sharp flailed tip. The chained metal gleams silver
+and the dangerous looking spikes on the flail could skewer a troll.
+END
+
+ITEM: 1532
+TYPE: EQUIPMENT
+NAME: #BDrow#N Longbow
+LNAME: a #Bdrow#N longbow
+GDESC: A drow longbow is lying here.
+LEVEL: 50
+WORTH: 45000
+STATS: 3 9 0 0 0 0 0
+SREQS: 30 80 30 20 10
+CLASS: Wa Rg Ra Mc
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+A dark longbow enchanted by drow magick. It appears to be crafted from common
+walnut, but its evil aura tells a different story. The length of this bow is
+daunting--It's almost the length of a man (although some men are longer than
+others). Only the most skilled and bold could wield it.
+END
+
+ITEM: 1533
+TYPE: EQUIPMENT
+NAME: Triple Flail
+LNAME: a triple flail
+GDESC: A massive triple flail has been left here.
+LEVEL: 55
+WORTH: 80000
+STATS: 8 9 0 0 0 0 0
+SREQS: 60 60 60 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: WHIP
+BEGIN
+A massive flail with three spiked stars. The handle is a foot of thick iron clad
+in silver plating, and the gleaming chains weave up to the three stars. The
+spikes could smash a concrete block.
+END
+
+ITEM: 1534
+TYPE: EQUIPMENT
+NAME: #MRobin#N Bow
+LNAME: a #Mrobin#N bow
+GDESC: A robin bow is lying here.
+LEVEL: 60
+WORTH: 100000
+STATS: 6 8 0 0 0 0 0
+SREQS: 20 100 20 10 10
+CLASS: Wa Pa Th As Rg Ra Sb Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+A lush bow adorned with amber and violet. It is small and lightweight, but
+perfectly balanced in both accuracy and power.
+END
+
+ITEM: 1535
+TYPE: EQUIPMENT
+NAME: Mystic Bow
+LNAME: a mystic bow
+GDESC: A mystic bow has been left here.
+LEVEL: 70
+WORTH: 250000
+STATS: 7 10 0 0 0 0 0
+SREQS: 10 120 10 20 20
+CLASS: Th As Rg Ra Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+This ornate bow glows with an orange aura. There is no question that it is
+magically enchanted--it literally pulsates with energy, as clear as day to any
+observer. Just what sort of enchantement that is upon this bow remains a
+mystery, but it is no doubt a great asset in battle to any bowman worth his
+salt.
+END
+
+ITEM: 1536
+TYPE: EQUIPMENT
+NAME: #rFlame#N Whip
+LNAME: a #rflame#N whip
+GDESC: A ferocious flaming whip is burning here.
+LEVEL: 75
+WORTH: 350000
+STATS: 10 10 0 0 0 0 0
+SREQS: 90 90 90 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: WHIP
+FLAG: PERISH
+BEGIN
+This ferocious #rflaming#N whip could burn through almost anything.
+END
+
+ITEM: 1537
+TYPE: EQUIPMENT
+NAME: #nDream#N Bow
+LNAME: a #ndream#N bow
+GDESC: A dream bow is floating here.
+LEVEL: 80
+WORTH: 400000
+STATS: 8 12 0 0 0 0 0
+SREQS: 80 100 100 0 50
+CLASS: Th Rg Ra Mc Cl Hl
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+A pure white bow that gleams with goodness. Not only that, but it actually
+floats if you release it. Needless to say, it's pretty light. But don't let that
+fool you. This bow can strike with the power of the Gods, and inflict enough
+damage to take down just about anything.
+END
+
+ITEM: 1538
+TYPE: EQUIPMENT
+NAME: Giant Scythe
+LNAME: a giant scythe
+GDESC: A GIANT Scythe is lying on the ground here.
+LEVEL: 85
+WORTH: 500000
+STATS: 13 13 0 0 0 0 0
+SREQS: 100 100 100 0 0
+CLASS: Wa Th As Rg Sb Mc
+PLACE: Weapon
+DTYPE: CHOP
+FLAG: PERISH
+BEGIN
+This scythe is HUGE. Be careful not to cut yourself in half.
+END
+
+ITEM: 1539
+TYPE: EQUIPMENT
+NAME: #bSeraphic#N Bow
+LNAME: a #bseraphic#N bow
+GDESC: A seraphic bow is lying here glowing blue.
+LEVEL: 95
+WORTH: 980000
+STATS: 12 16 0 0 0 0 0
+SREQS: 80 120 120 30 30
+CLASS: Ra Cl
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+This angelic bow is beautiful and powerful. The bow itself is made of a material
+you cannot identify, but it has a soft blue quality. The cord is a white angel
+hair. It is breathtaking to behold, lovely and deadly.
+END
+
+ITEM: 1540
+TYPE: EQUIPMENT
+NAME: Valkyrie
+LNAME: Valkyrie
+GDESC: The great bow, 'Valkyrie', has been left here.
+LEVEL: 99
+WORTH: 1200000
+STATS: 9 17 0 0 0 0 0
+SREQS: 130 130 130 0 0
+CLASS: As Ra
+PLACE: Weapon
+DTYPE: ARROW
+FLAG: PERISH
+BEGIN
+The bow of Valhalla shimmers with power. A mystical arbalest, any projectile
+shot from this bow explodes into flames and incinerates its target in a holy
+blast.
+END
+
+ITEM: 1541
+TYPE: BLOCKER
+NAME: The Odessa Portculis
+LNAME: the Odessa Portculis
+GDESC: #Y[+] The Portculis Is Closed [+]#N
+LEVEL: 100
+WORTH: 0
+BTYPE: N gate
+BEGIN
+The portculis appears to be closed.
+END
+
+ITEM: 1542
+TYPE: EQUIPMENT
+NAME: Crimson Mail
+LNAME: crimson mail
+GDESC: A Plate of Crimson lies here on the ground.
+LEVEL: 30
+WORTH: 5000
+STATS: 0 0 120 0 100 0 0
+SREQS: 40 60 30 5 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+A somewhat sturdy looking chain mail, silverish with a blood red tint. The thin
+metal is shiny, with few blemishes, and the interior is lined with red leather
+for added protection. It is a fine armour by all accounts.
+END
+
+ITEM: 1543
+TYPE: EQUIPMENT
+NAME: Sturdy Boots
+LNAME: sturdy boots
+GDESC: A rugged pair of boots have been left here.
+LEVEL: 40
+WORTH: 5000
+STATS: 0 0 25 0 0 0 0
+SREQS: 50 70 40 5 5
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Me Mc
+PLACE: Feet
+BEGIN
+A rugged pair of dark-brown walking boots.
+END
+
+ITEM: 1544
+TYPE: EQUIPMENT
+NAME: Rogue Gloves
+LNAME: rogue gloves
+GDESC: A pair of sleek-looking gloves is lying here.
+LEVEL: 50
+WORTH: 6500
+STATS: 0 0 15 0 50 0 0
+SREQS: 35 100 50 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Hands
+BEGIN
+Sleek, black designer gloves... Perfect for a Rogue.
+END
+
+ITEM: 1545
+TYPE: EQUIPMENT
+NAME: Metal Bracer
+LNAME: a metal bracer
+GDESC: A metal bracer is lying on the ground here.
+LEVEL: 55
+WORTH: 9500
+STATS: 1 0 15 0 0 0 0
+SREQS: 50 50 50 0 0
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Me Mc
+PLACE: Both_Wrists
+BEGIN
+A strong silver-black metal bracer. It looks like it would provide excellent
+protection, and is surprisingly lightweight for those who value a swift killing
+hand.
+END
+
+ITEM: 1546
+TYPE: EQUIPMENT
+NAME: Black Cape
+LNAME: a black cape
+GDESC: A black cape is lying here.
+LEVEL: 50
+WORTH: 10000
+STATS: 0 0 35 0 25 0 0
+SREQS: 50 90 50 10 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Back
+BEGIN
+Your basic black cape. Anybody would look good in this.
+END
+
+ITEM: 1547
+TYPE: EQUIPMENT
+NAME: #GCamouflage#N Pants
+LNAME: camouflage pants
+GDESC: A pair of camouflage pants is blending in with the ground.
+LEVEL: 50
+WORTH: 12500
+STATS: 0 0 50 0 50 0 0
+SREQS: 50 100 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Legs
+BEGIN
+Standard Rogue cargo pants with extra padding for added protection, and
+camouflage coloring for those who don't enjoy being easily spotted.
+END
+
+ITEM: 1548
+TYPE: EQUIPMENT
+NAME: #cLupine#N Vestment
+LNAME: a lupine vestment
+GDESC: A vestment made of wolf hide is lying here.
+LEVEL: 40
+WORTH: 15000
+STATS: 2 0 180 0 0 0 0
+SREQS: 50 80 40 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+A protective and comfortable vestcoat made of wolf hide. It is very warm,
+despite the cool appearance of its light blue exterior.
+END
+
+ITEM: 1549
+TYPE: EQUIPMENT
+NAME: Rogue Cape
+LNAME: a rogue cape
+GDESC: A greenish-brown rogue cape has been left here.
+LEVEL: 60
+WORTH: 20000
+STATS: 0 0 40 0 0 0 0
+SREQS: 50 110 50 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Back
+BEGIN
+A long cape, halfway between brown and forest green. This particular cape is
+quite popular among rogues, and seems to be much higher quality than your
+standard cape.
+END
+
+ITEM: 1550
+TYPE: EQUIPMENT
+NAME: Grand Vestcoat
+LNAME: a grand vestcoat
+GDESC: A grand vestcoat has been carelessly dropped here.
+LEVEL: 50
+WORTH: 25000
+STATS: 0 0 220 0 150 0 0
+SREQS: 50 100 50 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+The industry standard in body armour for thieves and rogues alike. This piece of
+equipment is famous for its dependability, at a very reasonable price.
+Cendrillon always keeps up the stock on this ornate vestcoat, which has a
+snake-patterned hard leather body and golden-threaded decorations.
+END
+
+ITEM: 1551
+TYPE: EQUIPMENT
+NAME: Assassin's Pants
+LNAME: Assassin's pants
+GDESC: A pair of Assassin's pants has been left here.
+LEVEL: 66
+WORTH: 37500
+STATS: 0 1 10 0 0 0 0
+SREQS: 110 110 50 10 10
+CLASS: Th As Rg Sb Me Mc
+PLACE: Legs
+BEGIN
+Thin red-black Assassin's pants, sleek and lightweight for swift movement and
+efficient sneaking. A splendid choice for the frequent backstabber or casual
+murderer.
+END
+
+ITEM: 1552
+TYPE: EQUIPMENT
+NAME: Spiked Wristband
+LNAME: a spiked wristband
+GDESC: A dangerous looking spiked wristband is lying here.
+LEVEL: 75
+WORTH: 45000
+STATS: 0 1 5 0 0 0 0
+SREQS: 120 70 70 10 10
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Me Mc
+PLACE: Both_Wrists
+BEGIN
+This spiked wristband doesn't look like it will protect you very much, but it
+looks so sharp and dangerous that it would probably make someone think twice
+about coming near you to begin with.
+END
+
+ITEM: 1553
+TYPE: EQUIPMENT
+NAME: Combat Boots
+LNAME: combat boots
+GDESC: Some shiny black combat boots are sitting here.
+LEVEL: 80
+WORTH: 65000
+STATS: 0 1 10 0 0 0 0
+SREQS: 135 135 80 15 15
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Feet
+BEGIN
+Yeah... You could definitely kick the crap out of somebody with these.
+END
+
+ITEM: 1554
+TYPE: EQUIPMENT
+NAME: Full Metal Jacket
+LNAME: a full metal jacket
+GDESC: A shiny metal jacket has been dropped here.
+LEVEL: 65
+WORTH: 75000
+STATS: 0 1 260 0 0 0 0
+SREQS: 80 120 60 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Body
+BEGIN
+Probably the closest thing to a plate mail you will ever see a rogue wearing,
+this strong metal coat of armour makes you feel very well protected indeed.
+END
+
+ITEM: 1555
+TYPE: EQUIPMENT
+NAME: Shadow Cloak
+LNAME: a shadow cloak
+GDESC: A dark cloak lies in the shadows.
+LEVEL: 80
+WORTH: 80000
+STATS: 0 0 30 5 45 0 0
+SREQS: 50 150 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Back
+BEGIN
+This cloak is the color of night. To look at it is to gaze into twilight. When
+your eyes meet it, your vision seems blurred somehow. While this may be slightly
+difficult aesthetically, it could be invaluable in combat.
+END
+
+ITEM: 1556
+TYPE: EQUIPMENT
+NAME: Steel Bracer
+LNAME: a steel bracer
+GDESC: A steel bracer is lying here.
+LEVEL: 85
+WORTH: 82500
+STATS: 1 0 20 0 0 0 0
+SREQS: 80 80 80 15 10
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Me Mc
+PLACE: Both_Wrists
+BEGIN
+A stainless steel bracer for maximum protection.
+END
+
+ITEM: 1557
+TYPE: EQUIPMENT
+NAME: Assassin's Cloak
+LNAME: an Assassin's cloak
+GDESC: An Assassin's cloak has been left here.
+LEVEL: 85
+WORTH: 110000
+STATS: 0 0 60 5 0 0 0
+SREQS: 50 160 50 10 10
+CLASS: Th As Rg Sb Mc
+PLACE: Back
+BEGIN
+Red, of course, but glowing with an extra sanguine hue. This cloak seems a bit
+more magical than your average cape.
+END
+
+ITEM: 1558
+TYPE: EQUIPMENT
+NAME: Rogue Boots
+LNAME: rogue boots
+GDESC: A pair of excellent rogue boots is sitting here.
+LEVEL: 90
+WORTH: 115000
+STATS: 0 0 30 0 0 0 200
+SREQS: 120 180 90 20 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Feet
+BEGIN
+The perfect boots for any rogue worth his salt. Marvellously light-weight for
+how thick they are, they seem to carry you on the wind, while at the same time
+providing sturdy protection. Superbly comfortable and useful.
+END
+
+ITEM: 1559
+TYPE: EQUIPMENT
+NAME: #rRed#N Cape
+LNAME: a #rred#N cape
+GDESC: An Odessa red cape lies here, shamelessly neglected.
+LEVEL: 90
+WORTH: 140000
+STATS: 0 0 70 0 0 0 0
+SREQS: 50 170 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Back
+BEGIN
+The Odessa Red Cape is standard issue for the Elite Trench Guard. That alone
+should tell you of the story of its quality. Superb protection and extremely
+stylish. What more could you ask for?
+END
+
+ITEM: 1560
+TYPE: EQUIPMENT
+NAME: Black Rogue Pants
+LNAME: black rogue pants
+GDESC: Some black rogue pants have been left here.
+LEVEL: 88
+WORTH: 165000
+STATS: 0 0 100 0 100 0 0
+SREQS: 50 170 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Legs
+BEGIN
+Tight black pants, very stylish for the dashing rogue. Not recommended for those
+who have low self-esteem... Wear at your own risk!
+END
+
+ITEM: 1561
+TYPE: EQUIPMENT
+NAME: Black Cargo Pants
+LNAME: black cargo pants
+GDESC: Some black cargo pants have been left here.
+LEVEL: 92
+WORTH: 180000
+STATS: 0 0 120 0 0 0 0
+SREQS: 50 190 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Legs
+BEGIN
+You'll be the most intimidating looking person in the room with these on. Not
+only are these black military pants stylish and useful, but they also provide
+top of the line protection. They come standard with six deep pockets to carry
+extra knives, darts, or other useful objects.
+END
+
+ITEM: 1562
+TYPE: EQUIPMENT
+NAME: #MNightmare#N Garb
+LNAME: a #Mnightmare#N garb
+GDESC: A nightmare garb lies here trembling with trepidation.
+LEVEL: 80
+WORTH: 200000
+STATS: 0 0 300 0 200 0 0
+SREQS: 50 160 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Body
+BEGIN
+This deep purple cloak covers the entire body, and seems to tremble with
+trepidation, like a frail child having a bad dream. Its appearance is hazy, and
+makes you uneasy to look at it.
+END
+
+ITEM: 1563
+TYPE: EQUIPMENT
+NAME: Brigandine
+LNAME: Brigandine
+GDESC: Some very foolish person has left a jeweled Brigandine here.
+LEVEL: 90
+WORTH: 350000
+STATS: 0 0 450 0 300 0 0
+SREQS: 50 180 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Body
+BEGIN
+The Brigandine is pure perfection. This glamourous vestcoat is highly decorated
+with amethysts and rubies, dotted along intricate patterns in the hard burgundy
+leather. The shoulders are plated with gold. When you put it on, you feel a rush
+of vigor and vitality. It is a superb piece of armour and also a work of art.
+END
+
+ITEM: 1564
+TYPE: EQUIPMENT
+NAME: Sanguinary Circlet
+LNAME: a sanguinary circlet
+GDESC: A circlet is lying in a pool of blood.
+LEVEL: 96
+WORTH: 750000
+STATS: 0 1 10 0 0 0 0
+SREQS: 150 100 100 0 0
+CLASS: Th As Rg Sb
+PLACE: Head
+FLAG: PERISH
+BEGIN
+A gold circlet with four bright rubies at the cardinal points. It looks fit for
+a king or a queen. The spike-like forms which contain the rubies are quite sharp
+on top, for some odd reason. The rubies themselves give the odd appearance of
+being wet with fresh blood, ready to drip at any moment.
+END
+
+ITEM: 1565
+TYPE: EQUIPMENT
+NAME: Swallow
+LNAME: a Swallow
+GDESC: A black dagger lies here quietly.
+LEVEL: 99
+WORTH: 5000000
+STATS: 10 20 0 0 0 0 0
+SREQS: 150 150 0 0 0
+CLASS: As Sb
+PLACE: Weapon
+DTYPE: STAB
+FLAG: PERISH
+BEGIN
+This black dagger does not appear to be very extraordinary at first glance.
+However, upon closer examination, you notice that there is an inscription
+emblazoned upon the dark blade in some language that you cannot decipher; it
+looks more like arcane symbols than words, but it could be either. When you hold
+it, you get the same feeling you had in the dark alley of Odessa. An energy that
+can only come from a strong magical enchantment.
+END
+
+ITEM: 1566
+TYPE: EQUIPMENT
+NAME: Storm Shield
+LNAME: a storm shield
+GDESC: A black and gold storm shield is lying here.
+LEVEL: 99
+WORTH: 5000000
+STATS: 0 0 50 5 0 0 0
+SREQS: 150 150 0 0 0
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Mc
+PLACE: Shield
+FLAG: PERISH
+BEGIN
+This shield, at a glance, looks quite fancy but not all that strong. Almost
+ornamental in appearance, it is a shiny onyx black with a golden trim outline
+and a bright gold cross in the center. When picking it up, you realize that
+there is more to it than meets the eye. The shield is incredibly lightweight,
+making it perfect for silent blades and cut-throats who could otherwise not bear
+the burden of a heavy shield. It's almost beyond belief how light it is. Also,
+when you strike it with metal, an electric shock sparks off the surface. What
+sort of magic this is, you cannot guess. But you are sure that one day this
+shield may very well guard your life.
+END
+
+ITEM: 1567
+TYPE: EQUIPMENT
+NAME: White Headband
+LNAME: a white headband
+GDESC: A white headband is lying here.
+LEVEL: 10
+WORTH: 200
+STATS: 0 0 15 0 0 0 0
+SREQS: 10 15 5 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Head
+BEGIN
+Your basic, rather non-descript white headband.
+END
+
+ITEM: 1568
+TYPE: EQUIPMENT
+NAME: Green Headband
+LNAME: a green headband
+GDESC: A green headband has been dropped here.
+LEVEL: 25
+WORTH: 400
+STATS: 1 0 30 0 0 0 0
+SREQS: 30 40 20 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Head
+BEGIN
+A soft, forest green cloth headband.
+END
+
+ITEM: 1569
+TYPE: EQUIPMENT
+NAME: Yellow Headband
+LNAME: a yellow headband
+GDESC: A lemon-yellow headband is lying here.
+LEVEL: 40
+WORTH: 1500
+STATS: 1 0 40 0 0 0 0
+SREQS: 40 70 30 10 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Head
+BEGIN
+Bright, sunshine yellow. The material is very soft, and feels pleasant against
+your skin.
+END
+
+ITEM: 1570
+TYPE: EQUIPMENT
+NAME: Orange Headband
+LNAME: an orange headband
+GDESC: A very orange headband is lying here.
+LEVEL: 65
+WORTH: 7500
+STATS: 50 0 50 0 0 0 0
+SREQS: 50 110 50 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Head
+BEGIN
+This headband is about as orange as orange can be. Quite suitable for combat as
+well as fashion.
+END
+
+ITEM: 1571
+TYPE: EQUIPMENT
+NAME: Blue Headband
+LNAME: a blue headband
+GDESC: A perfectly good blue headband has been left here.
+LEVEL: 80
+WORTH: 20000
+STATS: 1 0 65 0 0 0 0
+SREQS: 80 120 50 10 10
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Head
+BEGIN
+By all accounts, blue is not the absolute best color for a headband; yet anyone
+would agree you could do far worse.
+END
+
+ITEM: 1572
+TYPE: EQUIPMENT
+NAME: Red Headband
+LNAME: a red headband
+GDESC: A cherry red headband has been abandoned here.
+LEVEL: 90
+WORTH: 43000
+STATS: 0 0 80 0 90 0 0
+SREQS: 50 130 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Head
+BEGIN
+The blood red marking of an Odessa Assassin. This amber band is an emblem of war
+and a tribute to the red rose banner.
+END
+
+ITEM: 1573
+TYPE: EQUIPMENT
+NAME: Black Headband
+LNAME: a black headband
+GDESC: A fearsome jet-black headband lies here.
+LEVEL: 95
+WORTH: 50000
+STATS: 2 0 50 0 0 0 0
+SREQS: 80 160 50 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Head
+FLAG: PERISH
+BEGIN
+The flagship Shadowblade headband; less protection than the blood red Odessa
+band, but that extra pinch of evil to add to your knife-speed.
+END
+
+ITEM: 1574
+TYPE: EQUIPMENT
+NAME: White Shirt
+LNAME: a white shirt
+GDESC: A tattered white shirt lies here looking miserable.
+LEVEL: 1
+WORTH: 220
+STATS: 0 0 10 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+An off-white tattered cloth shirt. Good enough to cover your torso, but that's
+about all.
+END
+
+ITEM: 1575
+TYPE: EQUIPMENT
+NAME: Black Shirt
+LNAME: a black shirt
+GDESC: There's an old black shirt on the ground here.
+LEVEL: 2
+WORTH: 410
+STATS: 0 0 15 0 0 0 0
+SREQS: 3 4 2 1 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+A black cloth shirt, worn and wrinkled. It doesn't look like it will protect you
+very well, but at least it's black; even the worst dresser imaginable can look
+better with a little black in their ensemble.
+END
+
+ITEM: 1576
+TYPE: EQUIPMENT
+NAME: Amber Vest
+LNAME: an amber vest
+GDESC: An amber vest has been dropped here.
+LEVEL: 5
+WORTH: 900
+STATS: 0 0 35 0 0 0 0
+SREQS: 5 5 5 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+A slightly more rugged choice than a simple shirt, although still quite thin in
+its own right. The soft red linen interior will keep you warm, at the very
+least.
+END
+
+ITEM: 1577
+TYPE: GENERIC
+NAME: A Map of #rOdessa#N
+LNAME: a map of #rOdessa#N
+GDESC: There's a map on the ground here.
+LEVEL: 1
+WORTH: 10
+BEGIN EXACT
+#r+---------------------------------    -----------------------------------+#N
+#r|#NThe           Templeton's       #r/     \#N  Cendrillon's   The Rogue       #r|
+#r|#NBlack      Maps of the World               Armory       Stockpile       #r|
+#r|#NOrchid                                                                  #r|
+#r+------+    #gW. Ravenna Road#N        #cThe         #gE. Ravenna Road#r    +------+
+#r+------+#N                        #cCrossroads#r                        +------+
+#r|                |                                      |                |
+#r|#NDaravon    #mA#r    |#N Lily's                        News   #r|    #bL#N     Skill #r|
+#r|#NArsenal    #mm#r    |#N Flowers                       Stand  #r|    #ba#N     Master#r|
+#r|           #me#r    |                                      |    #bc#r           |
+#r+------+    #mt#r    +--------+                    +--------+    #bh#r    +------+
+#r+------+    #mh#r    +--------+                    +--------+    #br#r    +------+
+#r+------+    #my#r    |                                      |    #by#r    +------+
+#r+------+    #ms#r    |#N The                                  #r|    #bm#r    +------+
+#r+------+    #mt#r    |#N Earth's    #yThe Inner City#N    Eldred  #r|    #ba#r    +------+
+#r+------+         |#N Breath                       Theatre #r|         +------+
+#r|           #mA#r    |                                      #r|    #bL#r           |
+#r|#NDaravon    #ml#r    +--------+                    +--------+    #ba#N     Spell #r|
+#r|#NSavings    #ml#r    +--------+                    +--------+    #bn#N     Master#r|
+#r|           #me#r    |                                      |    #be#r           |
+#r+------+    #my#r    |#N Dark         #r+--    --+#N        Red   #r|         +------+
+#r+------+         |#N Mist         #r|#N  City  #r|#N        Rose  #r|         +------+
+#r|#NSouth           #r|#N Jewelry      #r|#N  Hall  #r|#N        Inn   #r|#N          South #r|
+#r|#NWest            #r+--------------+--------+--------------+#N          Tower #r|
+#r|#NCorner                        #BSouth Street#N                        Stairs#r|
+#r+------------------------------------------------------------------------+#N
+END
+
+ITEM: 1578
+TYPE: EQUIPMENT
+NAME: Brass Ring
+LNAME: a brass ring
+GDESC: An ordinary looking brass ring is lying here.
+LEVEL: 5
+WORTH: 250
+STATS: 1 0 0 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Fingers
+BEGIN
+It's a ring, and it's made of brass. That's about it.
+END
+
+ITEM: 1579
+TYPE: EQUIPMENT
+NAME: Jade Earring
+LNAME: a jade earring
+GDESC: There's a jade earring on the ground here.
+LEVEL: 20
+WORTH: 1200
+STATS: 1 0 0 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Ears
+BEGIN
+A small oval jade stone, for one ear or the other, is a bit lackluster and could
+probably use a good polishing; but it is quite pretty nonetheless.
+END
+
+ITEM: 1580
+TYPE: EQUIPMENT
+NAME: #gEmerald#N Ring
+LNAME: an #gemerald#N ring
+GDESC: A ring with a small emerald stone is lying here.
+LEVEL: 20
+WORTH: 1500
+STATS: 0 0 0 0 50 20 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Fingers
+FLAG: PERISH
+BEGIN
+This ring has a thin silver band and a small but lovely green emerald gemstone
+in the center.
+END
+
+ITEM: 1581
+TYPE: EQUIPMENT
+NAME: #gEmerald#N Earring
+LNAME: an #gemerald#N earring
+GDESC: A shiny green emerald earring has been dropped here.
+LEVEL: 35
+WORTH: 8500
+STATS: 0 0 0 0 50 20 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Ears
+FLAG: PERISH
+BEGIN
+This earring is a rigidly cut, lime green emerald. It is spherical with jagged
+lattice patterns around the edges, and shines lime green even when no light hits
+it.
+END
+
+ITEM: 1582
+TYPE: EQUIPMENT
+NAME: #rRuby#N Ring
+LNAME: a #rruby#N ring
+GDESC: A red ruby ring is lying here.
+LEVEL: 35
+WORTH: 9000
+STATS: 0 0 0 0 80 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Fingers
+FLAG: PERISH
+BEGIN
+A gold band supports quite a fine ruby stone on this ring. When you put it on,
+you feel a bit more alive.
+END
+
+ITEM: 1583
+TYPE: EQUIPMENT
+NAME: Bronze Medal
+LNAME: a bronze medal
+GDESC: There's a bronze medal on the ground here.
+LEVEL: 35
+WORTH: 10000
+STATS: 0 0 0 5 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+A somewhat dirty bronze medal on a blue ribbon. There are markings on the medal,
+but they are too faint to make out.
+END
+
+ITEM: 1584
+TYPE: EQUIPMENT
+NAME: #bSapphire#N Earring
+LNAME: a #bsapphire#N earring
+GDESC: An electric blue sapphire earring is lying here.
+LEVEL: 50
+WORTH: 20000
+STATS: 1 0 0 0 50 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Ears
+FLAG: PERISH
+BEGIN
+The electric blue stone is a simple circular shape, but glistens with the color
+and shine of the sea.
+END
+
+ITEM: 1585
+TYPE: EQUIPMENT
+NAME: Ring of Precision
+LNAME: the ring of precision
+GDESC: A shiny golden ring is lying perfectly still.
+LEVEL: 50
+WORTH: 22000
+STATS: 2 0 0 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Both_Fingers
+BEGIN
+This light ring is plated with a thin layer of shiny gold, and has not a blemish
+on it. You feel slightly more dexterous as you slide it on.
+END
+
+ITEM: 1586
+TYPE: EQUIPMENT
+NAME: Silver Medal
+LNAME: a silver medal
+GDESC: A shiny silver medal is on the ground here.
+LEVEL: 60
+WORTH: 100000
+STATS: 0 0 0 8 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+A shiny silver medal with a white ribbon. It has a faint white cross etched into
+the center of one side; the other side is smooth and flawless.
+END
+
+ITEM: 1587
+TYPE: EQUIPMENT
+NAME: #rRuby#N Earring
+LNAME: a #rruby#N earring
+GDESC: A blood-red ruby earring is lying here.
+LEVEL: 75
+WORTH: 150000
+STATS: 0 0 0 0 150 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Ears
+FLAG: PERISH
+BEGIN
+A not quite heart-shaped gemstone, the color of wet blood, and rather large
+also. It feels heavy on your ear, but makes your heart race with warmth.
+END
+
+ITEM: 1588
+TYPE: EQUIPMENT
+NAME: Ring of Balance
+LNAME: the ring of balance
+GDESC: An ordinary ring is minding its own business here.
+LEVEL: 80
+WORTH: 180000
+STATS: 1 0 0 0 100 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Both_Fingers
+BEGIN
+This very ordinary looking ring is a modest silver band that has a soft glow all
+around it; it is almost unnoticable, and truly is the only noteworthy aspect of
+its appearance. Something about this ring makes it quite attractive to the eye,
+nonetheless. The simplicity of the design is quite lovely.
+END
+
+ITEM: 1589
+TYPE: EQUIPMENT
+NAME: Lapis Amulet
+LNAME: a lapis amulet
+GDESC: An electric, lapis lazuli amulet is lying here sizzling.
+LEVEL: 80
+WORTH: 200000
+STATS: 0 0 0 0 100 100 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+The lapis lazuli is shaped like a seashell, and sizzles with blue electricity.
+END
+
+ITEM: 1590
+TYPE: EQUIPMENT
+NAME: Gold Medal
+LNAME: a gold medal
+GDESC: A gold medal has been left here.
+LEVEL: 80
+WORTH: 350000
+STATS: 0 0 0 10 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+A gold medal with a red ribbon. Congratulations!
+END
+
+ITEM: 1591
+TYPE: EQUIPMENT
+NAME: #nDiamond#N Ring
+LNAME: a #ndiamond#N ring
+GDESC: A white diamond ring is lying here, beautifully.
+LEVEL: 90
+WORTH: 450000
+STATS: 0 0 0 5 50 50 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Fingers
+FLAG: PERISH
+BEGIN
+A white-gold band laced with strong magic holds the throne for a perfect shining
+diamond. Beautiful and magical, this diamond ring makes your body feel
+completely enchanted.
+END
+
+ITEM: 1592
+TYPE: EQUIPMENT
+NAME: #nDiamond#N Earring
+LNAME: a #ndiamond#N earring
+GDESC: A white diamond earring is lying here, beautifully.
+LEVEL: 90
+WORTH: 450000
+STATS: 0 0 0 5 50 50 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Ears
+FLAG: PERISH
+BEGIN
+A white-gold diamond earring. Beautiful and magical, this diamond ring makes
+your body feel completely enchanted.
+END
+
+ITEM: 1593
+TYPE: EQUIPMENT
+NAME: Bloodstone Medallion
+LNAME: a bloodstone medallion
+GDESC: A red medallion lies here, bleeding.
+LEVEL: 90
+WORTH: 750000
+STATS: 0 0 0 0 200 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+Hung by a gold chain, this glassy stone glows amber. When you hang it around
+your neck, you feel your blood begin to rush and your heart feels very warm.
+END
+
+ITEM: 1594
+TYPE: EQUIPMENT
+NAME: Black Narcissus
+LNAME: Black Narcissus
+GDESC: A black blossom sleeps here on the face of the earth.
+LEVEL: 99
+WORTH: 2000000
+STATS: 0 0 0 15 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Neck
+FLAG: PERISH
+BEGIN
+A black blossom with petals the color of night. The flower is attached to a
+silver chain from which you hang it about your body and let it rest over your
+heart. It seems to bud and blossom slightly as your heart beats, but when you
+touch it, the petals are stiff and will not sustain damage. It almost seems
+angry to be touched.
+END
+
+ITEM: 1595
+TYPE: EQUIPMENT
+NAME: #bSapphire#N Ring
+LNAME: a #bsapphire#N ring
+GDESC: A lovely blue sapphire ring is lying here.
+LEVEL: 50
+WORTH: 20000
+STATS: 1 0 0 0 50 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Both_Fingers
+FLAG: PERISH
+BEGIN
+A cool blue sapphire on a white-silver band. It is lovely to behold and makes
+you feel blessed by heaven when you slide it on.
+END
+
+ITEM: 1596
+TYPE: EQUIPMENT
+NAME: Rogue Jacket
+LNAME: a rogue jacket
+GDESC: A jacket perfect for a rogue is lying here.
+LEVEL: 10
+WORTH: 1300
+STATS: 0 0 50 0 50 0 0
+SREQS: 15 20 10 3 2
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+Any rogue with even an ounce of self-respect would collect this jacket as soon
+as possible. Quite a satisfactory piece of equipment; the tough, dark green,
+leathery exterior should provide adequate protection against unwanted bits of
+invading metal.
+END
+
+ITEM: 1597
+TYPE: EQUIPMENT
+NAME: Garnet Coat
+LNAME: a garnet coat
+GDESC: A glassy, deep red coat is lying here.
+LEVEL: 20
+WORTH: 2200
+STATS: 0 0 80 0 80 0 0
+SREQS: 30 40 20 6 4
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Body
+BEGIN
+A glassy, deep red garnet coat; thick and full, to keep you warm, and safe. The
+interior is white linen, which gives it a subtle elegance which is lacking in
+most modern rogueish armours.
+END
+
+ITEM: 1598
+TYPE: EQUIPMENT
+NAME: Leather Bracer
+LNAME: a leather bracer
+GDESC: A leather bracer is lying here.
+LEVEL: 3
+WORTH: 150
+STATS: 0 0 5 0 0 0 0
+SREQS: 5 5 5 1 0
+CLASS: All
+PLACE: Both_Wrists
+BEGIN
+A tough leather bracer to protect your wrists, which by all accounts are quite
+useful things.
+END
+
+ITEM: 1599
+TYPE: EQUIPMENT
+NAME: Bronze Bracer
+LNAME: a bronze bracer
+GDESC: A bracer made of bronze lies here.
+LEVEL: 15
+WORTH: 550
+STATS: 0 0 10 0 0 0 0
+SREQS: 15 15 10 1 0
+CLASS: Wa Kn Br Pa Dk Cr Ap Th As Rg Ra Sb Me Mc
+PLACE: Both_Wrists
+BEGIN
+Not the most shiny metal you have ever seen in your life, but certainly superior
+to its leather predecessor.
+END
+
+ITEM: 1600
+TYPE: EQUIPMENT
+NAME: Cape
+LNAME: a cape
+GDESC: A common white cape is lying here.
+LEVEL: 1
+WORTH: 90
+STATS: 0 0 7 0 0 0 0
+SREQS: 3 4 2 1 0
+CLASS: All
+PLACE: Back
+BEGIN
+A common white cloth cape. It's not very impressive. Actually, it's so
+non-descript that it's almost embarrassing to wear.
+END
+
+ITEM: 1601
+TYPE: EQUIPMENT
+NAME: Dark Cape
+LNAME: a dark cape
+GDESC: There's a dark cape lying here joylessly.
+LEVEL: 10
+WORTH: 500
+STATS: 0 0 10 0 10 0 0
+SREQS: 10 15 10 1 1
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Back
+BEGIN
+A rather joyless dark blue cape; so dark that its almost black, somewhat like
+that of the evening sky on a starless night.
+END
+
+ITEM: 1602
+TYPE: EQUIPMENT
+NAME: Brown Cape
+LNAME: a brown cape
+GDESC: A muddy brown cape blends in with the ground.
+LEVEL: 30
+WORTH: 1800
+STATS: 0 0 20 0 15 0 0
+SREQS: 30 50 30 5 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Back
+BEGIN
+Brown is certainly not the most popular color in the world, but it is a lovely
+sight to rogueish eyes. This cape is a perfect complement to just about any
+shadowy ensemble.
+END
+
+ITEM: 1603
+TYPE: EQUIPMENT
+NAME: Sandals
+LNAME: sandals
+GDESC: There's a pair of sandles lying here.
+LEVEL: 1
+WORTH: 60
+STATS: 0 0 3 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Feet
+BEGIN
+Brown leather sandles with three strap belt buckles.
+END
+
+ITEM: 1604
+TYPE: EQUIPMENT
+NAME: Boots
+LNAME: boots
+GDESC: There's a pair of boots on the ground.
+LEVEL: 2
+WORTH: 180
+STATS: 0 0 5 0 0 0 0
+SREQS: 3 2 4 1 0
+CLASS: All
+PLACE: Feet
+BEGIN
+A standard pair of boots from the Odessa Rogue Stockpile. Good for walking and
+kicking; which are two of the finest things in life.
+END
+
+ITEM: 1605
+TYPE: EQUIPMENT
+NAME: Red Boots
+LNAME: red boots
+GDESC: A pair of red boots has been left here.
+LEVEL: 10
+WORTH: 500
+STATS: 0 0 8 0 30 0 20
+SREQS: 10 15 10 1 1
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Feet
+BEGIN
+Red leather Odessa boots, much stronger than their common predecessor. They come
+well-recommended for those who wish to protect their feet.
+END
+
+ITEM: 1606
+TYPE: EQUIPMENT
+NAME: Thief Boots
+LNAME: thief boots
+GDESC: An excellent pair of thief boots lies here.
+LEVEL: 20
+WORTH: 1100
+STATS: 0 0 15 0 0 0 100
+SREQS: 20 35 15 2 2
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Feet
+BEGIN
+These boots have been fashioned from a material that you can't quite identify.
+Whatever it is, it's light as a feather, and when you put them on you feel like
+you could fly.
+END
+
+ITEM: 1607
+TYPE: EQUIPMENT
+NAME: Silent Shoes
+LNAME: silent shoes
+GDESC: A pair of shoes sits here, perfectly silent.
+LEVEL: 50
+WORTH: 5500
+STATS: 1 0 20 0 0 0 50
+SREQS: 50 95 50 5 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Feet
+BEGIN
+A truly amazing pair of shoes. They are a soft blue with white soles. The
+amazing thing is, that no matter how hard you smash them onto the ground, they
+make no noise whatsoever. You could sneak up on a cat with these on; even at a
+full sprint.
+END
+
+ITEM: 1608
+TYPE: EQUIPMENT
+NAME: Gloves
+LNAME: gloves
+GDESC: A pair of gloves is lying here.
+LEVEL: 0
+WORTH: 50
+STATS: 0 0 3 0 0 0 0
+SREQS: 0 0 0 0 0
+CLASS: All
+PLACE: Hands
+BEGIN
+A very thin pair of gloves which will do little more than cover your skin.
+END
+
+ITEM: 1609
+TYPE: EQUIPMENT
+NAME: White Gloves
+LNAME: white gloves
+GDESC: A pair of white gloves lies here.
+LEVEL: 12
+WORTH: 400
+STATS: 0 0 8 0 20 20 0
+SREQS: 10 20 10 2 1
+CLASS: All
+PLACE: Hands
+BEGIN
+Tight, white gloves with three thin threaded stripes down the back.
+END
+
+ITEM: 1610
+TYPE: EQUIPMENT
+NAME: Leather Gloves
+LNAME: leather gloves
+GDESC: There's a pair of leather gloves on the ground here.
+LEVEL: 25
+WORTH: 950
+STATS: 1 0 10 0 0 0 0
+SREQS: 20 45 20 5 3
+CLASS: All
+PLACE: Hands
+BEGIN
+Durable leather gloves that seem right for combat as opposed to, say, gardening.
+The interior is lined and smooth, while the rough exterior provides quite a good
+grip on just about anything.
+END
+
+ITEM: 1611
+TYPE: EQUIPMENT
+NAME: Thief Gloves
+LNAME: thief gloves
+GDESC: Gloves perfect for a thief are lying here waiting to be stolen.
+LEVEL: 65
+WORTH: 15000
+STATS: 0 0 20 0 0 0 100
+SREQS: 40 120 65 10 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Hands
+BEGIN
+By either some unscrupulous magic, or some marvellously devious material, when
+you touch these gloves you can't even feel them. It works the other way around
+as well, you assume. An attribute that could prove most useful to those with the
+right inclinations.
+END
+
+ITEM: 1612
+TYPE: EQUIPMENT
+NAME: Black Leather Gloves
+LNAME: black leather gloves
+GDESC: A pair of black leather gloves is lying here.
+LEVEL: 85
+WORTH: 60000
+STATS: 0 1 5 0 0 0 0
+SREQS: 80 130 80 5 5
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Hands
+BEGIN
+Spectacularly comfortable and umistakably well-crafted. The silky lining makes
+the gloves slide on with wonderous ease, and the tough black leather exterior
+provides grip, padding, and style.
+END
+
+ITEM: 1613
+TYPE: EQUIPMENT
+NAME: Black Pants
+LNAME: black pants
+GDESC: Some black pants have been dropped here.
+LEVEL: 1
+WORTH: 100
+STATS: 0 0 5 0 0 0 0
+SREQS: 3 4 2 1 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Legs
+BEGIN
+Pretty standard black pants. They are thin and somewhat narrow around the legs.
+Not recommended for combat, but could suffice for a walk in the park.
+END
+
+ITEM: 1614
+TYPE: EQUIPMENT
+NAME: Leather Pants
+LNAME: leather pants
+GDESC: Some leather pants have been dropped here.
+LEVEL: 3
+WORTH: 200
+STATS: 0 0 8 0 15 0 0
+SREQS: 3 4 2 1 0
+CLASS: All
+PLACE: Legs
+BEGIN
+These brown leather pants are quite ugly, but could probably protect your legs
+from bee stings and mosquito bites.
+END
+
+ITEM: 1615
+TYPE: EQUIPMENT
+NAME: Brown Corduroys
+LNAME: brown corduroys
+GDESC: Some brown corduroy pants have been left here.
+LEVEL: 8
+WORTH: 600
+STATS: 0 0 15 0 20 0 0
+SREQS: 10 15 10 1 0
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Legs
+BEGIN
+As everybody knows, corduroy pants are comfortable and somewhat protective. It
+is plain to see that these mud-colored cords would suffice as a fine pair of
+pants in any context.
+END
+
+ITEM: 1616
+TYPE: EQUIPMENT
+NAME: Black Corduroys
+LNAME: black corduroys
+GDESC: A black pair of corduroy pants has been left here.
+LEVEL: 18
+WORTH: 1200
+STATS: 0 0 20 0 40 0 0
+SREQS: 15 35 15 2 2
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Legs
+BEGIN
+Corduroy pants are good. Black corduroy pants are even better. Adequate
+proctection and overflowing with style.
+END
+
+ITEM: 1617
+TYPE: EQUIPMENT
+NAME: Red Corduroys
+LNAME: red corduroys
+GDESC: A dark red pair of coorduroy pants have been left here.
+LEVEL: 30
+WORTH: 2300
+STATS: 0 0 35 0 0 0 0
+SREQS: 25 60 30 5 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Legs
+BEGIN
+A fine pair of pants for any Odessa rogue or thief. They are thick enough to
+protect against damage, and comfortable enough to wear in casual attire.
+END
+
+ITEM: 1618
+TYPE: EQUIPMENT
+NAME: Brown Belt
+LNAME: a brown belt
+GDESC: A rather drab brown belt is lying here.
+LEVEL: 5
+WORTH: 250
+STATS: 0 0 5 0 0 0 0
+SREQS: 5 5 5 0 0
+CLASS: All
+PLACE: Waist
+BEGIN
+A brown cloth belt to hold up your pants.
+END
+
+ITEM: 1619
+TYPE: EQUIPMENT
+NAME: Leather Belt
+LNAME: a leather belt
+GDESC: There's a leather belt on the ground here.
+LEVEL: 20
+WORTH: 1000
+STATS: 0 0 10 0 20 0 0
+SREQS: 10 25 10 5 5
+CLASS: All
+PLACE: Waist
+BEGIN
+A tough leather belt to hold your pants up.
+END
+
+ITEM: 1620
+TYPE: EQUIPMENT
+NAME: Snakeskin Belt
+LNAME: a snakeskin belt
+GDESC: There's a belt that looks like a snake here.
+LEVEL: 45
+WORTH: 6000
+STATS: 0 0 15 0 40 20 0
+SREQS: 25 60 30 5 5
+CLASS: Th As Rg Ra Sb Me Mc
+PLACE: Waist
+BEGIN
+This belt is not only made of yellow-green snakeskin, but it almost look as if a
+snake is wrapped around your waist, biting its own tail, when you wear it.
+END
+
+ITEM: 1621
+TYPE: EQUIPMENT
+NAME: Black Belt
+LNAME: a black belt
+GDESC: A black belt is lying here.
+LEVEL: 80
+WORTH: 65000
+STATS: 0 0 20 5 0 0 0
+SREQS: 40 120 50 10 5
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Waist
+BEGIN
+More than just a belt, this is a status symbol of expertise in the martial arts.
+END
+
+ITEM: 1622
+TYPE: EQUIPMENT
+NAME: Red Belt
+LNAME: a red belt
+GDESC: A there's a rose red belt on the ground here.
+LEVEL: 90
+WORTH: 90000
+STATS: 0 0 5 8 20 0 0
+SREQS: 55 160 70 15 10
+CLASS: Th As Rg Ra Sb Mc
+PLACE: Waist
+BEGIN
+A long red belt, made of the finest cloth Odessa has to offer.
+END
+
+-End- 

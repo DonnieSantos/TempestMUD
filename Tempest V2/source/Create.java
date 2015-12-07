@@ -1,0 +1,83 @@
+public class Create extends Transfer
+
+{
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static int item(Item I, Object S, int type)
+
+  {
+    int error = -1;
+
+    switch (type)
+
+    {
+      case IBUY:  error = canBuy(I, (Entity)S); break;
+      case ILOAD: error = canLoad(I, (Entity)S); break;
+      case IPOPE: error = canPopEntity(I, (Entity)S); break;
+      case IPOPR: error = canPopRoom(I, (Room)S); break;
+    }
+
+    if (error == ALL_OK)
+
+    {
+      if (S instanceof Entity) ((Entity)S).itemIn(I, type);
+      if (S instanceof Room)   ((Room)S).itemIn(I, type);
+      if (S instanceof Item)   ((Item)S).itemIn(I, type);
+    }
+
+    return ALL_OK;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static int canLoad(Item I, Entity E)
+
+  {
+    if (!E.canFit(I)) return ER_EINVFULL;
+    if (E.getLevel() < I.getLevel()) return ER_ILEVEL;
+    if (E.getLevel() < I.getMaxLevel()) return ER_IMAXLEVEL;
+
+    return ALL_OK;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static int canPopRoom(Item I, Room RM)
+
+  {
+    // Check for pop lock
+    return ALL_OK;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static int canPopEntity(Item I, Entity E)
+
+  {
+    if (!E.canFit(I)) return ER_EINVFULL;
+    if (E.getLevel() < I.getLevel()) return ER_ILEVEL;
+    if (E.getLevel() < I.getMaxLevel()) return ER_IMAXLEVEL;
+
+    return ALL_OK;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public static int canBuy(Item I, Entity E)
+
+  {
+    if (!E.canFit(I)) return ER_EINVFULL;
+    if (E.getLevel() < I.getLevel()) return ER_ILEVEL;
+    if (E.getLevel() < I.getMaxLevel()) return ER_IMAXLEVEL;
+
+    return ALL_OK;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+}

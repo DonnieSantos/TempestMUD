@@ -1,0 +1,12 @@
+Genevieve
+Updates.
+Check the immortal command list (imm) for new commands.
+Also, the syslog is in, so that should help.
+
+Please always be on the lookout for output flaws, such
+as lines of text that look like they were grouped or
+spaced incorrectly in their display.  We have a new
+output system implemented, so it needs testing.
+
+-Me
+-[END NOTE]- 

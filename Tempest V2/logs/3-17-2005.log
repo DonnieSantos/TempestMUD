@@ -1,0 +1,27 @@
+[00:23:16 24.131.217.188 LOGIN    ] (VOID) 24.131.217.188 connected to server.
+[00:23:16 SYSTEM                  ] 24.131.217.188 Account VOID went linkdead during login.
+[00:23:43 24.131.217.188 LOGIN    ] (VOID) 24.131.217.188 connected to server.
+[00:23:43 SYSTEM                  ] 24.131.217.188 Account VOID went linkdead during login.
+[00:26:28 24.131.217.188 LOGIN    ] (VOID) 24.131.217.188 connected to server.
+[00:26:28 SYSTEM                  ] 24.131.217.188 Account VOID went linkdead during login.
+[02:04:46 68.170.210.116 LOGIN    ] (VOID) 68.170.210.116 connected to server.
+[02:04:46 SYSTEM                  ] 68.170.210.116 Account VOID went linkdead during login.
+[02:05:30 68.170.210.116 LOGIN    ] (VOID) 68.170.210.116 connected to server.
+[02:05:33 SYSTEM                  ] 68.170.210.116 Account Fhirin connected to server.
+[02:05:34 SYSTEM                  ] 68.170.210.116 Aristal entering game.
+[02:05:36 68.170.210.116 Aristal  ] (327) who
+[02:05:37 68.170.210.116 Aristal  ] (327) users
+[02:06:03 68.170.210.116 Aristal  ] (327) quit
+[02:06:03 SYSTEM                  ] 68.170.210.116 Aristal has quit the game.
+[02:06:03 SYSTEM                  ] 68.170.210.116 Account Fhirin has quit the game.
+[04:33:20 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[04:33:23 SYSTEM                  ] 192.168.1.1 Account Donnie connected to server.
+[04:33:24 SYSTEM                  ] 192.168.1.1 Genevieve entering game.
+[04:33:25 192.168.1.1 Genevieve   ] (331) users
+[04:33:27 192.168.1.1 Genevieve   ] (331) save
+[04:33:28 192.168.1.1 Genevieve   ] (331) quit
+[04:33:28 SYSTEM                  ] 192.168.1.1 Genevieve has quit the game.
+[04:33:28 SYSTEM                  ] 192.168.1.1 Account Donnie has quit the game.
+[17:38:52 SYSTEM                  ] Tempest Server Started on port 7000.
+[19:05:38 192.168.1.1 LOGIN       ] (VOID) 192.168.1.1 connected to server.
+[19:05:40 SYSTEM                  ] 192.168.1.1 Account VOID went linkdead during login.

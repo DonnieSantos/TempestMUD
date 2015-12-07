@@ -1,0 +1,224 @@
+
+  +--------------------+
+  | Building Equipment |
+  +--------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Designing an item requires a solid grasp of how the stats for the MUD work.       |
+  | The easiest way for a new builder to keep their items realistic is to compare     |
+  | their new item to all existing items of that type, and make sure you are not      |
+  | making something that is utterly worthless, or ridiculously powerful. So for      |
+  | instance, if you are making a sword, you would look at the standard list of       |
+  | swords for sale in Damascus, and then customize your new item's stats so that     |
+  | they are somewhat in the same league. The lists of all the standard equipment     |
+  | will be made available to all builders, so please refer to that while building.   |
+  |                                                                                   |
+  | (Keep in mind that while making utterly worthless items is fine, any items        |
+  | created that are deemed "too powerful" will be modified by the implementors.)     |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Name:   Every item requires a formal name.  For example, "Red Rose".              |
+  | LName:  Informal name, for sentence construction.  For example, "a red rose".     |
+  |                                                                                   |
+  | Description:   What you see when you look at the item. This can be one sentence,  |
+  |                or it can be a very descriptive paragraph.  For example:           |
+  |                                                                                   |
+  |                "The rose is very fragrant, with lush red petals."                 |
+  |                                                                                   |
+  | GDescription:  What you seen when an item is lying on the ground.  Unlike the     |
+  |                normal description, this must remain relatively short.  One        |
+  |                sentence is usually good.  For example:                            |
+  |                                                                                   |
+  |                "There is a beautiful red rose lying here."                        |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Item Requirements:                                                                |
+  |                                                                                   |
+  | Level:  You must be this level to even hold this item.  Once you achieve this     |
+  |         level, you may hold the weapon.  You cannot equip it until you meet all   |
+  |         of the other requirements, though.                                        |
+  |                                                                                   |
+  | Innate Stats:  Use these requirements to control what type of characters can use  |
+  |                this item.  For instance, you can set a very high strength         |
+  |                requirement if you want only the strongest warriors to be able to  |
+  |                use it.  A level 99 character will have a total of 500 points to   |
+  |                distribute between the 5 stats.  Refer to the character class      |
+  |                charts to understand which characters emphasize which stats.       |
+  |                                                                                   |
+  |                Example:  A Level 99 Warrior might have the following requirements |
+  |                          for a very heavy, high level piece of armor:             |
+  |                                                                                   |
+  |                Required Strength      -  200                                      |
+  |                Required Dexterity     -  100                                      |
+  |                Required Constitution  -  100                                      |
+  |                Required Intelligence  -  15                                       |
+  |                Required Wisdom        -  15                                       |
+  |                                                                                   |
+  | Character Class:  Only characters of these professions may equip/use the item.    |
+  |                   Use the abbreviations for any existing character classes.       |
+  |                                                                                   |
+  |                   +---------------------+---------------------+                   |
+  |                   | (Wa) - Warrior      | (Th) - Thief        |                   |
+  |                   | (Kn) - Knight       | (As) - Assassin     |                   |
+  |                   | (Br) - Berzerker    | (Rg) - Rogue        |                   |
+  |                   | (Pa) - Paladin      | (Ra) - Ranger       |                   |
+  |                   | (Cr) - Crusader     | (Me) - Merchant     |                   |
+  |                   | (Dk) - Death Knight | (Sb) - Shadowblade  |                   |
+  |                   | (Ap) - Anti Paladin | (Mc) - Mercenary    |                   |
+  |                   +---------------------+---------------------+                   |
+  |                   | (Cl) - Cleric       | (Mg) - Mage         |                   |
+  |                   | (Dr) - Druid        | (Wi) - Wizard       |                   |
+  |                   | (Mo) - Monk         | (Il) - Illusionist  |                   |
+  |                   | (Pr) - Priest       | (Sc) - Sorcerer     |                   |
+  |                   | (Hl) - Healer       | (Sm) - Summoner     |                   |
+  |                   | (Dc) - Dark Cleric  | (Wl) - Warlock      |                   |
+  |                   | (Al) - Alchemist    | (Sh) - Shapeshifter |                   |
+  |                   +---------------------+---------------------+                   |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Item Stats:  Deciding the stats of items is the most critical aspect of building. |
+  |              There's no formulaic or easy way of doing this.  The best advice is  |
+  |              to look at the standard list of equipment, and give your new item    |
+  |              similar stats, depending on how valuable it is meant to be.  You     |
+  |              can customize the weapon in many ways to give it distinct advantages |
+  |              or disadvantages.                                                    |
+  |                                                                                   |
+  |              The biggest risk, and most difficult part, in building is that you   |
+  |              can accidentally make an item too strong.  It's easy to do this      |
+  |              because your character's statistic's are influenced by 16 different  |
+  |              pieces of equipment.  Try to keep in mind all possible outfits that  |
+  |              the character can have on, and don't allow for the possiblity of an  |
+  |              overpowered set of equipment for any particular character type.      |
+  |              (I know that sounds hard.  It is.  Just try your best.)              |
+  |                                                                                   |
+  |              Take a look at the CHARACTER BALANCE charts for more detailed        |
+  |              information about how to allocate these stats based on level.        |
+  |                                                                                   |
+  |              Hitroll     -  Greatly increases how often you hit with attacks.     |
+  |              Damroll     -  Greatly increases how much physical damage you do.    |
+  |              Armorclass  -  Greatly decreases physical damage taken.              |
+  |              Resistance  -  Greatly decreases magical damage taken.               |
+  |                                                                                   |
+  |              Health      -  Items can add hit points.                             |
+  |              Mana        -  Items can add magic points.                           |
+  |              Move        -  Items can add movement points.                        |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Placement:  This will tell you which places on your body become occupied when     |
+  |             you equip the item.  If the item is not equipabble, then the          |
+  |             placement will be set to "None".  An item may take up more than one   |
+  |             spot on your body. For example, a full plate armor might cover your   |
+  |             body, waist, and legs.  Here are the 16 available equipment places:   |
+  |                                                                                   |
+  |             Right Hand    -  Weapon.                                              |
+  |             Left Hand     -  Shield.                                              |
+  |             Body          -  Armor / Shirt.                                       |
+  |             Head          -  Helmet / Hat.                                        |
+  |             Feet          -  Boots / Shoes.                                       |
+  |             Back          -  Cape / Cloak.                                        |
+  |             Hands         -  Gloves.                                              |
+  |             Waist         -  Belt.                                                |
+  |             Legs          -  Pants / Leggings.                                    |
+  |             Right Ear     -  Earring.                                             |
+  |             Left Ear      -  Earring.                                             |
+  |             Right Wrist   -  Bracelet / Bracer.                                   |
+  |             Left Wrist    -  Bracelet / Bracer.                                   |
+  |             Right Finger  -  Ring.                                                |
+  |             Left Finger   -  Ring.                                                |
+  |             Neck          -  Necklace / Amulet.                                   |
+  |                                                                                   |
+  |             For fingers, ears and wrists, be specific.  Generally, a ring would   |
+  |             be able to be worn on both fingers, so you would list it as such.     |
+  |             If you list something as "Right Finger", it will ONLY be able to be   |
+  |             worn on your right finger.                                            |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Flags:  Flags tell you things about what type of item this is.  You may create    |
+  |         new flags if you wish, and they can be coded upon request.  Here are some |
+  |         examples of some item flags that already exist:                           |
+  |                                                                                   |
+  |         SLASH      -  This item may be used for slashing skills. (sword)          |
+  |         STAB       -  This item may be used for stabbing skills. (dagger)         |
+  |         BOW        -  This item shoots arrows.                                    |
+  |         WHIP       -  This item is a whip or lash.                                |
+  |         EDIBLE     -  You can eat this item.                                      |
+  |         DRINKABLE  -  You can drink this item.                                    |
+  |         POTION     -  This item is a potion.                                      |
+  |         POISON     -  This item will poison you upon contact/consumption.         |
+  |         CONTAINER  -  You can put other items inside this item.                   |
+  |         PERISH     -  This item will be destroyed when you die.                   |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Worth:  This is very important, and also very hard to determine.  Again, the best |
+  |         way to do this if you do not have a very good grasp of the economics of   |
+  |         the MUD is to look at the existing list of items of this type, and try to |
+  |         keep it in that range.                                                    |
+  |                                                                                   |
+  |         So please examine the Standard Weapons/Armor lists, as well as            |
+  |         the "Guide to setting item prices", which will make it much easier.       |
+  |                                                                                   |
+  |         As a general rule, keep items that are sold in stores worth as much as    |
+  |         possible, and keep items that are found on mobiles worth as little as     |
+  |         possible. (Buying should be expensive, and selling should be cheap)       |
+  +-----------------------------------------------------------------------------------+
+
+  +-----------------------------------------------------------------------------------+
+  | Colors:  To add color to a word, put a color mark before it, and after it to      |
+  |          change the color setting back to the color it was before. You may only   |
+  |          add color to an item's NAME, LNAME and DESCRIPTION.                      |
+  |                                                                                   |
+  |          n = White      N = Grey (Normal)                                         |
+  |          r = Red        R = Dark Red                                              |
+  |          g = Green      G = Dark Green                                            |
+  |          b = Blue       B = Dark Blue                                             |
+  |          y = Yellow     Y = Dark Yellow                                           |
+  |          c = Cyan       C = Dark Cyan                                             |
+  |          m = Magenta    M = Purple                                                |
+  |                                                                                   |
+  |          Usage:    A pound sign followed by the letter of the available color.    |
+  |          Example:  This is a #rRed#N Rose.                                        |
+  +-----------------------------------------------------------------------------------+
+
+  +---------------------------------------------------------------------------------------+
+  | Optional Formatting:  If you think you are able to do so, you could save the coders   |
+  |                       alot of work by keeping your files in the exact format that     |
+  |                       code expects. It isn't that hard, but it can be a little        |
+  |                       tedious. We will eventually have an online editor to save       |
+  |                       everybody this trouble, and generate these files automatically, |
+  |                       but in the meantime, here's what a item file looks like,        |
+  |                       just in case you want to craft it yourself. (Of course, remove  |
+  |                       the decorative border. :P)                                      |
+  |                                                                                       |
+  |                       Also, doing this might imply that you assign your own ID number |
+  |                       to your item. This is easy. If your zone number is 5, then your |
+  |                       first item will be number 500. Then 501, then 502, etc.         |
+  |                       The example listed below is a Blossom Dagger, the 17th item in  |
+  |                       zone 15, thus it is item number 1516.                           |
+  +---------------------------------------------------------------------------------------+
+
+  +------------------------------------------------------------------------------+
+  | ITEM: 1516                                                                   |
+  | NAME: #MBlossom#N Dagger                                                     |
+  | LNAME: a #Mblossom#N dagger                                                  |
+  | GDESC: A deep purple blossom dagger is lying here.                           |
+  | LEVEL: 80                                                                    |
+  | STATS: 14 14 0 0 0 0 0                                                       |
+  | SREQS: 80 180 80 0 0                                                         |
+  | CLASS: Th As Ra Rg Sb Mc                                                     |
+  | PLACE: Weapon                                                                |
+  | FLAGS: STAB                                                                  |
+  | WORTH: 250000                                                                |
+  | BEGIN                                                                        |
+  | A #Mdeep purple#N blossom dagger. This weapon is utterly flawless. It is     |
+  | light as a daisy, sharp as a razor, and tough as nails. Its beauty is        |
+  | equally as splendid. To look upon its unmarked round and supple double-edged |
+  | blade almost takes your breath away. Something that this dagger is certainly |
+  | capable of doing in more ways than one.                                      |
+  | END                                                                          |
+  +------------------------------------------------------------------------------+

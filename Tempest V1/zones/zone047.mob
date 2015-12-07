@@ -1,0 +1,25 @@
+Zone 47
+Mobile Types = 1
+
+4700 Swamp Rat
+Rat
+Swamp Rat
+BEGIN
+A mangy looking rat that's larger than most glares back at you with baleful,
+oily black eyes. It doesn't appear aggressive.
+END
+Level 3
+HP/MN = 400 0
+Stats = 8 8 7 4 4
+WStats = 20 15 40 6
+Exp = 3000
+Gold = 15
+Gender = male
+Allign = 0
+Speed = 0
+ACT [me nibbles at its mangy fur.] 500
+ACT [me skitters across the fallen branches on the water.] 1000
+ACT [me sits up and sniffs the air.] 700
+[End]
+
+-End- 

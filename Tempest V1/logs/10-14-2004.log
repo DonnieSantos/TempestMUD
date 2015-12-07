@@ -1,0 +1,10 @@
+[13:53:4 SYSTEM                   ] Tempest Server Started.
+[13:53:18 SYSTEM                  ] 127.0.0.1 connected to server.
+[13:53:20 127.0.0.1 LOGIN         ] (VOID)  'Genevieve
+[13:53:23 127.0.0.1 LOGIN         ] (VOID) Genevieve
+[13:53:23 127.0.0.1 LOGIN         ] (VOID) genna
+[13:53:23 127.0.0.1 Genevieve     ] (1563) Entered the world.
+[13:53:28 127.0.0.1 Genevieve     ] (1563) kill orchid
+[13:53:38 127.0.0.1 Genevieve     ] (1563) restore gen
+[13:53:53 127.0.0.1 Genevieve     ] (1563) 
+[13:53:54 127.0.0.1 Genevieve     ] (1563) quit

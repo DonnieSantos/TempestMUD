@@ -1,0 +1,41 @@
+[0:19:12 SYSTEM                   ] 192.168.1.1 connected to server.
+[0:19:13 SYSTEM                   ] 68.170.210.116 connected to server.
+[0:19:13 192.168.1.1 LOGIN        ] (VOID)  'g
+[0:19:14 68.170.210.116 LOGIN     ] (VOID) Aristal
+[0:19:14 192.168.1.1 LOGIN        ] (VOID) Genevieve
+[0:19:15 68.170.210.116 LOGIN     ] (VOID) chagrin
+[0:19:15 68.170.210.116 Aristal   ] (100) Entered the world.
+[0:19:15 192.168.1.1 LOGIN        ] (VOID) genna
+[0:19:16 192.168.1.1 Genevieve    ] (100) Entered the world.
+[0:19:17 192.168.1.1 Genevieve    ] (100) l
+[0:19:18 192.168.1.1 Genevieve    ] (100) say Watch
+[0:19:22 68.170.210.116 Aristal   ] (100) say hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+[0:19:24 192.168.1.1 Genevieve    ] (100) say kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[0:19:27 192.168.1.1 Genevieve    ] (100) say Now watch this
+[0:19:28 68.170.210.116 Aristal   ] (100) say Ok
+[0:19:41 192.168.1.1 Genevieve    ] (100) say kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk     kkkkkkkkkkkkk kkkkkkkkkkkkkk             kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk       kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+[0:19:57 192.168.1.1 Genevieve    ] (100) say Trust me you won't get that behavior if you write it from scratch. =P
+[0:20:0 192.168.1.1 Genevieve     ] (100) say It's really fucken complex
+[0:20:20 192.168.1.1 Genevieve    ] (100) say Because of the invisible characters and stuff.
+[0:20:43 68.170.210.116 Aristal   ] (100) say Well give it a try
+[0:20:49 192.168.1.1 Genevieve    ] (100) say One sec
+[0:20:52 SYSTEM                   ] 192.168.1.1 Genevieve went linkdead in-game.
+[0:21:4 68.170.210.116 Aristal    ] (100) quit
+[0:21:4 SYSTEM                    ] 68.170.210.116 Aristal quit the game.
+[0:22:52 SYSTEM                   ] 192.168.1.1 Genevieve dropped from the game.
+[0:49:18 SYSTEM                   ] 68.170.210.116 connected to server.
+[0:49:19 68.170.210.116 LOGIN     ] (VOID) Aristal
+[0:49:19 68.170.210.116 LOGIN     ] (VOID) chagrin
+[0:49:19 68.170.210.116 Aristal   ] (100) Entered the world.
+[0:49:23 68.170.210.116 Aristal   ] (100) say haha
+[0:49:24 68.170.210.116 Aristal   ] (100) quit
+[0:49:24 SYSTEM                   ] 68.170.210.116 Aristal quit the game.
+[15:0:14 SYSTEM                   ] 68.170.210.116 connected to server.
+[15:0:15 68.170.210.116 LOGIN     ] (VOID) Aristal
+[15:0:16 68.170.210.116 LOGIN     ] (VOID) chagrin
+[15:0:16 68.170.210.116 Aristal   ] (100) Entered the world.
+[15:0:17 68.170.210.116 Aristal   ] (100) write TEst
+[15:0:24 68.170.210.116 Aristal   ] (100) ::exit
+[15:1:59 68.170.210.116 Aristal   ] (100) quit
+[15:1:59 SYSTEM                   ] 68.170.210.116 Aristal quit the game.
+[22:50:7 SYSTEM                   ] Tempest Server Started.

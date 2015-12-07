@@ -1,0 +1,165 @@
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                                Help Menu                                |
+  |                               -----------                               |
+  |  Type 'help <topic>' for detailed information on any command or topic.  |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | say       (') : say <text>         | Movement    : n e s w u d          |
+  | emote     (:) : me <text>          | Stats       : stat / score         |
+  | tell      (") : tell <name> <text> | Look        : look / look <target> |
+  | whisper   (_) : whis <name> <text> | Player List : who                  |
+  | yell      (+) : yell <text>        | Player Info : finger <name>        |
+  | clantell  (;) : ct <text>          | Game Info   : info                 |
+  | grouptell (=) : gt <text>          | Credits     : credits              |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |    VARIOUS CHARACTER COMMANDS:     |         ITEMS & EQUIPMENT:         |
+  |   -----------------------------    |        --------------------        |
+  | Kill, Attack, Assist, Flee, Wimp   | Equipment, Inventory, Wear, Remove |
+  | Sit, Stand, Rest, Sleep, Consider  | Wield, Hold, Grab, Use, Count, Get |
+  | Group, Ungroup, Follow, Ditch      | Give, Put, Drop, Sacrifice, Recite |
+  | Learn, Unlearn, Teach, Exits       | Read, Write, Buy, Sell, Pull, Play |
+  | Weather, Title, Prename, Auction   | Open, Close, Eat, Drink, Quaff     |
+  |                                    | Fill, Empty, Pour, Examine, Donate |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |   Other Suggested Help Topics:     | Built in Aliases  : alias <a1>     |
+  |  ------------------------------    | Multiple Commands : cmd1;;cmd2     |
+  |   CLASSES, SKILLS, SPELLS          | Repeat Command    : (!) or (\)     |
+  |   LEGENDS, QUESTS, INTERACTION     | Current Game Date : time / date    |
+  |   CLANS, RELIGIONS, IMMORTALS      | Clear Screen      : clear          |
+  |   LEVELS, STATS, GROUPING          | Resize Screen     : resize <size>  |
+  |   ALIGNMENT, COLORS, SOCIALS       | Toggle Options    : toggle         |
+  |   PLANS, DESCRIPTIONS, AUCTION     | Save Character    : save           |
+  |   POLICY, ROLEPLAYING, REGISTER    | Quit Game         : quit           |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |               NPC & Mobile Interaction              |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | You can talk to Mobiles that are considered NPCs.   |
+  | To do so, just speak aloud (with say) a question    |
+  | or statement, and include the NPC's name.           |
+  |                                                     |
+  | Example:  [say Harlan, tell me about skills.]       |
+  |                                                     |
+  | There are many different types of NPCs, such as     |
+  | Bards, Skillmasters, Spellmasters, etc.  Each type  |
+  | of NPC can help you learn about different aspects   |
+  | of the game.  Some may even send you on quests and  |
+  | help you attain legend marks.  Try talking to as    |
+  | many NPCs as possible to learn about new things!    |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                       Skills                        |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | The skills you may learn are, for the most part,    |
+  | dicated by your class. It may be possible in some   |
+  | cases to learn skills not meant for your class, but |
+  | that would require either divine intervention, or   |
+  | a severely determined student of multiple arts.     |
+  |                                                     |
+  | The best way to find out which skills you can learn |
+  | and what their requirements are is to talk to a     |
+  | Skillmaster NPC.  Every major city has one, so find |
+  | them and speak with them about skills.              |
+  |                                                     |
+  | The only way to find out about the skills of other  |
+  | classes is to speak with a human player of that     |
+  | class, and they can tell you about it.              |
+  |                                                     |
+  | To list your current skills, type 'skills'.         |
+  |                                                     |
+  | To use a skill, just type in the name of the skill. |
+  |                                                     |
+  | If nothing happens, it's most likely a passive      |
+  | skill, which means it works automatically. Consult  |
+  | A Skillmaster or player if you are unsure of how    |
+  | a particular skill works.                           |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                       Spells                        |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | The spells you may learn are, for the most part,    |
+  | dicated by your class. It may be possible in some   |
+  | cases to learn spells not meant for your class, but |
+  | that would require either divine intervention, or   |
+  | a severely determined student of multiple arts.     |
+  |                                                     |
+  | The best way to find out which spells you can learn |
+  | and what their requirements are is to talk to a     |
+  | Spellmaster NPC.  Every major city has one, so find |
+  | them and speak with them about spells.              |
+  |                                                     |
+  | The only way to find out about the spells of other  |
+  | classes is to speak with a human player of that     |
+  | class, and they can tell you about it.              |
+  |                                                     |
+  | To list your current spells, type 'spells'.         |
+  |                                                     |
+  | To use a spell, type 'cast <spell name>'.           |
+  |                                                     |
+  | There are different types of spells, so not all     |
+  | spells can be cast on all things. It's usually      |
+  | obvious by the name whether the spell requires a    |
+  | target, but if you are not sure, ask a Spellmaster  |
+  | or player about how to use that particular spell.   |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                       Classes                       |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | Your class determines which skills and spells you   |
+  | may receive, and the type of equipment you can use. |
+  | It also determines your natural health and mana.    |
+  |                                                     |
+  | To view a full list of classes, type 'classes'.     |
+  |                                                     |
+  | For information on one class, type 'help <class>'.  |
+  |                                                     |
+  | You must start as a Warrior, Thief, Cleric or Mage. |
+  | Upon reaching the 10th level, you have the option   |
+  | to choose a specialized class, by talking to one    |
+  | who is already of that class, and will sponsor you. |
+  |                                                     |
+  | In addition to this, upon reaching the 50th level,  |
+  | you have the option of changing your class to one   |
+  | of the special classes reserved for a certain       |
+  | alignment. All class changes are optional.          |
+  |                                                     |
+  | For detailed information, type 'help alignment'     |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+
+
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  |                      Alignment                      |
+  +-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+
+  | You are rated as aligned on a scale of 0-100, for   |
+  | which lower values indicate a propensity for the    |
+  | dark side, and higher values for the light. A value |
+  | of 50 would be perfectly neutral.                   |
+  |                                                     |
+  | Those who are level 50 or higher and of definitive  |
+  | alignment (non-neutral) may optionally change their |
+  | class to one of the special aligned classes. For    |
+  | example, a Knight may shift to the Paladin or       |
+  | Anti-Paladin classes. Like any class change, this   |
+  | is optional, and requires that somebody of the new  |
+  | class must sponsor and mentor you.                  |
+  |                                                     |
+  |     Class          Light       Dark                 |
+  |     -----------    --------    ------------         |
+  |     Knight         Paladin     Anti-Paladin         |
+  |     Berserker      Crusader    Death Knight         |
+  |     Assassin       Ranger      Shadowblade          |
+  |     Rogue          Merchant    Mercenary            |
+  |     Druid          Priest      Dark Cleric          |
+  |     Monk           Healer      Alchemist            |
+  |     Wizard         Sorcerer    Warlock              |
+  |     Illusionist    Summoner    Shapeshifter         |
+  +-----------------------------------------------------+

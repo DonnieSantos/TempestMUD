@@ -1,0 +1,55 @@
+NAME: Genso
+PASSWORD: genjuro
+GENDER: male
+CLASS: Assassin
+HOMETOWN: #mVolaris#N
+CLAN: #rBloody Rose#N
+RELIGION: #BGolgotha#N
+TITLE: the #GDragon #NAssassin
+PRENAME: #yYoung #rMaster #N
+LEVEL: 35
+ROOM_LOGGED: 100
+SCREEN_SIZE: 35
+TOG_ANSI: 0
+TOG_COLOR: 1
+TOG_FOLLOW: 1
+TOG_ASSIST: 0
+MAX_HP: 734
+CURRENT_HP: 734
+MAX_MANA: 456
+CURRENT_MANA: 456
+MAX_MOVE: 913
+CURRENT_MOVE: 913
+EXPERIENCE: 136643
+STR: 70
+DEX: 50
+CON: 30
+INT: 15
+WIS: 20
+GOLD: 0
+DPOINTS: 0
+SKILL: 1 43 241
+SKILL: 2 1 8
+SKILL: 3 0 0
+SKILL: 7 19 98
+SKILL: 8 0 0
+SKILL: 11 0 0
+SPELL: 1 0 1
+SPELL: 6 100 0
+-END- 
+
++DESCRIPTION+
+Genso is standing here, looking for program bugs.
++END+
+
++PLAN+
+
++END+
+
+Aliases = 0
+
+Schedule Size = 0
+
+Legend Size = 0
+
+[END]

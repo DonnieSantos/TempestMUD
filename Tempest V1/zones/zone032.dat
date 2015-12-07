@@ -1,0 +1,16 @@
+Zone Name = #b#nP#baladine #nL#beviatha#N
+Zone Number = 32
+Zone Size = 1
+Repop Rate = 100
+Mobiles = 0
+Terrain = Flat Terrain Normal
+Scheme = Blue
+
+ROOM 3200
+TERRAIN: Flat Terrain Normal
+BEGIN
+#bPaladine Leviatha#N
+First Room.
+END
+
+-End- 

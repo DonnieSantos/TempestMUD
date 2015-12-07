@@ -1,0 +1,30 @@
+[03:18:48 68.170.210.116 LOGIN    ] (VOID) 68.170.210.116 connected to server.
+[03:18:50 SYSTEM                  ] 68.170.210.116 Account Fhirin connected to server.
+[03:18:50 SYSTEM                  ] 68.170.210.116 Aristal entering game.
+[03:18:51 68.170.210.116 Aristal  ] (327) who
+[03:18:52 68.170.210.116 Aristal  ] (327) read board
+[03:18:55 68.170.210.116 Aristal  ] (327) l
+[03:18:56 68.170.210.116 Aristal  ] (327) goto 1
+[03:18:57 68.170.210.116 Aristal  ] (1) read board
+[03:19:06 68.170.210.116 Aristal  ] (1) quit
+[03:19:06 SYSTEM                  ] 68.170.210.116 Aristal has quit the game.
+[03:19:06 SYSTEM                  ] 68.170.210.116 Account Fhirin has quit the game.
+[13:08:55 143.105.8.12 LOGIN      ] (VOID) 143.105.8.12 connected to server.
+[13:08:57 SYSTEM                  ] 143.105.8.12 Account Fhirin connected to server.
+[13:08:58 SYSTEM                  ] 143.105.8.12 Aristal entering game.
+[13:08:58 143.105.8.12 Aristal    ] (1) who
+[13:08:59 143.105.8.12 Aristal    ] (1) users
+[13:09:00 143.105.8.12 Aristal    ] (1) read board
+[13:09:16 143.105.8.12 Aristal    ] (1) quit
+[13:09:16 SYSTEM                  ] 143.105.8.12 Aristal has quit the game.
+[13:09:16 SYSTEM                  ] 143.105.8.12 Account Fhirin has quit the game.
+[14:53:09 64.157.38.195 LOGIN     ] (VOID) 64.157.38.195 connected to server.
+[14:53:13 SYSTEM                  ] 64.157.38.195 Account Christo connected to server.
+[14:53:13 SYSTEM                  ] 64.157.38.195 Kiras entering game.
+[14:53:16 64.157.38.195 Kiras     ] (469) n
+[14:53:24 64.157.38.195 Kiras     ] (470) wh
+[14:53:48 64.157.38.195 Kiras     ] (470) l lizard
+[14:54:27 64.157.38.195 Kiras     ] (470) l priest
+[14:54:55 64.157.38.195 Kiras     ] (470) quit
+[14:54:55 SYSTEM                  ] 64.157.38.195 Kiras has quit the game.
+[14:54:56 SYSTEM                  ] 64.157.38.195 Account Christo has quit the game.

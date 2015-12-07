@@ -1,0 +1,15 @@
+
+ -Mobile Interaction.
+ -Cycle Efficiency.
+
+ -Destroy all duplicate items at boot up.
+ -Go over the algorithms for equipping multiple-position items.
+
+ -Zone Alarm.
+
+ -Inter-world checks.
+
+ -Add Wield Command.
+ -Add Left Handed Wield.
+
+ -DAMAGE TYPES!!! (And file processing to read default type)

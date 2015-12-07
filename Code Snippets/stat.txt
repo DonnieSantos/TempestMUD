@@ -1,0 +1,76 @@
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
+
+  public String side(int line)
+
+  {
+    // Finish this later when effects are in.
+
+    return "";
+    //if (getNumEffects() < line) return "";
+    //if (getNumEffects() == 0) return "";
+    //if (line == 0) return "-=-=-=-=-+";
+    //if (line == 15) return "#n-=-=-=-=-+#N";
+  }
+
+  public String stat()
+
+  {
+    String nm = xchars(30-(int)name.length()," ");
+    String hm = xchars(20-visibleSize(hometown)," ");
+    String pf = xchars(20-(int)profession.length()," ") + tenSpace(level,2);
+    String stSTR = tenSpace(STR,2);  String stHR = tenSpace(HR,2);
+    String stDEX = tenSpace(DEX,2);  String stDR = tenSpace(DR,2);
+    String stCON = tenSpace(CON,2);  String stAC = tenSpace(AC,3);
+    String stINT = tenSpace(INT,2);  String stMR = tenSpace(MR,2);
+    String stWIS = tenSpace(WIS,2);
+    String xs = tenSpace(currentHP,3) + tenSpace(maxHP,3) + " ";
+    String ys = tenSpace(currentMN,3) + tenSpace(maxMN,3) + " ";
+    String zs = tenSpace(currentMV,3) + tenSpace(maxMV,3) + " ";
+    String exp  = expCommas("" + experience);
+    String expn = expCommas("" + expNeeded);
+    String gld  = expCommas("" + gold);
+    String es = xchars(11-exp.length()," ");
+    String ns = xchars(11-expn.length()," ");
+    String gs = xchars(11-gld.length()," ");
+
+    String ST = "  #n+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+";
+    ST += side(0) + "#n\r\n  |  #C" + name + "#N" + nm + "#n+-------------------+";
+    ST += "  |#N" + side(1) + "\r\n  #n|  #NLevel " + level + " " + profession + pf;
+    ST += "#n[#N     STR - " + stSTR + STR + "     #n]  |#N" + side(2) + "#n\r\n";
+    ST += "  |  #NHometown#n:#N " + hometown + hm + "#n[     #NDEX - " + stDEX;
+    ST += DEX + "     #n]  |#N" + side(3) + "#n\r\n  |                            ";
+    ST += "    [     #NCON - " + stCON + CON + "     #n]  |#N" + side(4) + "#n\r\n";
+    ST += "  |     +--------------------+     [     #NINT - " + stINT + INT + "   ";
+    ST += "  #n]  |#N" + side(5) + "#n\r\n  |     [#N Health = #g" + currentHP;
+    ST += "#N/#G" + maxHP + xs + "#n]     [     #NWIS - " + stWIS + WIS + "     #n";
+    ST += side(6) + "]  |#n\r\n  |     [   #NMana = #m" + currentMN + "#N/#M";
+    ST += maxMN + ys + "#n]     +-------------------+  |#N" + side(7) + "#n\r\n";
+    ST += "  |     [   #NMove = #b" + currentMV + "#N/#B" + maxMV + zs + "#n]   ";
+    ST += "  [    #NHitroll#n:#N  " + stHR + HR + "  #n]  |#N" + side(8);
+    ST += "#n\r\n  |     +--------------------+     [    #NDamroll#n:#N  " + stDR;
+    ST += DR + "  #n]  |#N" + side(9) + "#n\r\n  |                              ";
+    ST += "  [ #NArmorclass#n:#N " + stAC + AC + "  #n]  |#N" + side(10) + "#n\r\n";
+    ST += "  |  +--------------------------+  [ #NResistance#n:#N  " + stMR + MR;
+    ST += "  #n]  |#N" + side(11) + "#n\r\n  |  [ #NExperience = #r" + es + exp;
+    ST += " #n]  +-------------------+  |#N" + side(12) + "#n\r\n  |  [ #NNext";
+    ST += " Level = #R" + ns + expn + " #n]  [ #NGold#n: #y" + gs + gld + " #n]";
+    ST += "  |#N" + side(13) + "#n\r\n  |  +--------------------------+";
+    ST += "  +-------------------+  |#N" + side(14) + "#n\r\n  ";
+    ST += "+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-+#N" + side(15);
+
+    if (dPoints > 0)
+
+    {
+      String extra = tenSpace(dPoints,2);
+      ST += "\r\n  #n+-------------------------------------------------------+";
+      ST += "\r\n  | #NYou have #r" + dPoints + " #Nstat points to spend. ";
+      ST += extra + "#N(Usage: #R[#Nadd STR#R]#N) #n|";
+      ST += "\r\n  +-------------------------------------------------------+#N";
+    }
+
+    return ST;
+  }
+
+  //////////////////////////////////////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////////
