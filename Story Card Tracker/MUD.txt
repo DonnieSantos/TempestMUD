@@ -1,0 +1,30 @@
+
+ Framework
+   1.) Server Architecture
+   2.) Data Framework
+   3.) Client Interfaces
+   4.) Commands
+   5.) Time Manager
+   6.) Save Thread
+   7.) Logging Thread
+
+ Features
+   1.) Main Menu
+   2.) Mobility
+   3.) Communication
+   4.) Character Customization
+   5.) Combat
+   6.) Clans
+   7.) Religion
+   8.) Legends
+   9.) Builders
+   10.) Skills
+   11.) Spells
+   12.) Effects
+   13.) Banks
+   14.) Boards
+   15.) Mail
+   16.) Game Configuration
+   17.) World Animation
+   18.) World Interaction
+   19.) Socials

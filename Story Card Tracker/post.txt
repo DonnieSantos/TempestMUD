@@ -1,0 +1,3 @@
+postalOut.postal=postal.text;
+
+postalOut.sendAndLoad(passingurl, postalOut, "GET");

@@ -1,0 +1,41 @@
+var G = 0.50;
+
+function drawLine(movie, x1, y1, x2, y2, color, thickness, alpha)
+{
+  movie.lineStyle(thickness, color, alpha)
+  movie.moveTo(x1, y1);
+  movie.lineTo(x2, y2);
+}
+
+function drawRectangle(movie, x1, y1, x2, y2, color, thickness, alpha)
+{
+  movie.lineStyle(thickness, color, alpha);
+  movie.moveTo(x1, y1);
+  movie.lineTo(x1, y2);
+  movie.lineTo(x2, y2);
+  movie.lineTo(x2, y1);
+  movie.lineTo(x1, y1);
+}
+
+createEmptyMovieClip("StoryCard", 1);
+createTextField("SomeText", 5, 10, 10, 150, 30);
+
+this.attachMovie("x", "x", 0, {_x:0, _y:0});
+this.attachMovie("z", "z", 1, {_x:0, _y:0});
+
+var ruler = 92*G;
+drawRectangle(StoryCard, 0, 0, 960*G, 672*G, 0x000000, 2, 100);
+drawLine(StoryCard, 0, ruler, 960*G, ruler, 0xff0000, 3, 100);
+
+for (var i=0; i<9; i++)
+{
+  ruler += 58*G;
+  drawLine(StoryCard, 0, ruler, 960*G, ruler, 0x0000ff, 2, 100);
+}
+
+SomeText.text = "Here's some text";
+var emphatic:TextFormat = new TextFormat();
+emphatic.bold = true;
+emphatic.size = 16;
+emphatic.font = "Georgia";
+SomeText.setTextFormat(emphatic);

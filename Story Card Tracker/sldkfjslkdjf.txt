@@ -1,0 +1,77 @@
+<?php session_start(); ?>
+
+<HTML>
+<?php require("header.html"); ?>
+<?php session_register("boxCount"); ?>
+<?php session_register("validate"); ?>
+<?php session_register("pwderror"); ?>
+
+<BODY MS_POSITIONING="GridLayout" background="bg.jpg">
+<script type="text/javascript">document.write(GetHeader());</script>
+
+  <?php
+
+    $conn = Connect();
+
+    if ($_POST["Logout"]) $_SESSION["validate"] = "false";
+    if ($_POST["Logout"]) $_SESSION["pwderror"] = "false";
+    if ($_SESSION["validate"] != "true") ValidatePassword();
+    if ($_SESSION["validate"] != "true") echo GetLoginForm();
+
+    if ($_SESSION["validate"] == "true")
+
+    {
+      if ($_POST["btnSubmitScores"] == "Submit Scores")
+
+      {
+        if ($_POST["txtChangeRound"] == "")
+          SubmitData();
+        else
+          SubmitDataWithRound();
+      }
+
+      echo GetCheckboxEntryForm();
+      echo GetTextboxEntryForm();
+      echo GetNavbar(5);
+    }
+
+    mysql_close($conn);
+
+  ?>
+
+</BODY>
+</HTML>
+
+CREATE TABLE Cards (
+    CardId       INT UNSIGNED NOT NULL AUTO_INCREMENT,
+    CardName     VARCHAR(200) NOT NULL,
+    CardDesc     TEXT NOT NULL,
+    CardOwner    VARCHAR(20) NOT NULL,
+    CardType     VARCHAR(20) NOT NULL,
+    CardCategory VARCHAR(20) NOT NULL,
+    CardStatus   VARCHAR(20) NOT NULL,
+    CardCreated  DATE NOT NULL,
+    CardModified DATE NOT NULL,
+    PRIMARY KEY (CardId)
+);
+
+INSERT INTO Cards
+ (CardId,
+  CardName,
+  CardDesc,
+  CardOwner,
+  CardType,
+  CardCategory,
+  CardStatus,
+  CardCreated,
+  CardModified)
+VALUES
+ (0,
+  "First Card",
+  "...",
+  "Donnie",
+  "Framework",
+  "Framework",
+  "Not Started",
+  NOW(),
+  NOW())
